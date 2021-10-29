@@ -1,7 +1,7 @@
 ---
-title: About
+title: О нас
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 
