@@ -17,7 +17,9 @@ image:
 ---
 
 
-![https://static.alphachan.tk/rimi.png](https://static.alphachan.tk/rimi.png)
+[]: http://static.alphachan.tk/Chaos;Gate.pdf	"Chaos;Gate"
+
+
 
 # **Предисловие**
 
