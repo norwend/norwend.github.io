@@ -17,7 +17,7 @@ image:
 ---
 
 
-![https://static.alphachan.tk/rimi.png](https://static.alphachan.tk/rimi.png)
+![http://static.alphachan.tk/rimi.png](http://static.alphachan.tk/rimi.png)
 
 # **Предисловие**
 
