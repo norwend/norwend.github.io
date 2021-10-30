@@ -20,7 +20,7 @@ _no_pages_branch=false
 
 _backup_dir="$(mktemp -d)"
 
-_baseurl="https://pollux300.github.io"
+_baseurl="https://pollux300.github.io/"
 
 help() {
   echo "Build, test and then deploy the site content to 'origin/<pages_branch>'"
@@ -59,6 +59,7 @@ test() {
   bundle exec htmlproofer \
     --disable-external \
     --check-html \
+    --internal-domains https://pollux300.github.io
     --allow_hash_href \
     "$SITE_DIR"
 }
