@@ -17,7 +17,7 @@ image:
 ---
 
 
-[]: http://static.alphachan.tk/Chaos;Gate.pdf	"Chaos;Gate"
+[http://static.alphachan.tk/Chaos;Gate.pdf]: http://static.alphachan.tk/Chaos;Gate.pdf
 
 
 
