@@ -7,7 +7,7 @@ tags: [Robotics;Notes]
 math: true
 mermaid: true
 image:
-  src: /roboticsbanner.jpg
+  src: ../roboticsbanner.jpg
   #width: 300
   height: 100
 ---
