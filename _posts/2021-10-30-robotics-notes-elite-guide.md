@@ -65,23 +65,29 @@ image:
 Затем откройте приложение **Twipo** и ответьте на твипы в следующем порядке:
 
 > **AKIPOPOPOOON: Because he was a spoiled brat**
+>
 > Ответ: Was that the Red Comet?
 
 > **AKIPOPOPOOON Gonna go to tea time with Yamada from Japanese class**
+>
 > Ответ: Yamada is a nice guy
 
 > **AKIPOPOPOOON Vice Principal didn’t come. Didn’t see her again…**
+>
 > Ответ: Maybe send a letter?
 
 > **AKIPOPOPOOON @UMISHO You at the club room?**
+>
 > Ответ: I am
 
 > **AKIPOPOPOON Gonna go to the club room! Storm and Stress! Energy Explosion!!!**
+>
 > Ответ: I can see you really screaming
 
 Позже в школе у вас будет схватка с Акихо в **Kill-Ballad**. Её ник в **KB**– **AKI-PO**. После этого, вечером, вам нужно будет ответить на ещё один твип от Акихо:
 
 > **AKIPOPOPOOON Is This Youth?**
+>
 > Ответ: If it’s KB I can pull an all-nighter
 
 Спустя какое-то время, вы окажетесь на заброшенном аэропорту Танегашимы. Оказавшись в ангаре, откройте **IRUO.** и получите ещё один геотэг:
@@ -91,14 +97,19 @@ image:
 Снаружи ангара можно найти ещё два геотэга, получаемых автоматически в процессе игры:
 
 > *GEOTAG No. 084: Central Tanegashima High Robot Club Hangar*
+>
 > *GEOTAG No. 085: Central Tanegashima High Robot Club Equipment*
+>
 > *Automatic Story Geotag: GEOTAG No. 114: Lonsow Minamitane-cho Branch*
 
 Оказавшись у терминала аэропорта, вас будет ждать ещё четыре геотэга:
 
 > *GEOTAG No: 086: Old Tanegashima Airport Terminal*
+>
 > *GEOTAG No: 087: From Airport Administration Office*
+>
 > *GEOTAG No. 055: MI361X*
+>
 > *GEOTAG No. 054: MA808X*
 
 ## **6.11.2019 – Вторник**
@@ -106,22 +117,29 @@ image:
 Вы попадёте в **магазинчик Ирей** (*Irei General Store*), где, находясь снаружи, вам нужно будет открыть ещё два геотэга и ответить на твип:
 
 > *GEOTAG No. 104: Irei General Store*
+>
 > *GEOTAG No. 105: Beverage Corner*
 
 > **AKIPOPOPOOON Started watching Faibird again and got hooked and watched 10 eps. Look at the time!**
+>
 > Ответ: I told you not to stay up late. Gotta follow that rule
 
 Внутри магазина будут ещё пять геотэгов:
 
 > *GEOTAG No. 007: HUG HUGR-03 HAYATE*
+>
 > *GEOTAG No. 109: Brand New! Passion Fruit Bun!*
+>
 > *GEOTAG No. 108: Benny-chan Card*
+>
 > *GEOTAG No. 106: Skal White*
+>
 > *GEOTAG No. 107: Fruit Sour Melon*
 
 Находясь на лужайке у кружка возле школы, ответьте на твип Акихо:
 
 > **AKIPOPOPOOON: OHNOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO**
+>
 > Ответ: Forget the club room key?
 
 ## 6.12.2019 – Среда

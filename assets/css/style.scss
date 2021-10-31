@@ -10,3 +10,56 @@ $tab-count: {{ site.tabs | size | plus: 2 }}; // plus 1 for home tab
 @import "{{ site.theme }}";
 
 /* append your custom style below */
+/*Затемнение */
+.overflow{
+    background: rgba(0, 0, 0, 0.7);
+    position:fixed;
+    top: 0px;bottom: 0px;
+    left: 0px;right: 0px;
+    z-index:100;
+    display:none;
+}
+/* модальное окно */
+.popup{
+    position:absolute;
+    z-index:101;
+    width: auto;
+    min-height: 300px;
+    //margin-left: -300px;
+    top: 100px;
+    align: center;
+    display:none;
+}
+.popup_title{
+    font-size: 24px;
+    text-align:center;
+    padding: 50px 15px 0px 15px;
+}
+.popup .close{
+    position:absolute;
+    top: 10px;
+    right: 10px;
+    display:block;
+    width: 17px;
+    height: 17px;
+    opacity: 0.5;
+    background: url(../img/close.png) no-repeat center;
+    -webkit-transition:opacity 0.5s;
+    -moz-transition:opacity 0.5s;
+    transition:opacity 0.5s;
+}
+.popup .close:hover{
+    opacity: 0.8;
+}
+ 
+ 
+ 
+@media screen and (max-width: 650px) {
+    .popup{
+        width: auto;
+        margin-left: 0px;
+        top: 40px;
+        left: 10px;
+        right: 10px;
+    }
+}
