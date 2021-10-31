@@ -11,54 +11,52 @@ $tab-count: {{ site.tabs | size | plus: 2 }}; // plus 1 for home tab
 
 /* append your custom style below */
 
-#parent_popup {
-  background-color: rgba(0, 0, 0, 0.8);
-  display: none;
-  position: fixed;
-  z-index: 99999;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
+#bg_popup{
+background-color: rgba(0, 0, 0, 0.8);
+display: none;
+position: fixed;
+z-index: 99999;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
 }
-#popup { 
-  background: #fff;
-    width: 520px;
-    margin: 10% auto;
-  padding: 5px 20px 13px 20px;
-  border: 0px solid #ddd;
-  position: relative;
-  /*--CSS3 Закругленные углы--*/
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  border-radius: 10px;
+  
+#popup {
+background: #fff;
+width: 520px;
+margin: 25% auto;
+padding: 5px 20px 13px 20px;
+border: 2px solid #1BA600;
+position: relative;
+-webkit-box-shadow: 0px 0px 20px #000;
+-moz-box-shadow: 0px 0px 20px #000;
+box-shadow: 0px 0px 20px #000;
+-webkit-border-radius: 15px;
+-moz-border-radius: 15px;
+border-radius: 15px;
 }
-/* кнопка закрытия */
-.close {
-    background-color: rgba(0, 0, 0, 0.8);
-  border: 2px solid #ccc;
-    height: 24px;
-    line-height: 24px;
-    position: absolute;
-    right: -24px;
-  cursor: pointer;
-    font-weight: bold;
-    text-align: center;
-    text-decoration: none;
-  color: rgba(255, 255, 255, 0.9);
-    font-size: 14px;
-    text-shadow: 0 -1px rgba(0, 0, 0, 0.9);
-    top: -24px;
-    width: 24px;
-  -webkit-border-radius: 15px;
-    -moz-border-radius: 15px;
-    -ms-border-radius: 15px;
-    -o-border-radius: 15px;
-    border-radius: 15px;
-  -moz-box-shadow: 1px 1px 3px #000;
-  -webkit-box-shadow: 1px 1px 3px #000;
-  box-shadow: 1px 1px 3px #000;
+  
+.close{
+display:block;
+position:absolute;
+top:-12px;
+right:5px;
+width:25px;
+height:25px;
+line-height:28px;
+color:#fff;
+background:#1BA600;
+cursor:pointer;
+-webkit-border-radius: 15px;
+-moz-border-radius: 15px;
+-ms-border-radius: 15px;
+-o-border-radius: 15px;
+border-radius: 15px;
+-moz-box-shadow: 1px 1px 3px #000;
+-webkit-box-shadow: 1px 1px 3px #000;
+box-shadow: 1px 1px 3px #000;
 }
 .close:hover {
-    background-color: rgba(0, 122, 200, 0.8);
-}
+background-color:#f30;
+} 
