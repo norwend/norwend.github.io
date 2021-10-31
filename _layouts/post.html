@@ -2,15 +2,16 @@
 layout: default
 # The posts' layout
 ---
-<script async src="/modal.js"></script>
-<div class="overflow">
-            <!-- Затемнение -->
-        </div>
-        <div class="popup" id="myPopup">
-            <a href="#" class="close"></a>
-            <a class="popup_title" href="#"><img src="/assets/img/banner.png" border="0" style="z-index: 102;"></a>
-            
-        </div>
+   <div id="parent_popup">
+  <div id="popup">
+<a href="https://alphachan.tk"><img src="assets/img/banner.png" width="238" style="border:0;" /></a>
+<a class="close" title="Закрыть" onclick="document.getElementById('parent_popup').style.display='none';">X</a>
+  </div>
+</div>
+<script type="text/javascript">
+  var delay_popup = 1500;
+  setTimeout("document.getElementById('parent_popup').style.display='block'", delay_popup);
+</script>
 {% include lang.html %}
 
 <div class="row">
