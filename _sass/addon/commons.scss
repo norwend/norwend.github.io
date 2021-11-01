@@ -28,6 +28,7 @@ html[mode=dark] {
 
   html[mode=light] {
     @include mode-toggle();
+
   }
 }
 
@@ -394,7 +395,8 @@ footer {
   word-spacing: 1px;
 
   a {
-    @extend %link-color;
+    //@extend %link-color;
+
     @extend %link-underline;
 
     &:not(:last-child) {
@@ -725,11 +727,10 @@ $sidebar-display: "sidebar-display";
   .site-title {
     a {
       @extend %clickable-transition;
-
+color: var(--sidebar-links);
       font-weight: 900;
       font-size: 1.5rem;
       letter-spacing: 0.5px;
-      color: rgba(234, 233, 233, 99%);
     }
   }
 
@@ -750,10 +751,11 @@ $sidebar-display: "sidebar-display";
     letter-spacing: 1px;
     display: table-cell;
     vertical-align: middle;
+    color: var(--sidebar-links);
   }
 
   .nav-link a {
-  color: #22ee22;
+  color: var(--sidebar-links);
   }
 
   .nav-item {
@@ -849,6 +851,7 @@ $sidebar-display: "sidebar-display";
     i {
       line-height: 1.75rem; // default line-height in body
       vertical-align: middle;
+      color: var(--sidebar-links);
     }
 
     #mode-toggle-wrapper {
@@ -923,7 +926,7 @@ $sidebar-display: "sidebar-display";
 
   #breadcrumb {
     font-size: 1rem;
-    color: white;
+    color: var(--breadcrumb-text);
     padding-left: 0.5rem;
 
     a:hover {

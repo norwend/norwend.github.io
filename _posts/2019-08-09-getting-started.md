@@ -1,7 +1,7 @@
 ---
 title: Getting Started
 author: Cotes Chung
-date: 2019-08-09 20:55:00 +0800
+date: 2021-11-01 20:55:00 +0300
 categories: [Blogging, Tutorial]
 tags: [getting started]
 pin: true
@@ -123,7 +123,7 @@ Now publish your Jekyll site by:
 1. Push any commit to remote to trigger the GitHub Actions workflow. Once the build is complete and successful, a new remote branch named `gh-pages` will appear to store the built site files.
 
 2. Browse to your repository on GitHub. Select the tab _Settings_, then click _Pages_ in the left navigation bar, and then in the section **Source** of _GitHub Pages_, select the `/(root)` directory of branch `gh-pages` as the [publishing source][pages-src]. Remember to click <kbd>Save</kbd> before leaving.
-  ![gh-pages-sources](/posts/20190809/gh-pages-sources.png){: width="850" height="153" }
+    ![gh-pages-sources](/posts/20190809/gh-pages-sources.png){: width="850" height="153" }
 
 3. Visit your website at the address indicated by GitHub.
 

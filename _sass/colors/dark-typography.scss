@@ -17,7 +17,8 @@
   --heading-color: #eeeeee;
   --blockquote-border-color: rgb(136, 136, 136);
   --blockquote-text-color: rgb(197, 197, 197);
-  --link-color: rgb(118, 228, 160);
+  --link-color: rgb(118, 230, 140);
+  --hover-link-color: #30a230;
   --link-underline-color: rgb(144, 255, 77);
   --button-bg: rgb(39, 40, 43);
   --btn-border-color: rgb(63, 65, 68);
@@ -35,6 +36,7 @@
   --sidebar-active-color: rgb(255 255 255 / 80%);
   --nav-cursor-color: rgb(183, 182, 182);
   --sidebar-btn-bg: rgb(197 196 196 / 20%);
+  --sidebar-links: var(--link-color);
 
   /* Topbar */
   --topbar-text-color: var(--text-color);
@@ -43,6 +45,7 @@
   --search-wrapper-border-color: rgb(34, 34, 39);
   --search-icon-color: rgb(200, 202, 205);
   --input-focus-border-color: rgb(212, 214, 215);
+  --breadcrumb-text: #eeeeee;
 
   /* Home page */
   --post-list-text-color: rgb(205, 206, 207);

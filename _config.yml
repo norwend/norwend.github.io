@@ -18,7 +18,7 @@ timezone: Europe/Moscow
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: '&#64;ch'                          # the main title
+title: '&#64ch'                          # the main title
 
 tagline: Сайт с контентом по серии игр Science Adventure   # it will display as the sub-title
 
@@ -28,23 +28,23 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://pollux300.github.io'
+url: 'https://alphachan.github.io'
 
 github:
-  username: pollux300             # change to your github username
+  username: https://discord.gg/cVMf2xD42d             # ссылка на дискорд
 
 twitter:
-  username: committee_agent_03            # change to your twitter username
+  username: https://2ch.hk/vn/res/576132.html            # ссылка на тред
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Хияджо Махо
-  email: hiyaji.maho@rambler.ru             # change to your email address
+  email: hiyajo.maho@rambler.ru             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/committee_agent_03      # change to your twitter homepage
-    - https://github.com/pollux300      # change to your github homepage
+    - https://discord.gg/cVMf2xD42d      # change to your twitter homepage
+    - https://2ch.hk/vn/res/576132.html      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username

@@ -6,20 +6,21 @@
   /* Framework color */
   --body-bg: #fafafa;
   --mask-bg: #c1c3c5;
-  --main-wrapper-bg: white;
+  --main-wrapper-bg: #fafafa;
   --main-border-color: #f3f3f3;
   --scrollbar-track-bg: rgba(0, 0, 0, 0.3);
   --scrollbar-thumb-bg: rgba(0, 0, 0, 0.3);
 
   /* Common color */
   --text-color: #34343c;
-  --text-muted-color: gray;
+  --text-muted-color: #44444c;
   --heading-color: black;
   --blockquote-border-color: #eee;
-  --blockquote-text-color: #9a9a9a;
-  --link-color: #2a408e;
-  --link-underline-color: #dee2e6;
-  --button-bg: #fff;
+  --blockquote-text-color: #3a3a3a;
+  --link-color: #05bb05a0;
+  --hover-color-link: #00cc00;
+  --link-underline-color: #2a8e40;
+  --button-bg: #eee;
   --btn-border-color: #e9ecef;
   --btn-backtotop-color: #686868;
   --btn-backtotop-border-color: #f1f1f1;
@@ -28,11 +29,12 @@
   --checkbox-checked-color: #07a8f7;
 
   /* Sidebar */
-  --sidebar-bg: #eeeeee;
-  --sidebar-muted-color: #a2a19f;
-  --sidebar-active-color: #424242;
-  --nav-cursor-color: #757575;
+  --sidebar-bg: #efefef;
+  --sidebar-muted-color: #333333;
+  --sidebar-active-color: #111111;
+  --nav-cursor-color: #454545;
   --sidebar-btn-bg: white;
+  --sidebar-links: #000000;
 
   /* Topbar */
   --topbar-text-color: rgb(78, 78, 78);
@@ -42,6 +44,7 @@
   --search-tag-bg: #f8f9fa;
   --search-icon-color: #c2c6cc;
   --input-focus-border-color: var(--btn-border-color);
+  --breadcrumb-text: #111111;
 
   /* Home page */
   --post-list-text-color: dimgray;

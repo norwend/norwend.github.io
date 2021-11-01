@@ -1,10 +1,10 @@
 ---
 title: Writing a New Post
 author: Cotes Chung
-date: 2019-08-08 14:10:00 +0800
+date: 2021-11-01 14:10:00 +0800
 categories: [Blogging, Tutorial]
 tags: [writing]
-render_with_liquid: false
+render_with_liquid: true
 ---
 
 ## Naming and Path
