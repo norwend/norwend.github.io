@@ -10,7 +10,7 @@ baseurl: ''
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: ru
+lang: ru-RU
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Europe/Moscow
@@ -23,12 +23,12 @@ title: '&#64ch'                          # the main title
 tagline: Сайт с контентом по серии игр Science Adventure   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Небольшой, удобный сайтик,
+  На котором изредка постится полезный или интересный
+  Контент по серии Science Adventure.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://alphachan.github.io'
+url: 'https://alphachan.tk'
 
 github:
   username: https://discord.gg/cVMf2xD42d             # ссылка на дискорд
