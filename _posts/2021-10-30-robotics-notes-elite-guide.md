@@ -12,7 +12,7 @@ image:
   height: 100
 ---
 
-**Учтите, что это полный гайд по прохождению игры на 100%!** Вам нужен этот гайд, если вы хотите пройти *Robotics;Notes ELITE* <ins>**И**</ins> получить все ачивки. Если вы хотите просто пройти игру, ничего не упустив, то вам нужен гайд по рутам, который можно найти [здесь]().
+**Учтите, что это полный гайд по прохождению игры на 100%!** Вам нужен этот гайд, если вы хотите пройти *Robotics;Notes ELITE* <ins>***и***</ins> получить все ачивки. Если вы хотите просто пройти игру, ничего не упустив, то вам нужен гайд по рутам, который можно найти [здесь]().
 
 # **Предисловие**
 
@@ -55,11 +55,15 @@ image:
 
 После окончания схватки, как только игра даст вам доступ к PhoneDroid (на экране будет сцена с Акихо), откройте **IRUO.** на **PokeCom.** Затем найдите следующие **геотэги**:
 
-> - *GEOTAG № 072: Robot Research Club*
-> - *GEOTAG № 073: Soccer Club Equipment Storage*
-> - *GEOTAG № 074: Volunteer Group*
-> - *GEOTAG № 075: Surf Group Equipment Storage*
-> - *GEOTAG № 001: Akiho Senomiya*
+> *GEOTAG № 072: Robot Research Club*
+>
+> *GEOTAG № 073: Soccer Club Equipment Storage*
+>
+> *GEOTAG № 074: Volunteer Group*
+>
+> *GEOTAG № 075: Surf Group Equipment Storage*
+>
+> *GEOTAG № 001: Akiho Senomiya*
 
 Затем откройте приложение **Twipo** и ответьте на твипы в следующем порядке:
 
@@ -115,9 +119,9 @@ image:
 
 Вы попадёте в **магазинчик Ирей** (*Irei General Store*), где, находясь снаружи, вам нужно будет открыть ещё два геотэга и ответить на твип:
 
-> *GEOTAG No. 104: Irei General Store*
+> *GEOTAG No. 104: Irei General Store**
 >
-> *GEOTAG No. 105: Beverage Corner*
+> **GEOTAG No. 105: Beverage Corner*
 
 > **AKIPOPOPOOON Started watching Faibird again and got hooked and watched 10 eps. Look at the time!**
 >
@@ -143,216 +147,250 @@ image:
 
 ## 6.12.2019 – Среда
 
+Всякий раз оказываясь в классе, не забывайте с помощью **IRUO.** проверять геотэг "Today's Chore Duty", поскольку он постоянно обновляется. По ходу гайда вы увидите напоминания, когда его стоит проверить. На текущем моменте в классе проверьте этот геотэг и ответьте на твипы Акихо. Один из них появится чуть позже в обучении пользования Twipo.
 
+> *GEOTAG No. 020: Today’s Chore Duty*
 
-Everytime you’re in the classroom, when IRUO. is available, make sure to claim the “Today’s Chore Duty” geotag. This is a recurring geotag. This guide will remind you when they’re available. Inside the classroom, make sure to pick it up, and reply to Aki’s tweeps. One of these won’t show up until later in the scene, as it serves as a tutorial for Twipo.
+> **AKIPOPOPOOON I want to eat takoyaki**
+>
+> Ответ: Aren’t you supposed to eat those on cold days?
 
-*GEOTAG No. 020: Today’s Chore Duty*
+> **AKIPOPOPOOON PrinceX is so cute! The design taste is good that even though it’s a giant robot, I think it’s cute. TAYOTA of the world! It would be amazing if we can put this electic engine in GunBuild-1! Maybe I’ll go negotiate next time. Wonder if they’ll let me borrow it for free. I’ll send an email**
+>
+> Ответ: Can’t you just put in an electric car engine to solve the problem?
 
-**AKIPOPOPOOON I want to eat takoyaki**
-Reply: Aren’t you supposed to eat those on cold days?
+Подождите, пока в школе у шкафчиков для обуви не появится Субару, а затем откройте IRUO. и найдите ещё два геотэга.
 
-**AKIPOPOPOOON PrinceX is so cute! The design taste is good that even though it’s a giant robot, I think it’s cute. TAYOTA of the world! It would be amazing if we can put this electic engine in GunBuild-1! Maybe I’ll go negotiate next time. Wonder if they’ll let me borrow it for free. I’ll send an email**
-Reply: Can’t you just put in an electric car engine to solve the problem?
+> *GEOTAG No. 083: To All Students*
+>
+> *GEOTAG No. 005: Subaru Hidaka*
 
-At the shoe racks at school, wait for Subaru to enter the scene, then open IRUO. to claim two additional geotags.
+В комнате кружка робототехники вас ждёт ещё несколько геотэгов.
 
-*GEOTAG No. 083: To All Students*
-*GEOTAG No. 005: Subaru Hidaka*
+> *GEOTAG No. 017: Space Candy*
+>
+> *GEOTAG No. 018: TanegashiMachine 3*
+>
+> *GEOTAG No. 076: Gunvarrel BD*
+>
+> *GEOTAG No. 077: JAXA*
+>
+> *GEOTAG No. 078: Robot Club Equipment 1*
+>
+> *GEOTAG No. 079: Robot Club Equipment 2*
 
-Likewise, once you’re inside the clubroom for the Robot Club, there are a bunch of geotags waiting.
+## 6.13.2019 – Среда
 
-*GEOTAG No. 017: Space Candy*
-*GEOTAG No. 018: TanegashiMachine 3*
-*GEOTAG No. 076: Gunvarrel BD*
-*GEOTAG No. 077: JAXA*
-*GEOTAG No. 078: Robot Club Equipment 1*
-*GEOTAG No. 079: Robot Club Equipment 2*
+Снаружи школы вас сразу будет ждать три геотэга и твип.
 
-## 6.13.2019 Wednesday
+> *GEOTAG No. 080: Kagoshima Prefecture Central Tanegashima High School*
+>
+> *GEOTAG No. 081: First Campus Tour*
+>
+> *GEOTAG No. 082: Second Campus Tour*
 
-Just outside the school grounds, there’ll be a few geotags and tweeps to take care of:
+> **AKIPOPOPOOON I’m glad I finished hw in time! Thank god we have somewhere to go home to. So glad!**
+>
+> Ответ: A place to go home? What are you talkin about?
 
-*GEOTAG No. 080: Kagoshima Prefecture Central Tanegashima High School*
-*GEOTAG No. 081: First Campus Tour*
-*GEOTAG No. 082: Second Campus Tour*
+Когда на экране появится Джунна, не забудьте проверить и её геотэг:
 
-**AKIPOPOPOOON I’m glad I finished hw in time! Thank god we have somewhere to go home to. So glad!**
-Reply: A place to go home? What are you talkin about?
+> *GEOTAG No. 003: Junna Daitoku*
 
-A bit later, once Junna shows up, make sure to get her geotag as well:
+Чуть позже, в классе, не забудьте проверить обновившийся геотэг дежурства и ответить на несколько твипов.
 
-*GEOTAG No. 003: Junna Daitoku*
+> *GEOTAG No. 021: Today’s Chore Duty*
 
-Later on, in the classroom, make sure to pick up the usual geotag. There will also be some tweeps for you to reply to. 
+> **AKIPOPOPOOON: You don’t know… I’ll show you next time**
+>
+> Ответ Oh I get it. Another parody of a robot anime line. Don’t really know which one, but sounds like one based on your words
 
-*GEOTAG No. 021: Today’s Chore Duty*
+> **AKIPOPOPOON: Today I gotta go pick up parts from Doc. I have to go on the Thunder Emperor again…
+>
+> Ответ: You prolly know, but you should take medicine for motion sickness.
 
-**AKIPOPOPOOON: You don’t know… I’ll show you next time**
-Reply: Oh I get it. Another parody of a robot anime line. Don’t really know which one, but sounds like one based on your words
+В учительской вы встретите заместителя директора Каоруко Усуй. Её геотэг тоже необходимо проверить.
 
-**AKIPOPOPOON: Today I gotta go pick up parts from Doc. I have to go on the Thunder Emperor again…**
-Reply: You prolly know, but you should take medicine for motion sickness.
+> *GEOTAG No. 012: Kaoruko Usui*
 
-In the staff room, you will encounter Vice Principal Kauruko Usui. Make sure to pick up her geotag as well.
+По возвращении в класс вас будут ждать новый твип:
 
-*GEOTAG No. 012: Kaoruko Usui*
+> **AKIPOPOPOOON: …I’m not gonna lose**
+>
+> Ответ: I can’t fight on an empty stomach
 
-Back in the classroom, there will be a single extra tweep waiting for you.
+## 6.14.2019 – Пятница
 
-**AKIPOPOPOOON: …I’m not gonna lose**
-Reply: I can’t fight on an empty stomach
+В пятницу нужно будет всего лишь проверить обновившийся геотэг дежурства в классе и ответить на твип Акихо.
 
-## 6.14.2019 Friday
+> *GEOTAG No. 022: Today’s Chore Duty*
 
-The only thing to worry about during this day is in the classroom, there’s the usual geotag. Make sure to get it. Akiho will also have a tweep for you.
+> **AKIPOPOPOOON Watched Gaigaoger this morning!!!**
+>
+> Ответ: Feel better after sleeping?
 
-*GEOTAG No. 022: Today’s Chore Duty*
+## 6.15.2019 – Суббота
 
-**AKIPOPOPOOON Watched Gaigaoger this morning!!!**
-Reply: Feel better after sleeping?
+В начале дня снаружи дома Акихо вас ждёт новый геотэг:
 
-## 6.15.2019 Saturday
+> *GEOTAG No.088: Senomiya*
 
-Starting off the day outside Akiho’s house, there’s a single geotag you’ll need to claim:
+Зайдя к ней в дом, вас будет ждать ещё 4 геотэга и один твип, и на этом до конца дня всё.
 
-*GEOTAG No.088: Senomiya*
+> *GEOTAG No. 089: Hero of Sunlight Fireburn*
+>
+> *GEOTAG No. 090: RMS-154 Berzau*
+>
+> *GEOTAG No. 091: Amazing Invincible Raigin-oh*
+>
+> *GEOTAG No. 092: Franbear*
 
-Once you make it inside her house, there will be a few more geotags and a single tweep to take care of, which takes care of the rest of the day.
+> **AKIPOPOPOOON @UMISHO Staying up again… BAD!!!**
+>
+> Ответ: Sorry
 
-*GEOTAG No. 089: Hero of Sunlight Fireburn*
-*GEOTAG No. 090: RMS-154 Berzau*
-*GEOTAG No. 091: Amazing Invincible Raigin-oh*
-*GEOTAG No. 092: Franbear*
+## 6.16.2019 – Воскресенье
 
-**AKIPOPOPOOON @UMISHO Staying up again… BAD!!!**
-Reply: Sorry
+На парковке находятся два геотэга. Они тоже периодически обновляются, как и тот, в классе, так что вам нужно периодически проверять их. А ещё здесь нужно будет ответить на твип Акихо.
 
-## 6.16.2019 Sunday
+> *GEOTAG No. 031: NSU999X*
+>
+> *GEOTAG No. 033: MU593X*
 
-At the parking lot, there will be two additional geotags waiting for you. These will also be recurring every time you visit here, so make sure to get the ones here. Additionally, Akiho has a tweet that you need to reply to.
+> **AKIPOPOPOPOOON It’s sunny! Feels GOOD! I wanna go to the beach!**
+>
+> Ответ: Thinkin about it, haven’t gone to the beach in years. Maybe since Misa-ne was still on the island
 
-*GEOTAG No. 031: NSU999X*
-*GEOTAG No. 033: MU593X*
+Оказавшись у Робоклиники, не торопитесь заходить внутрь, поскольку здесь ждёт ещё геотэг и твипы.
 
-**AKIPOPOPOPOOON It’s sunny! Feels GOOD! I wanna go to the beach!**
-Reply: Thinkin about it, haven’t gone to the beach in years. Maybe since Misa-ne was still on the island
+> *GEOTAG No. 111: Robot Clinic*
 
-When you make your way to the Robot Clinc, before you enter, make sure to claim the geotag there and reply to the tweeps.
+> **AKIPOPOPOPOOON Finger Vulcan!**
+>
+> Ответ: Does the Honorary Prez even have fingers in the first place?
 
-*GEOTAG No. 111: Robot Clinic*
+> **AKIPOPOPOPOOON @UMISHO That’s not possible. I went once in junior high. Mizuka-ne took me**
+>
+> Ответ: Right. You pulled a muscle in the water and almost drowned. I only kinda remember
 
-**AKIPOPOPOPOOON Finger Vulcan!**
-Reply: Does the Honorary Prez even have fingers in the first place?
+Теперь входите внутрь, там будут ждать ещё два геотэга:
 
-**AKIPOPOPOPOOON @UMISHO That’s not possible. I went once in junior high. Mizuka-ne took me**
-Reply: Right. You pulled a muscle in the water and almost drowned. I only kinda remember
+> *GEOTAG No. 112: From Robo Doctor*
+>
+> *GEOTAG No. 010: Tetsuharu Fujita*
 
-Once you make it inside the robot clinic, there will be an additional 2 geotags to claim.
+Позже вы сразитесь ещё разок с Акихо в Kill-Ballad.
 
-*GEOTAG No. 112: From Robo Doctor*
-*GEOTAG No. 010: Tetsuharu Fujita*
+## 6.17.2019 – Понедельник
 
-Sometime after, you will battle Akiho in Kill-Ballad once again.
+За этот день надо только ответить на твип Акихо в универсаме Ирей.
 
-## 6.17.2019 Monday
+> **AKIPOPOPOPOOON I wonder if there’s a part time job I can make quick cash…**
+>
+> Ответ: Construction worker
 
-This day only has one tweep to reply to, from Akiho. It’ll be inside the Irei General Store.
+## 6.18.2019 – Вторник
 
-**AKIPOPOPOPOOON I wonder if there’s a part time job I can make quick cash…**
-Reply: Construction worker
+Во вторник проверьте обновившийся геотэг в школьном классе и ответьте на твип.
 
-## 6.18.2019 Tuesday
+> *GEOTAG No. 023: Today’s Chore Duty*
 
-This day only has things going on in the classroom. Make sure to pick up the usual geotag.
+> **AKIPOPOPOPOOON @UMISHO You ok? Eat something bad?**
+>
+> Ответ: I did… It might be the key to losing weight…
 
-*GEOTAG No. 023: Today’s Chore Duty*
+## 6.19.2019 – Среда
 
-**AKIPOPOPOPOOON @UMISHO You ok? Eat something bad?**
-Reply: I did… It might be the key to losing weight…
+В среду вас будут ждать только два твипа от Акихо.
 
-## 6.19.2019 Wednesday
+> **AKIPOPOPOPOOON YASSS! Successfully got new years + allowance early! We are gonna win ROBO-ONE!**
+>
+> Ответ: Oh, congratz
 
-Make sure to reply to these tweeps from Akiho. These are the only things to keep track of on this day.
+> **AKIPOPOPOPOOON Mom got mad at me…**
+>
+> Ответ: calm down. Lol
 
-**AKIPOPOPOPOOON YASSS! Successfully got new years + allowance early! We are gonna win ROBO-ONE!**
-Reply: Oh, congratz
+## 6.20.2019 – Четверг
 
-**AKIPOPOPOPOOON Mom got mad at me…**
-Reply: calm down. Lol
+Когда встретите Митчи, проверьте его геотэг. Больше ничего.
 
-## 6.20.2019 Thursday
+> *GEOTAG No. 009: Mitsuhiko Nagafukada*
 
-On this day, you won’t have to reply to any tweeps. Make sure to get Mitchi’s geotag, though.
+## 6.23.2019 – Воскресенье
 
-*GEOTAG No. 009: Mitsuhiko Nagafukada*
+Ответьте на твип Акихо.
 
-## 6.23.2019 Sunday
+> **AKIPOPOPOPOOON Im bored. Imma dream about this school transforming into a robot**
+>
+> Ответ: That’s sounds like something a guy would imagine.Or a kid.The clock turns into a face right?
 
-There’s only a single tweep to reply to this day. Be sure to reply to it.
+## 6.26.2019 – Среда
 
-**AKIPOPOPOPOOON Im bored. Imma dream about this school transforming into a robot**
-Reply: That’s sounds like something a guy would imagine.Or a kid.The clock turns into a face right?
+Сразу после начала дня, откройте PokeCom и ответьте на твип.
 
-## 6.26.2019 Wednesday
+> **AKIPOPOPOPOOON @UMISHO me too!**
+>
+> Ответ: I guess we’ll both retake the test in the summer vacation
 
-Starting off the day, make sure to reply to this tweep by Akiho.
+Затем, на парковке, проверьте обновившиеся геотэги.
 
-**AKIPOPOPOPOOON @UMISHO me too!**
-Reply: I guess we’ll both retake the test in the summer vacation
+> *GEOTAG No. 036: NE738X*
+>
+> *GEOTAG No. 037: ME672X*
 
-After that, when you make it to the Parking Lot, make sure to grab the geotags there.
+Не забудьте получить в коллекцию геотэги и в парке Учугаока.
 
-*GEOTAG No. 036: NE738X*
-*GEOTAG No. 037: ME672X*
+> *GEOTAG No. 096: Uchugaoka Park*
+>
+> *GEOTAG No. 097: Minamitane-cho Local District Hall*
 
-When you get to Uchugaoka Park, make sure to claim the geotags there as well.
+## 6.27.2019 – Четверг
 
-*GEOTAG No. 096: Uchugaoka Park*
-*GEOTAG No. 097: Minamitane-cho Local District Hall*
+В этот день вам нужно только проверить обновившийся геотэг в классе и ответить на твип Акихо:
 
-## 6.27.2019 Thursday
+> *GEOTAG No. 024: Today’s Chore Duty*
 
-This day only has things to do in the classroom, make sure to pick up the usual geotag, and reply to the tweep.
+> **AKIPOPOPOPOOON Ah, I’m getting heated UP! There’s no time for tests!**
+>
+> Ответ: Calm down
 
-*GEOTAG No. 024: Today’s Chore Duty*
+## 6.29.2019 – Суббота
 
-**AKIPOPOPOPOOON Ah, I’m getting heated UP! There’s no time for tests!**
-Reply: Calm down
+**Внимание, в этот день вам придётся несколько раз сразиться в Kill-Ballad. Для получения ачивки убедитесь, что победили во всех боях, ни разу не ошибившись при нажатии клавиш.**
 
-## 6.29.2019 Saturday
+Суббота начнётся со сцены в забегаловке WcDonald's (местной пародии реального МакДональдса), не забудьте открыть здесь геотэг.
 
-**This day contains multiple battle triggers, make sure to win all of them without missing any inputs for an achievement.**
+> *GEOTAG No. 126: WcDonald Odaiba Deluxe Store*
 
-This day will start out in a fast-food restaurant, parodying the real-life McDonald’s—WcDonald’s. They will have a geotag for you to pick up.
+По пути к месту проведения ROBO-ONE откройте ещё два геотэга.
 
-*GEOTAG No. 126: WcDonald Odaiba Deluxe Store*
+> *GEOTAG No. 059: ROBO-ONE 41: The Skyhigh Burning!*
+>
+> *GEOTAG No. 060: From Exoskeleton Company to Everyone*
 
-As you start making your way to the ROBO-ONE venue, make sure to pick up the geotags there as well.
+К этому геотэгу прикреплено видео. Чтобы просмотреть его, нажмите кнопку INSERT на ПК, X на Switch, и треугольник на PS4.
 
-*GEOTAG No. 059: ROBO-ONE 41: The Skyhigh Burning!*
-*GEOTAG No. 060: From Exoskeleton Company to Everyone*
+> *GEOTAG No. 117: Tokyo Expo Odaiba Arena AQUA*
+>
+> *GEOTAG No. 125: Yurikamome Daiba Station*
 
-This geotag has a video attached to it. Press the “Insert” button (PC) to watch it. On Switch, press the “X” button. On PS4, press the Triangle button.
+Пройдя чуть дальше, вам попадётся ещё один геотэг.
 
-*GEOTAG No. 117: Tokyo Expo Odaiba Arena AQUA*
-*GEOTAG No. 125: Yurikamome Daiba Station*
+> *GEOTAG No. 118: Tokyo Expo Odaiba Arena SKY*
 
-As you make your way a bit further along, there will be one final geotag.
+Где-то здесь у вас будет поединок в Kill-Ballad с TAGIRINGER.
+Придя к месту проведения турнира, получите ещё пару геотэгов и ответьте на твип Акихо.
 
-*GEOTAG No. 118: Tokyo Expo Odaiba Arena SKY*
+> *GEOTAG No. 061: Preliminary Tournament Schedule*
 
-At some point before you enter the venue, you will have a Kill-Ballad battle with TAGIRINGER.
-Once you make it into the venue, you will have another few geotags to pick up, as well as a tweep to reply to.
+**К этому геотэгу прикреплено видео. Чтобы просмотреть его, нажмите кнопку INSERT на ПК, X на Switch, и треугольник на PS4.**
 
-*GEOTAG No. 061: Preliminary Tournament Schedule*
+> *GEOTAG No. 119: E-3 Gate*
 
-**This geotag has media attached to it, press the “Insert” button (PC) to view it. On Switch, press the “X” button. On PS4, press the Triangle button.**
-
-*GEOTAG No. 119: E-3 Gate*
-
-**AKIPOPOPOPOOON Staring at my phone, wishing it would ring**
-Reply: Who, Misa-ne?
+> **AKIPOPOPOPOOON Staring at my phone, wishing it would ring**
+>
+> Ответ: Who, Misa-ne?
 
 Following that, once you make it on stage, you will have a hobby robot battle with Devil Stronger. These battles are functionally the same as the Kill-Ballad triggers. After that, you’ll have a few more tweeps to reply to.
 
