@@ -12,11 +12,13 @@ image:
   height: 100
 ---
 
-**Учтите, что это полный гайд по прохождению игры на 100%!** Вам нужен этот гайд, если вы хотите пройти *Robotics;Notes ELITE* <ins>***и***</ins> получить все ачивки. Если вы хотите просто пройти игру, ничего не упустив, то вам нужен гайд по рутам, который можно найти [здесь]().
+**Учтите, что это полный гайд по прохождению игры на 100%!** Вам нужен этот гайд, если вы хотите пройти *Robotics;Notes ELITE* <ins>***и***</ins> получить все ачивки. Если вы хотите просто пройти игру, ничего не упустив, то вам нужен гайд по рутам, который можно найти [здесь](https://alphachan/tk).
+
+------
 
 # **Предисловие**
 
-*Robotics;Notes ELITE* весьма запутана в плане прохождения и получения всех ачивок – больше других визуальных новелл в серии **Science Adventure.** В игре используется целая комбинация различных триггеров, объединённых в "Триггеры PhoneDroid". Туда входят:
+*Robotics;Notes ELITE* весьма запутана в плане прохождения и получения всех ачивок — больше других визуальных новелл в серии **Science Adventure.** В игре используется целая комбинация различных триггеров, объединённых в "Триггеры PhoneDroid". Туда входят:
 
 - геотэги в приложении "IRUO."
 - схватки в "Kill-Ballad"
@@ -27,7 +29,7 @@ image:
 
 В новелле главы называются фазами. Проходить вслепую строго не рекомендуется, поскольку так можно упустить много контента и попасть на фазу 08, миновав фазы 06 и 07. Этот гайд поможет вам пошагово пройти новеллу, ничего не упустив, а также проведёт вас по рутам в правильном порядке прохождения и позволит получить все ачивки в стиме.
 
-**<u>ВАЖНО:</u>** если у вас установлен [патч от Committee of Zero]() (который *крайне* рекомендован к установке, поскольку правит огромное количество ошибок перевода, опечаток, добавляет поддержку мыши и улучшает отображение шрифта), то вам нужен **[этот гайд]()**. Он написан с учётом внесённых правок и соответствует текстам в патче.
+**<u>ВАЖНО:</u>** если у вас установлен [патч от Committee of Zero](http://sonome.dareno.me/projects/rne-steam.html) (который *крайне* рекомендован к установке, поскольку правит огромное количество ошибок перевода, опечаток, добавляет поддержку мыши и улучшает отображение шрифта), то вам нужен **[этот гайд](https://alphachan.tk)**. Он написан с учётом внесённых правок и соответствует текстам в патче.
 
 **Ну а теперь погнали! Шторм и буря! Взрывная волна! Ганваррель! *JYAKIIIIIN!***
 
@@ -35,19 +37,20 @@ image:
 
 Для удобства, в этом гайде игровые триггеры отмечены разными способами. Например, геотэги будут выглядеть так:
 
-> *GEOTAG № XXX: Steins Gate*
+```mathematica
+GEOTAG № XXX: Steins Gate
+```
 
 А твипы будут отображаться по-другому:
 
-> **NEIDHARDT: Whose eyes are those eyes?**
->
-> Ответ: Those eyes are god's eyes
+```ini
+NEIDHARDT: Whose eyes are those eyes?
+Ответ: Those eyes are god's eyes
+```
 
 ------
 
-
-
-# **ФАЗА 1**
+# **ФАЗА 01**
 
 ## **6.10.2019 - Понедельник**
 
@@ -55,1486 +58,1823 @@ image:
 
 После окончания схватки, как только игра даст вам доступ к PhoneDroid (на экране будет сцена с Акихо), откройте **IRUO.** на **PokeCom.** Затем найдите следующие **геотэги**:
 
-> *GEOTAG № 072: Robot Research Club*
->
-> *GEOTAG № 073: Soccer Club Equipment Storage*
->
-> *GEOTAG № 074: Volunteer Group*
->
-> *GEOTAG № 075: Surf Group Equipment Storage*
->
-> *GEOTAG № 001: Akiho Senomiya*
+```mathematica
+GEOTAG № 072: Robot Research Club
+GEOTAG № 073: Soccer Club Equipment Storage
+GEOTAG № 074: Volunteer Group
+GEOTAG № 075: Surf Group Equipment Storage
+GEOTAG № 001: Akiho Senomiya
+```
 
 Затем откройте приложение **Twipo** и ответьте на твипы в следующем порядке:
 
-> **AKIPOPOPOOON: Because he was a spoiled brat**
->
-> Ответ: Was that the Red Comet?
+```ini
+AKIPOPOPOOON: Because he was a spoiled brat
+Ответ: Was that the Red Comet?
+```
 
-> **AKIPOPOPOOON Gonna go to tea time with Yamada from Japanese class**
->
-> Ответ: Yamada is a nice guy
+```ini
+AKIPOPOPOOON: Gonna go to tea time with Yamada from Japanese class
+Ответ: Yamada is a nice guy
+```
 
-> **AKIPOPOPOOON Vice Principal didn’t come. Didn’t see her again…**
->
-> Ответ: Maybe send a letter?
+```ini
+AKIPOPOPOOON: Vice Principal didn’t come. Didn’t see her again…
+Ответ: Maybe send a letter?
+```
 
-> **AKIPOPOPOOON @UMISHO You at the club room?**
->
-> Ответ: I am
+```ini
+AKIPOPOPOOON: @UMISHO You at the club room?
+Ответ: I am
+```
 
-> **AKIPOPOPOON Gonna go to the club room! Storm and Stress! Energy Explosion!!!**
->
-> Ответ: I can see you really screaming
+```ini
+AKIPOPOPOON: Gonna go to the club room! Storm and Stress! Energy Explosion!!!
+Ответ: I can see you really screaming
+```
 
-Позже в школе у вас будет схватка с Акихо в **Kill-Ballad**. Её ник в **KB**– **AKI-PO**. После этого, вечером, вам нужно будет ответить на ещё один твип от Акихо:
+Позже в школе у вас будет схватка с Акихо в **Kill-Ballad**. Её ник в **KB** — ***AKI-PO***. После этого, вечером, вам нужно будет ответить на ещё один твип от Акихо:
 
-> **AKIPOPOPOOON Is This Youth?**
->
-> Ответ: If it’s KB I can pull an all-nighter
+```ini
+AKIPOPOPOOON: Is This Youth?
+Ответ: If it’s KB I can pull an all-nighter
+```
 
 Спустя какое-то время, вы окажетесь на заброшенном аэропорту Танегашимы. Оказавшись в ангаре, откройте **IRUO.** и получите ещё один геотэг:
 
-> *GEOTAG № 052: Gunvarrel Prototype Model-1 Lower Half*
+```mathematica
+GEOTAG № 052: Gunvarrel Prototype Model-1 Lower Half
+```
 
 Снаружи ангара можно найти ещё два геотэга, получаемых автоматически в процессе игры:
 
-> *GEOTAG No. 084: Central Tanegashima High Robot Club Hangar*
->
-> *GEOTAG No. 085: Central Tanegashima High Robot Club Equipment*
->
-> *Automatic Story Geotag: GEOTAG No. 114: Lonsow Minamitane-cho Branch*
+```mathematica
+GEOTAG No. 084: Central Tanegashima High Robot Club Hangar
+GEOTAG No. 085: Central Tanegashima High Robot Club Equipment
+Automatic Story Geotag: GEOTAG No. 114: Lonsow Minamitane-cho Branch
+```
 
 Оказавшись у терминала аэропорта, вас будет ждать ещё четыре геотэга:
 
-> *GEOTAG No: 086: Old Tanegashima Airport Terminal*
->
-> *GEOTAG No: 087: From Airport Administration Office*
->
-> *GEOTAG No. 055: MI361X*
->
-> *GEOTAG No. 054: MA808X*
+```mathematica
+GEOTAG No: 086: Old Tanegashima Airport Terminal
+GEOTAG No: 087: From Airport Administration Office
+GEOTAG No. 055: MI361X
+GEOTAG No. 054: MA808X
+```
 
-## **6.11.2019 – Вторник**
+------
+
+## **6.11.2019 — Вторник**
 
 Вы попадёте в **магазинчик Ирей** (*Irei General Store*), где, находясь снаружи, вам нужно будет открыть ещё два геотэга и ответить на твип:
 
-> *GEOTAG No. 104: Irei General Store**
->
-> **GEOTAG No. 105: Beverage Corner*
+```mathematica
+GEOTAG No. 104: Irei General Store
+GEOTAG No. 105: Beverage Corner
+```
 
-> **AKIPOPOPOOON Started watching Faibird again and got hooked and watched 10 eps. Look at the time!**
->
-> Ответ: I told you not to stay up late. Gotta follow that rule
+```ini
+AKIPOPOPOOON: Started watching Faibird again and got hooked and watched 10 eps. Look at the time!
+Ответ: I told you not to stay up late. Gotta follow that rule
+```
 
 Внутри магазина будут ещё пять геотэгов:
 
-> *GEOTAG No. 007: HUG HUGR-03 HAYATE*
->
-> *GEOTAG No. 109: Brand New! Passion Fruit Bun!*
->
-> *GEOTAG No. 108: Benny-chan Card*
->
-> *GEOTAG No. 106: Skal White*
->
-> *GEOTAG No. 107: Fruit Sour Melon*
+```mathematica
+GEOTAG No. 007: HUG HUGR-03 HAYATE
+GEOTAG No. 109: Brand New! Passion Fruit Bun!
+GEOTAG No. 108: Benny-chan Card
+GEOTAG No. 106: Skal White
+GEOTAG No. 107: Fruit Sour Melon
+```
 
 Находясь на лужайке у кружка возле школы, ответьте на твип Акихо:
 
-> **AKIPOPOPOOON: OHNOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO**
->
-> Ответ: Forget the club room key?
+```ini
+AKIPOPOPOOON: OHNOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Ответ: Forget the club room key?
+```
 
-## 6.12.2019 – Среда
+------
+
+## **6.12.2019 — Среда**
 
 Всякий раз оказываясь в классе, не забывайте с помощью **IRUO.** проверять геотэг "Today's Chore Duty", поскольку он постоянно обновляется. По ходу гайда вы увидите напоминания, когда его стоит проверить. На текущем моменте в классе проверьте этот геотэг и ответьте на твипы Акихо. Один из них появится чуть позже в обучении пользования Twipo.
 
-> *GEOTAG No. 020: Today’s Chore Duty*
+```mathematica
+GEOTAG No. 020: Today’s Chore Duty
+```
 
-> **AKIPOPOPOOON I want to eat takoyaki**
->
-> Ответ: Aren’t you supposed to eat those on cold days?
+```ini
+AKIPOPOPOOON: I want to eat takoyaki
+Ответ: Aren’t you supposed to eat those on cold days?
+```
 
-> **AKIPOPOPOOON PrinceX is so cute! The design taste is good that even though it’s a giant robot, I think it’s cute. TAYOTA of the world! It would be amazing if we can put this electic engine in GunBuild-1! Maybe I’ll go negotiate next time. Wonder if they’ll let me borrow it for free. I’ll send an email**
->
-> Ответ: Can’t you just put in an electric car engine to solve the problem?
+```ini
+AKIPOPOPOOON: PrinceX is so cute! The design taste is good that even though it’s a giant robot, I think it’s cute. TAYOTA of the world! It would be amazing if we can put this electic engine in GunBuild-1! Maybe I’ll go negotiate next time. Wonder if they’ll let me borrow it for free. I’ll send an email
+Ответ: Can’t you just put in an electric car engine to solve the problem?
+```
 
 Подождите, пока в школе у шкафчиков для обуви не появится Субару, а затем откройте IRUO. и найдите ещё два геотэга.
 
-> *GEOTAG No. 083: To All Students*
->
-> *GEOTAG No. 005: Subaru Hidaka*
+```mathematica
+GEOTAG No. 083: To All Students
+GEOTAG No. 005: Subaru Hidaka
+```
 
 В комнате кружка робототехники вас ждёт ещё несколько геотэгов.
 
-> *GEOTAG No. 017: Space Candy*
->
-> *GEOTAG No. 018: TanegashiMachine 3*
->
-> *GEOTAG No. 076: Gunvarrel BD*
->
-> *GEOTAG No. 077: JAXA*
->
-> *GEOTAG No. 078: Robot Club Equipment 1*
->
-> *GEOTAG No. 079: Robot Club Equipment 2*
+```mathematica
+GEOTAG No. 017: Space Candy
+GEOTAG No. 018: TanegashiMachine 3
+GEOTAG No. 076: Gunvarrel BD
+GEOTAG No. 077: JAXA
+GEOTAG No. 078: Robot Club Equipment 1
+GEOTAG No. 079: Robot Club Equipment 2
+```
 
-## 6.13.2019 – Среда
+------
+
+## **6.13.2019 — Четверг**
 
 Снаружи школы вас сразу будет ждать три геотэга и твип.
 
-> *GEOTAG No. 080: Kagoshima Prefecture Central Tanegashima High School*
->
-> *GEOTAG No. 081: First Campus Tour*
->
-> *GEOTAG No. 082: Second Campus Tour*
+```mathematica
+GEOTAG No. 080: Kagoshima Prefecture Central Tanegashima High School
+GEOTAG No. 081: First Campus Tour
+GEOTAG No. 082: Second Campus Tour
+```
 
-> **AKIPOPOPOOON I’m glad I finished hw in time! Thank god we have somewhere to go home to. So glad!**
->
-> Ответ: A place to go home? What are you talkin about?
+```ini
+AKIPOPOPOOON: I’m glad I finished hw in time! Thank god we have somewhere to go home to. So glad!
+Ответ: A place to go home? What are you talkin about?
+```
 
 Когда на экране появится Джунна, не забудьте проверить и её геотэг:
 
-> *GEOTAG No. 003: Junna Daitoku*
+```mathematica
+GEOTAG No. 003: Junna Daitoku
+```
 
 Чуть позже, в классе, не забудьте проверить обновившийся геотэг дежурства и ответить на несколько твипов.
 
-> *GEOTAG No. 021: Today’s Chore Duty*
+```mathematica
+GEOTAG No. 021: Today’s Chore Duty
+```
 
-> **AKIPOPOPOOON: You don’t know… I’ll show you next time**
->
-> Ответ Oh I get it. Another parody of a robot anime line. Don’t really know which one, but sounds like one based on your words
+```ini
+AKIPOPOPOOON: You don’t know… I’ll show you next time
+Ответ: Oh I get it. Another parody of a robot anime line. Don’t really know which one, but sounds like one based on your words
+```
 
-> **AKIPOPOPOON: Today I gotta go pick up parts from Doc. I have to go on the Thunder Emperor again…
->
-> Ответ: You prolly know, but you should take medicine for motion sickness.
+```ini
+AKIPOPOPOON: Today I gotta go pick up parts from Doc. I have to go on the Thunder Emperor again…
+Ответ: You prolly know, but you should take medicine for motion sickness.
+```
 
 В учительской вы встретите заместителя директора Каоруко Усуй. Её геотэг тоже необходимо проверить.
 
-> *GEOTAG No. 012: Kaoruko Usui*
+```mathematica
+GEOTAG No. 012: Kaoruko Usui
+```
 
 По возвращении в класс вас будут ждать новый твип:
 
-> **AKIPOPOPOOON: …I’m not gonna lose**
->
-> Ответ: I can’t fight on an empty stomach
+```ini
+AKIPOPOPOOON: …I’m not gonna lose
+Ответ: I can’t fight on an empty stomach
+```
 
-## 6.14.2019 – Пятница
+------
+
+## **6.14.2019 — Пятница**
 
 В пятницу нужно будет всего лишь проверить обновившийся геотэг дежурства в классе и ответить на твип Акихо.
 
-> *GEOTAG No. 022: Today’s Chore Duty*
+```mathematica
+GEOTAG No. 022: Today’s Chore Duty
+```
 
-> **AKIPOPOPOOON Watched Gaigaoger this morning!!!**
->
-> Ответ: Feel better after sleeping?
+```ini
+AKIPOPOPOOON: Watched Gaigaoger this morning!!!
+Ответ: Feel better after sleeping?
+```
 
-## 6.15.2019 – Суббота
+------
+
+## **6.15.2019 — Суббота**
 
 В начале дня снаружи дома Акихо вас ждёт новый геотэг:
 
-> *GEOTAG No.088: Senomiya*
+```mathematica
+GEOTAG No.088: Senomiya
+```
 
 Зайдя к ней в дом, вас будет ждать ещё 4 геотэга и один твип, и на этом до конца дня всё.
 
-> *GEOTAG No. 089: Hero of Sunlight Fireburn*
->
-> *GEOTAG No. 090: RMS-154 Berzau*
->
-> *GEOTAG No. 091: Amazing Invincible Raigin-oh*
->
-> *GEOTAG No. 092: Franbear*
+```mathematica
+GEOTAG No. 089: Hero of Sunlight Fireburn
+GEOTAG No. 090: RMS-154 Berzau
+GEOTAG No. 091: Amazing Invincible Raigin-oh
+GEOTAG No. 092: Franbear
+```
 
-> **AKIPOPOPOOON @UMISHO Staying up again… BAD!!!**
->
-> Ответ: Sorry
+```ini
+AKIPOPOPOOON: @UMISHO Staying up again… BAD!!!
+Ответ: Sorry
+```
 
-## 6.16.2019 – Воскресенье
+------
+
+## **6.16.2019 — Воскресенье**
 
 На парковке находятся два геотэга. Они тоже периодически обновляются, как и тот, в классе, так что вам нужно периодически проверять их. А ещё здесь нужно будет ответить на твип Акихо.
 
-> *GEOTAG No. 031: NSU999X*
->
-> *GEOTAG No. 033: MU593X*
+```mathematica
+GEOTAG No. 031: NSU999X
+GEOTAG No. 033: MU593X
+```
 
-> **AKIPOPOPOPOOON It’s sunny! Feels GOOD! I wanna go to the beach!**
->
-> Ответ: Thinkin about it, haven’t gone to the beach in years. Maybe since Misa-ne was still on the island
+```ini
+AKIPOPOPOPOOON:: It’s sunny! Feels GOOD! I wanna go to the beach!
+Ответ: Thinkin about it, haven’t gone to the beach in years. Maybe since Misa-ne was still on the island
+```
 
 Оказавшись у Робоклиники, не торопитесь заходить внутрь, поскольку здесь ждёт ещё геотэг и твипы.
 
-> *GEOTAG No. 111: Robot Clinic*
+```mathematica
+GEOTAG No. 111: Robot Clinic
+```
 
-> **AKIPOPOPOPOOON Finger Vulcan!**
->
-> Ответ: Does the Honorary Prez even have fingers in the first place?
+```ini
+AKIPOPOPOPOOON: Finger Vulcan!
+Ответ: Does the Honorary Prez even have fingers in the first place?
+```
 
-> **AKIPOPOPOPOOON @UMISHO That’s not possible. I went once in junior high. Mizuka-ne took me**
->
-> Ответ: Right. You pulled a muscle in the water and almost drowned. I only kinda remember
+```ini
+AKIPOPOPOPOOON: @UMISHO That’s not possible. I went once in junior high. Mizuka-ne took me
+Ответ: Right. You pulled a muscle in the water and almost drowned. I only kinda remember
+```
 
 Теперь входите внутрь, там будут ждать ещё два геотэга:
 
-> *GEOTAG No. 112: From Robo Doctor*
->
-> *GEOTAG No. 010: Tetsuharu Fujita*
+```mathematica
+GEOTAG No. 112: From Robo Doctor
+GEOTAG No. 010: Tetsuharu Fujita
+```
 
 Позже вы сразитесь ещё разок с Акихо в Kill-Ballad.
 
-## 6.17.2019 – Понедельник
+------
+
+## **6.17.2019 — Понедельник**
 
 За этот день надо только ответить на твип Акихо в универсаме Ирей.
 
-> **AKIPOPOPOPOOON I wonder if there’s a part time job I can make quick cash…**
->
-> Ответ: Construction worker
+```ini
+AKIPOPOPOPOOON: I wonder if there’s a part time job I can make quick cash…
+Ответ: Construction worker
+```
 
-## 6.18.2019 – Вторник
+------
+
+## **6.18.2019 — Вторник**
 
 Во вторник проверьте обновившийся геотэг в школьном классе и ответьте на твип.
 
-> *GEOTAG No. 023: Today’s Chore Duty*
+```mathematica
+GEOTAG No. 023: Today’s Chore Duty
+```
 
-> **AKIPOPOPOPOOON @UMISHO You ok? Eat something bad?**
->
-> Ответ: I did… It might be the key to losing weight…
+```ini
+AKIPOPOPOPOOON: @UMISHO You ok? Eat something bad?
+Ответ: I did… It might be the key to losing weight…
+```
 
-## 6.19.2019 – Среда
+------
+
+## **6.19.2019 — Среда**
 
 В среду вас будут ждать только два твипа от Акихо.
 
-> **AKIPOPOPOPOOON YASSS! Successfully got new years + allowance early! We are gonna win ROBO-ONE!**
->
-> Ответ: Oh, congratz
+```ini
+AKIPOPOPOPOOON: YASSS! Successfully got new years + allowance early! We are gonna win ROBO-ONE!
+Ответ: Oh, congratz
+```
 
-> **AKIPOPOPOPOOON Mom got mad at me…**
->
-> Ответ: calm down. Lol
+```ini
+AKIPOPOPOPOOON: Mom got mad at me…
+Ответ: calm down. Lol
+```
 
-## 6.20.2019 – Четверг
+------
+
+## **6.20.2019 — Четверг**
 
 Когда встретите Митчи, проверьте его геотэг. Больше ничего.
 
-> *GEOTAG No. 009: Mitsuhiko Nagafukada*
+```mathematica
+GEOTAG No. 009: Mitsuhiko Nagafukada
+```
 
-## 6.23.2019 – Воскресенье
+------
+
+## **6.23.2019 — Воскресенье**
 
 Ответьте на твип Акихо.
 
-> **AKIPOPOPOPOOON Im bored. Imma dream about this school transforming into a robot**
->
-> Ответ: That’s sounds like something a guy would imagine.Or a kid.The clock turns into a face right?
+```ini
+AKIPOPOPOPOOON: Im bored. Imma dream about this school transforming into a robot
+Ответ: That’s sounds like something a guy would imagine.Or a kid.The clock turns into a face right?
+```
 
-## 6.26.2019 – Среда
+------
+
+## **6.26.2019 — Среда**
 
 Сразу после начала дня, откройте PokeCom и ответьте на твип.
 
-> **AKIPOPOPOPOOON @UMISHO me too!**
->
-> Ответ: I guess we’ll both retake the test in the summer vacation
+```ini
+AKIPOPOPOPOOON: @UMISHO me too!
+Ответ: I guess we’ll both retake the test in the summer vacation
+```
 
 Затем, на парковке, проверьте обновившиеся геотэги.
 
-> *GEOTAG No. 036: NE738X*
->
-> *GEOTAG No. 037: ME672X*
+```mathematica
+GEOTAG No. 036: NE738X
+GEOTAG No. 037: ME672X
+```
 
 Не забудьте получить в коллекцию геотэги и в парке Учугаока.
 
-> *GEOTAG No. 096: Uchugaoka Park*
->
-> *GEOTAG No. 097: Minamitane-cho Local District Hall*
+```mathematica
+GEOTAG No. 096: Uchugaoka Park
+GEOTAG No. 097: Minamitane-cho Local District Hall
+```
 
-## 6.27.2019 – Четверг
+------
+
+## **6.27.2019 — Четверг**
 
 В этот день вам нужно только проверить обновившийся геотэг в классе и ответить на твип Акихо:
 
-> *GEOTAG No. 024: Today’s Chore Duty*
+```mathematica
+GEOTAG No. 024: Today’s Chore Duty
+```
 
-> **AKIPOPOPOPOOON Ah, I’m getting heated UP! There’s no time for tests!**
->
-> Ответ: Calm down
+```ini
+AKIPOPOPOPOOON: Ah, I’m getting heated UP! There’s no time for tests!
+Ответ: Calm down
+```
 
-## 6.29.2019 – Суббота
+------
+
+## **6.29.2019 — Суббота**
 
 **Внимание, в этот день вам придётся несколько раз сразиться в Kill-Ballad. Для получения ачивки убедитесь, что победили во всех боях, ни разу не ошибившись при нажатии клавиш.**
 
 Суббота начнётся со сцены в забегаловке WcDonald's (местной пародии реального МакДональдса), не забудьте открыть здесь геотэг.
 
-> *GEOTAG No. 126: WcDonald Odaiba Deluxe Store*
+```mathematica
+GEOTAG No. 126: WcDonald Odaiba Deluxe Store
+```
 
 По пути к месту проведения ROBO-ONE откройте ещё два геотэга.
 
-> *GEOTAG No. 059: ROBO-ONE 41: The Skyhigh Burning!*
->
-> *GEOTAG No. 060: From Exoskeleton Company to Everyone*
+```mathematica
+GEOTAG No. 059: ROBO-ONE 41: The Skyhigh Burning!
+GEOTAG No. 060: From Exoskeleton Company to Everyone
+```
 
 К этому геотэгу прикреплено видео. Чтобы просмотреть его, нажмите кнопку INSERT на ПК, X на Switch, и треугольник на PS4.
 
-> *GEOTAG No. 117: Tokyo Expo Odaiba Arena AQUA*
->
-> *GEOTAG No. 125: Yurikamome Daiba Station*
+```mathematica
+GEOTAG No. 117: Tokyo Expo Odaiba Arena AQUA
+GEOTAG No. 125: Yurikamome Daiba Station
+```
 
 Пройдя чуть дальше, вам попадётся ещё один геотэг.
 
-> *GEOTAG No. 118: Tokyo Expo Odaiba Arena SKY*
+```mathematica
+GEOTAG No. 118: Tokyo Expo Odaiba Arena SKY
+```
 
 Где-то здесь у вас будет поединок в Kill-Ballad с TAGIRINGER.
 Придя к месту проведения турнира, получите ещё пару геотэгов и ответьте на твип Акихо.
 
-> *GEOTAG No. 061: Preliminary Tournament Schedule*
+```mathematica
+GEOTAG No. 061: Preliminary Tournament Schedule
+```
 
 **К этому геотэгу прикреплено видео. Чтобы просмотреть его, нажмите кнопку INSERT на ПК, X на Switch, и треугольник на PS4.**
 
-> *GEOTAG No. 119: E-3 Gate*
+```mathematica
+GEOTAG No. 119: E-3 Gate
+```
 
-> **AKIPOPOPOPOOON Staring at my phone, wishing it would ring**
->
-> Ответ: Who, Misa-ne?
+```ini
+AKIPOPOPOPOOON: Staring at my phone, wishing it would ring
+Ответ: Who, Misa-ne?
+```
 
-Following that, once you make it on stage, you will have a hobby robot battle with Devil Stronger. These battles are functionally the same as the Kill-Ballad triggers. After that, you’ll have a few more tweeps to reply to.
+Как только вы попадёте на сцену, то вам придётся сразиться с роботом Devil Stronger. Геймплейно эти битвы не отличаются от сражений в Kill-Ballad, так что вам просто нужно нажать правильно всю последовательность кнопок. После победы над противником, ответье ещё на три твипа.
 
-**AKIPOPOPOPOOON Doesn’t Matter: System Unlock!**
-Reply: I get that u r really excited
+```ini
+AKIPOPOPOPOOON: Doesn’t Matter: System Unlock!
+Ответ: I get that u r really excited
+```
 
-**AKIPOPOPOPOOON Wow, I’m gaining a ton of followers!!! What is this?**
-Reply: They are probably people who became fans watching you
+```ini
+AKIPOPOPOPOOON: Wow, I’m gaining a ton of followers!!! What is this?
+Ответ: They are probably people who became fans watching you
+```
 
-**AKIPOPOPOPOOON I can proudly say that I will get lost in Tokyo**
-Reply: Call me if it’s ’bout to get outta hand
+```ini
+AKIPOPOPOPOOON: I can proudly say that I will get lost in Tokyo
+Ответ: Call me if it’s ’bout to get outta hand
+```
 
-## 6.30.2019 Sunday
+------
 
-This is the day of the ROBO-ONE finals. Make sure to pay attention to when you can open IRUO. here, as there will be geotags that won’t show up again.
+## **6.30.2019 — Воскресенье**
 
-*GEOTAG No. 016: Mr. Pleiades*
-*GEOTAG No. 062: Finals Tournament Schedule*
+В воскресенье проходит финал ROBO-ONE. Внимательно осматривайте окружение через IRUO., поскольку здесь есть геотэги, которые больше нигде не появятся.
 
-**This one won’t show up again, so do remember to collect it.
-Press “Insert” (PC) to view the media attached to the last geotag. On Switch, press the “X” button. On PS4, press the Triangle button.**
+```mathematica
+GEOTAG No. 016: Mr. Pleiades
+GEOTAG No. 062: Finals Tournament Schedule
+```
 
-After this, the finals will ensue with a hobby robot battle with Mr. Pleiades.
+**Внимание, если вы пропустите последний геотэг, то больше его не увидите, не пропустите его.
+К нему также прикреплено видео, нажмите кнопку INSERT на ПК, X на Switch или же треугольник на PS4, чтобы просмотреть его.**
 
-## 7.01.2019 Monday
+После этого продвиньтесь далее, вас будет ждать мистер Плеядес со своим роботом, сразитесь с ним.
 
-On this day, there isn’t much to do. Make sure to reply to the tweep and pick up the geotag.
+------
 
-**AKIPOPOPOPOOON Vice Principal… Isn’t off today**
-Reply: Don’t get all worked up. Keep your head up, no matter what.
+## **7.01.2019 — Понедельник**
 
-*GEOTAG No. 019: TanegashiMachine 3-Kai*
+Этот день не очень насыщенный, вам нужно всего лишь ответить на твип и не забыть найти геотэг.
 
+```ini
+AKIPOPOPOPOOON: Vice Principal… Isn’t off today
+Ответ: Don’t get all worked up. Keep your head up, no matter what.
+```
 
+```mathematica
+GEOTAG No. 019: TanegashiMachine 3-Kai
+```
 
-# PHASE 2
+------
 
-## 7.02.2019 Tuesday
+# **ФАЗА 02**
 
-Starting off this day, you’ll have a few geotags, as well as a tweep from Akiho and one from a new person—Mr. Pleiades.
+## **7.02.2019 — Вторник**
 
-*GEOTAG No. 101: Space Science and Technology Museum*
-*GEOTAG No. 100: N-I Rocket (Life-size model)*
-*GEOTAG No. 102: H-II Rocket (Life-size model)*
+Сразу же найдите три геотэга и ответье на твипы Акихо и мистера Плеядеса.
 
-**Mr_PLEIADES Everyone, it has been confirmed that footage of ROBO-ONE 41 that Mr. Pleiades has won will be released. Details to come at a later date, so stay tuned!**
-Reply: Is this the real Pleaiades posting?
+```mathematica
+GEOTAG No. 101: Space Science and Technology Museum
+GEOTAG No. 100: N-I Rocket (Life-size model)
+GEOTAG No. 102: H-II Rocket (Life-size model)
+```
 
-**AKIPOPOPOPOOON Kai should have come with me**
-Reply: Just have a family talk with no one else
+```ini
+Mr_PLEIADES: Everyone, it has been confirmed that footage of ROBO-ONE 41 that Mr. Pleiades has won will be released. Details to come at a later date, so stay tuned!
+Ответ: Is this the real Pleaiades posting?
+```
 
-In the evening, you will get another tweep from Akiho, and afterwards, you’ll have a Kill-Ballad battle with TAGIRINGER.
+```ini
+AKIPOPOPOPOOON: Kai should have come with me
+Ответ: Just have a family talk with no one else
+```
 
-**AKIPOPOPOPOOON But I have money~! We can do it without help from JAXA!**
-Reply: I don’t think it’s that easy
+Вечером Акихо запостит ещё один твип, а ещё вы сразитесь в Kill-Ballad с TAGIRINGER.
 
-## 7.03.2019 Wednesday
+```ini
+AKIPOPOPOPOOON: But I have money~! We can do it without help from JAXA!
+Ответ: I don’t think it’s that easy
+```
 
-Starting out the day, make sure to reply to Akiho’s tweep.
+------
 
-**AKIPOPOPOPOOON I can’t pay Doc back!!! Which means all that’s left is DEATH!!!**
-Reply: You are far too brave to not pay Doc
+## **7.03.2019 — Среда**
 
-Afterwards, at the abandoned hotel, make sure to get the geotags there, as well as Frau Koujiro’s tag when she shows up.
+День начинается с ответа на твип Акихо.
 
-*GEOTAG No. 093: Tanegashima Airport Hotel (Closed)*
-*GEOTAG No. 056: K840K038-8X*
-*GEOTAG No. 002: Frau Koujiro*
+```ini
+AKIPOPOPOPOOON: I can’t pay Doc back!!! Which means all that’s left is DEATH!!!
+Ответ: You are far too brave to not pay Doc
+```
 
-## 7.04.2019 Thursday
+Позже, попадя в заброшенный отель, найдите здесь все три геотэга, включая тэг Фрау Коджиро.
 
-This day only has a single tweep to reply to.
+```mathematica
+GEOTAG No. 093: Tanegashima Airport Hotel (Closed)
+GEOTAG No. 056: K840K038-8X
+GEOTAG No. 002: Frau Koujiro
+```
 
-**AKIPOPOPOPOOON @UMISHO You ditched again~!!!!**
-Reply: Hey hey don’t be so up tight
+------
 
-## 7.05.2019 Friday
+## **7.04.2019 — Четверг**
 
-Your objectives on this day start out in the classroom, so make sure to get the usual geotag.
+Вам нужно ответить всего на один твип, больше в этот день ничего важного нет.
 
-*GEOTAG No. 025: Today’s Chore Duty*
+```ini
+AKIPOPOPOPOOON: @UMISHO You ditched again~!!!!
+Ответ: Hey hey don’t be so up tight
+```
 
-**AKIPOPOPOPOOON Appearance is important. I mean it affects how you look in pictures**
-Reply: Is this really you? During club activities you always stay in your uniform
+------
 
-**AKIPOPOPOPOOON Getting H Y P E D!**
-Reply: Why are you so excited?
+## **7.05.2019 — Пятница**
 
-**DAITOKU_JUNJUN \*errr “Change”…**
-Reply: You don’t like changes?
+Вы начнёте день в классе, не забудьте проверить обновившийся геотэг дежурства и ответить на несколько твипов.
 
-Later on, you’ll be going to Uchugaoka Park, which will have an additional geotag this day.
+```mathematica
+GEOTAG No. 025: Today’s Chore Duty
+```
 
-*GEOTAG No. 057: H-II Rocket (Monument)*
+```ini
+AKIPOPOPOPOOON: Appearance is important. I mean it affects how you look in pictures
+Ответ: Is this really you? During club activities you always stay in your uniform
+```
 
-**AKIPOPOPOPOOON Yes, made a deal wit Mitchi~. I’m going to meet the CEO tomorrow!**
-Reply: Make sure you read the room. Don’t push yourself
+```ini
+AKIPOPOPOPOOON: Getting H Y P E D!
+Ответ: Why are you so excited?
+```
 
-And finally, you will be going to Hamada Beach, where there’ll be a single geotag waiting for you, as well as a tweep.
+```ini
+DAITOKU_JUNJUN: *errr “Change”…
+Ответ: You don’t like changes?
+```
 
-*GEOTAG No. 116: Chikura Cavern*
+Позже вы окажетесь в парке Учугаока, где будут ждать ещё один новый геотэг и твип Акихо.
 
-**AKIPOPOPOPOOON I’ve been going home by myself a lot lately…**
-Reply: Wait for me, I’ll be there by 6
+```mathematica
+GEOTAG No. 057: H-II Rocket (Monument)
+```
 
-## 7.07.2019 Sunday
+```ini
+AKIPOPOPOPOOON: Yes, made a deal wit Mitchi~. I’m going to meet the CEO tomorrow!
+Ответ: Make sure you read the room. Don’t push yourself
+```
 
-On this day, you’ve got tweeps from Junna and Akiho to reply to.
+Ещё один твип и геотэг будет на пляже Хамада, куда вы отправитесь после парка.
 
-**AKIPOPOPOPOOON I wanna cry…got a call from a person at the TV station. Thought it was the ROBO-ONE runner-up interview. It was just a random survey…**
-Reply: Even if it didn’t happen this time, being prepared isn’t a bad thing
+```mathematica
+GEOTAG No. 116: Chikura Cavern
+```
 
-**DAITOKU_JUNJUN \*amazing. How emabrrassing…**
-Reply: Happens all the time. We all have typos
+```ini
+AKIPOPOPOPOOON: I’ve been going home by myself a lot lately…
+Ответ: Wait for me, I’ll be there by 6
+```
 
-## 7.08.2019 Monday
+------
 
-At the Old Tanegashima Airport, there’ll be a new geotag for you to claim.
+## **7.07.2019 — Воскресенье**
 
-*GEOTAG No. 053: Gunvarrel Prototype Model-1 Upper Half*
+Нужно будет ответить на твипы Акихо и Джунны.
 
-In the evening, still at the Old Tanegashima Airport, Junna has another tweep for you.
+```ini
+AKIPOPOPOPOOON: I wanna cry…got a call from a person at the TV station. Thought it was the ROBO-ONE runner-up interview. It was just a random survey…
+Ответ: Even if it didn’t happen this time, being prepared isn’t a bad thing
+```
 
-**DAITOKU_JUNJUN Until recently, I would go straight home from school to participate in the training. But after I graduated grandpa said that from now on I dodn’t have to participate if I didn’t want to. But what am I supposed to do besides training? How does everyone else spend their time after school?**
-Reply: Didn’t u mention something about urban legends the other day? Sounds like it’d be fun to go explore the island, though there isn’t much to see.
+```ini
+DAITOKU_JUNJUN: *amazing. How emabrrassing…
+Ответ: Happens all the time. We all have typos
+```
 
-## 7.09.2019 Tuesday
+------
 
-At Uchugaoka Park, there’ll be a tweep from Akiho waiting for you. After that, there’ll be a geotag.
+## **7.08.2019 — Понедельник**
 
-**AKIPOPOPOPOOON But I wanna check out the hobby robots!**
-Reply: I think you’re cool not drooling over hobby robots. Anyone with your success at ROBO-ONE woulda dived in by now
+В старом аэропорте Танегашимы вас будет ждать новый геотэг.
 
-When you reach the front of the museum, there’ll be an additional geotag. Once you’re inside, there’ll be a point in time when IRUO. automatically opens up.
+```mathematica
+GEOTAG No. 053: Gunvarrel Prototype Model-1 Upper Half
+```
 
-*GEOTAG No. 098: Warning*
+Там же, вечером, придёт твип от Джунны.
 
-When IRUO auto-opens, center the red power button in your view and press “Enter” (PC). Should open up a locked geotag
+```ini
+DAITOKU_JUNJUN: Until recently, I would go straight home from school to participate in the training. But after I graduated grandpa said that from now on I dodn’t have to participate if I didn’t want to. But what am I supposed to do besides training? How does everyone else spend their time after school?
+Ответ: Didn’t u mention something about urban legends the other day? Sounds like it’d be fun to go explore the island, though there isn’t much to see.
+```
 
+------
 
-*GEOTAG No. 065: Kimijima Report No. 1*
+## **7.09.2019 — Вторник**
 
-## 7.10.2019 Wednesday
+В парке Учугаока вас будет ждать твип Акихо и геотэг.
 
-On this day, you only have a single tweep from Frau to worry about before progressing onto Phase 03.
+```ini
+AKIPOPOPOPOOON: But I wanna check out the hobby robots!
+Ответ: I think you’re cool not drooling over hobby robots. Anyone with your success at ROBO-ONE woulda dived in by now
+```
 
-**FRAUKOUJIRO WOOOOHOOOOOOOOOOOOOOOOOO!!!!**
-Reply: U okay? What was in there?
+У входа в музей вам попадётся ещё один геотэг. Когда вы войдёте внутрь, автоматически откроется IRUO. в определённой сцене.
 
+```mathematica
+GEOTAG No. 098: Warning
+```
 
+Когда этот момент настанет, наведите камеру на красную кнопку со значком включения и нажмите Enter (на ПК). Должен будет открыться заблокированный геотэг.
 
-# PHASE 3
+```mathematica
+GEOTAG No. 065: Kimijima Report No. 1
+```
 
-## 7.11.2019 Thursday
+------
 
-The tweeps throughout this day are quite scattered throughout various locations. The first one is at the Old Tanegashima Airport. There will be no new geotags.
+## **7.10.2019 — Среда**
 
-**AKIPOPOPOPOOON I hope big sister is ok…**
-Reply: She should take a vacation and come back to the island for once. Misa-ne is just too busy
+На финальном пути до третьей фазы вам останется только ответить на один твип от Фрау.
 
-After that, a tweep from Frau inside the Irei General Store.
+```ini
+FRAUKOUJIRO: WOOOOHOOOOOOOOOOOOOOOOOO!!!!
+Ответ: U okay? What was in there?
+```
 
-**FRAUKOUJIRO Hungry but gonna life off water cuz I have nothing to wear**
-Reply: I can bring Pokky or something. You’ll still starve off water
+------
 
-And finally, in the building where you discovered the first Kimijima Report, there’ll be a tweep from Junna.
+# **ФАЗА 03**
 
-**DAITOKU_JUNJUN What did I do. I joined the club…**
-Reply: Consider yoursself captured. Take it easy.
+## **7.11.2019 — Четверг**
 
-## 7.13.2019 Saturday
+Сегодня придётся побегать по локациям, поскольку твипы будут разбросаны по разным местам. Сначала идите в заброшенный аэропорт Танегашимы, там вас будет ждать твип от Акихо. Новых геотэгов тут нет.
 
-On this day, you have a tweep from a new person, Airi—or, Geji-ne.
+```ini
+AKIPOPOPOPOOON: I hope big sister is ok…
+Ответ: She should take a vacation and come back to the island for once. Misa-ne is just too busy
+```
 
-**GEZI-SISTER Where is Mageshima Island?**
-Reply: Mageshima Island is a deserted island located West of Tanegashima
+Затем, переместитесь в универсам Ирей и ответьте на твип Фрау.
 
-## 7.16.2019 Tuesday
+```ini
+FRAUKOUJIRO: Hungry but gonna life off water cuz I have nothing to wear
+Ответ: I can bring Pokky or something. You’ll still starve off water
+```
 
-On this day, you’ve got tweeps from Aki, Junna, and Frau. The one from Frau will appear later on.
+И, наконец, там, где вы нашли первый отчёт Кимиджимы, вас будет ждать твип от Джунны.
 
-**DAITOKU_JUNJUN Been researching on the abnormal weather and encountered something about an “Apocalyptic sound.” My urban legend senses started giggling**
-Reply: I see, sounds interesting. I can goggle it, right? Can it be heard in Japan?
+```ini
+DAITOKU_JUNJUN: What did I do. I joined the club…
+Ответ: Consider yoursself captured. Take it easy.
+```
 
-**AKIPOPOPOPOOON We have more members but GunBuild-1 production isn’t going any faster…**
-Reply: If you take the lead convincingly, others fill follow you
+------
 
-In the evening, make sure to reply to Frau’s tweep.
+## **7.13.2019 — Суббота**
 
-**FRAUKOUJIRO Time to sleep. But before that I gotta watch the Teninu DVD, which is like my sacred book. Gonna get the feels. I get so excited by it my nose starts bleeding. You guys need to watch more 3D. 2D is good too, but 3D has it’s own good parts.**
-Reply: A random nosebleed means youre working 2 hard. Go see a doctor
+В Twipo добавится новый контакт — Айри, её ник — Geji-ne (или Sister Centipede, при установленном патче от Committee of Zero).
 
-## 7.17.2019 Wednesday
+```ini
+GEZI-SISTER: Where is Mageshima Island?
+Ответ: Mageshima Island is a deserted island located West of Tanegashima
+```
 
-On this day, you’ve got tweeps from Junna, Akiho, and Geji-ne. No new geotags to worry about.
+------
 
-**AKIPOPOPOPOOON This rain is just a gloom parade…**
-Reply: I don’t think you need to feel responsible
+## **7.16.2019 — Вторник**
 
-**DAITOKU_JUNJUN Been thinking about yesterday. Was karate a dream of mine? Would I want to continue even if dad hit me? Would I want to continue if I had to lie to him? Maybe I just did it from force of rabit…**
-Reply: You said you were sad quiting karate. Doesn’t that mean something? If you really ahted it you wouldn’t feel that way
+Вы получите твипы от Аки, Джунны и Фрау. Последний появится не сразу, а чуть погодя.
 
-**GEZI-SISTER What is Alcyone?**
-Reply: The name of a star in the Pleiades star cluster
+```ini
+DAITOKU_JUNJUN: Been researching on the abnormal weather and encountered something about an “Apocalyptic sound.” My urban legend senses started giggling
+Ответ: I see, sounds interesting. I can goggle it, right? Can it be heard in Japan?
+```
 
-## 7.18.2019 Thursday
+```ini
+AKIPOPOPOPOOON: We have more members but GunBuild-1 production isn’t going any faster…
+Ответ: If you take the lead convincingly, others fill follow you
+```
 
-At Frau’s place, make sure to reply to the following tweeps:
+Вечером не забудьте ответить и Фрау на её твип.
 
-**DAITOKU_JUNJUN @UMISHO Yeah, I didn’t have the talent for karate, but I would still get sad and cry when I lost in tournaments. I would also cry on hard training days, but that was me being disappointed in myself…**
-Reply: It’s uncommon to cry due to frustration, which means you took it really seriously. You still think it was a forced habit?
+```ini
+FRAUKOUJIRO: Time to sleep. But before that I gotta watch the Teninu DVD, which is like my sacred book. Gonna get the feels. I get so excited by it my nose starts bleeding. You guys need to watch more 3D. 2D is good too, but 3D has it’s own good parts.
+Ответ: A random nosebleed means youre working 2 hard. Go see a doctor
+```
 
-**AKIPOPOPOPOOON Can’t find it. Stolen? No, that’s not possible. It’s broken. Basically no one knows the real identity of Pleiades. I don’t want to think that people on the island stole it. But it is the winning machine…there might be people who would buy it**
-Reply: Don’t jump to conclusions
+------
 
-Afterwards, you’ll have a Kill-Ballad battle with Bob Lee.
-Inputting all prompts successfully without error nets you an achievement/trophy on Steam/PS4 respectively.
+## **7.17.2019 — Среда**
 
-## 7.19.2019 Friday
+Вы получите твипы от Джунны, Акихо и Geji-ne. Новых геотэгов не будет.
 
-This day starts off in the classroom. Make sure to pick up the usual geotag. Afterwards, reply to the tweeps.
+```ini
+AKIPOPOPOPOOON: This rain is just a gloom parade…
+Ответ: I don’t think you need to feel responsible
+```
 
-*GEOTAG No. 026: Today’s Chore Duty*
+```ini
+DAITOKU_JUNJUN: Been thinking about yesterday. Was karate a dream of mine? Would I want to continue even if dad hit me? Would I want to continue if I had to lie to him? Maybe I just did it from force of rabit…
+Ответ: You said you were sad quiting karate. Doesn’t that mean something? If you really ahted it you wouldn’t feel that way
+```
 
-**AKIPOPOPOPOOON WOOOO! The Time Has Come! Summer break starts tomorrow! H Y P E!**
-Reply: You gotta savor the perks of being a student
+```ini
+GEZI-SISTER: What is Alcyone?
+Ответ: The name of a star in the Pleiades star cluster
+```
 
-**FRAUKOUJIRO It’s so cold, doesn’t feel like I moved to the tropical area. Why is this island cold, huh? But I like it. I like the cold. Hate the heat. sun should just disappear. Sounds poetic but im serious**
-Reply: That’s the AC. You’re gonna catch a cold if you stay in that room
+------
 
-**GEZI-SISTER @UMISHO Why is your name UMISHO?**
-Reply: It’s my name read in a different way
+## **7.18.2019 — Четверг**
 
-Later on, at Kaito’s house at night, make sure to reply to these tweeps.
+Зайдя к Фрау, ответьте на следующие твипы:
 
-**FRAUKOUJIRO Do you like high school girls (NEETs) that have trashy rooms? I still don’t know how to take out the trash. I mean when is a butler with Four Eyes Butler gonna knock on my door? Hurry up, can’t control what’ll happen!**
-Reply: Hey, I try to clean up what trash I can whenever I visit. When do I get paid for it?
+```ini
+DAITOKU_JUNJUN: @UMISHO Yeah, I didn’t have the talent for karate, but I would still get sad and cry when I lost in tournaments. I would also cry on hard training days, but that was me being disappointed in myself…
+Ответ: It’s uncommon to cry due to frustration, which means you took it really seriously. You still think it was a forced habit?
+```
 
-**AKIPOPOPOPOOON Ganging up on her with so many people, making her cry, then uploading it to the world because you think it’s funny. It’s too cruel!!**
-Reply: Yeah, I saw it too and made me sick
+```ini
+AKIPOPOPOPOOON: Can’t find it. Stolen? No, that’s not possible. It’s broken. Basically no one knows the real identity of Pleiades. I don’t want to think that people on the island stole it. But it is the winning machine…there might be people who would buy it
+Ответ: Don’t jump to conclusions
+```
 
-## 7.20.2019 Saturday
+После выиграйте в Kill-Ballad у Боба Ли. Если не совершите ошибок при нажатии последовательности кнопок, то получите ачивку (или трофей на PS4).
 
-On this day, you’ve only got two tweeps to worry about. They’ll appear at Old Tanegashima Airport.
+------
 
-**AKIPOPOPOPOOON I can work on GunBuild-1 all day. There is nothing better**
-Reply: Don’t push yourself too much over it
+## **7.19.2019 — Пятница**
 
-**GEZI-SISTER @UMISHO What is a HUG?**
-Reply: Helpful Unlimited Gear
+Вы окажетесь в классе. Не забудьте проверить обновившийся геотэг дежурства и ответьте на несколько твипов.
 
-## 7.30.2019 Tuesday
+```mathematica
+GEOTAG No. 026: Today’s Chore Duty
+```
 
-You’ve only got one tweep from Geji-ne to worry about today. After this, you’ll progress into Phase 04.
+```ini
+AKIPOPOPOPOOON: WOOOO! The Time Has Come! Summer break starts tomorrow! H Y P E!
+Ответ: You gotta savor the perks of being a student
+```
 
-**GEZI-SISTER What does the the phrase “Time has come” mean?**Reply: It means now is when what you’ve been waiting for will happen
+```ini
+FRAUKOUJIRO: It’s so cold, doesn’t feel like I moved to the tropical area. Why is this island cold, huh? But I like it. I like the cold. Hate the heat. sun should just disappear. Sounds poetic but im serious
+Ответ: That’s the AC. You’re gonna catch a cold if you stay in that room
+```
 
+```ini
+GEZI-SISTER: @UMISHO Why is your name UMISHO?
+Ответ: It’s my name read in a different way
+```
 
+Позднее ночью, в доме Кайто, ответьте ещё на несколько твипов.
 
-# PHASE 4
+```ini
+FRAUKOUJIRO: Do you like high school girls (NEETs) that have trashy rooms? I still don’t know how to take out the trash. I mean when is a butler with Four Eyes Butler gonna knock on my door? Hurry up, can’t control what’ll happen!
+Ответ: Hey, I try to clean up what trash I can whenever I visit. When do I get paid for it?
+```
 
-## 7.30.2019 Tuesday
+```ini
+AKIPOPOPOPOOON: Ganging up on her with so many people, making her cry, then uploading it to the world because you think it’s funny. It’s too cruel!!
+Ответ: Yeah, I saw it too and made me sick
+```
 
-Following on from earlier in the day in Phase 03, there will be additional geotags to pick up, including one about a character that you might recognize from previous entries in the series, as well as a single tweep from Geji-ne.
+------
 
-**GEZI-SISTER What is a titty?**
-Reply: A woman’s large breast. Kinda old lingo tho
+## **7.20.2019 — Суббота**
 
-*GEOTAG No. 008: Kenichiro Senomiya*
-*GEOTAG No. 015: Nae Tennouji*
+В субботу нужно будет ответить всего на два твипа. Сделать это нужно в заброшенном аэропорту Танегашимы.
 
-## 7.31.2019 Wednesday
+```ini
+AKIPOPOPOPOOON: I can work on GunBuild-1 all day. There is nothing better
+Ответ: Don’t push yourself too much over it
+```
 
-On this day, you’ve only got some tweeps to worry about. These will all be just outside the building you found the first Kimijima Report in.
+```ini
+GEZI-SISTER: @UMISHO What is a HUG?
+Ответ: Helpful Unlimited Gear
+```
 
-**GEZI-SISTER @UMISHO Boobs right?**
-Reply: Yup that’s it!
+------
 
-**DAITOKU_JUNJUN My role keeps getting bigger and bigger. I’m really afraid that I shouldn’t be allowed to be here… People all around me are so talented. I couldn’t keep up yesterday either**
-Reply: You should learn from Frau Koujiro. I think that’ll help you out. Let’s be bold.
+## **7.30.2019 — Вторник**
 
-**FRAUKOUJIRO Oof, I feel dizzy. It must be because I was pulled out of my room for a long time yesterday. The sunlight is poison to shut-in, SMH**
-Reply: U k? Please don’t be like suddenly dead. That’d suck
+Осталось ответить всего на один твип от Айри. После этого вы попадёте на четвёртую фазу.
 
-## 8.01.2019 Thursday
+```ini
+GEZI-SISTER: What does the the phrase “Time has come” mean?
+Ответ: It means now is when what you’ve been waiting for will happen
+```
 
-On this day, in Kaito’s room, reply to the following tweep by Frau.
+------
 
-**FRAUKOUJIRO The hallway is soaked in water. Some of the windows shattered too. Gotta say the place is ruined. Wallet’s gonna get cold from all the repairs**
-Reply: But the atmosphere there is cool. Feels like a secret base. I’m just a visitor so I don’t worry about the practicalities
+# **ФАЗА 04**
 
-## 8.02.2019 Friday
+## **7.30.2019 — Вторник**
 
-This day has more scattered interactions, the first one will be on the Old Tanegashima Airport Runway.
+Попав в ФАЗУ 04, вас будут ждать твип от Айри и два геотэга, один из которых будет описывать знакомого вам по другим новеллам из серии Sciecne Adventure персонажа.
 
-**FRAUKOUJIRO I have no clothes to go out. All my clothes are covered in mud from the storm last night**
-Reply: Uh, really? Should I bring Aki-chan’s old clothes?
+```ini
+GEZI-SISTER: What is a titty?
+Ответ: A woman’s large breast. Kinda old lingo tho
+```
 
-Later, inside the Irei General Store, Geji-ne will have a tweep ready for you.
+```mathematica
+GEOTAG No. 008: Kenichiro Senomiya
+GEOTAG No. 015: Nae Tennouji
+```
 
-**GEZI-SISTER What is a Gunbam?**
-Reply: That’s what Aki-chan likes
+------
 
-And at night, in Kaito’s room, Aki has one for you.
+## **7.31.2019 — Среда**
 
-**AKIPOPOPOPOOON Let’s all go to the Yoira~Iki Festival together!!**
-Reply: Sure
+В этот день не будет новых геотэгов, только твипы. Ответить на них нужно у здания, в котором вы нашли первый отчёт Кимиджимы.
 
-## 8.03.2019 Saturday
+```ini
+GEZI-SISTER: @UMISHO Boobs right?
+Ответ: Yup that’s it!
+```
 
-On this day, the only thing you’ll have to worry about is a Kill-Ballad battle with Hanasono.
+```ini
+DAITOKU_JUNJUN: My role keeps getting bigger and bigger. I’m really afraid that I shouldn’t be allowed to be here… People all around me are so talented. I couldn’t keep up yesterday either
+Ответ: You should learn from Frau Koujiro. I think that’ll help you out. Let’s be bold.
+```
 
-## 8.05.2019 Monday
+```ini
+FRAUKOUJIRO: Oof, I feel dizzy. It must be because I was pulled out of my room for a long time yesterday. The sunlight is poison to shut-in, SMH
+Ответ: U k? Please don’t be like suddenly dead. That’d suck
+```
 
-Starting off at the Robot Clinic, Geji-ne has a tweep for you.
+------
 
-**GEZI-SISTER What are fireworks? AIri could not see them**
-Reply: It’s a big colorful thing that makes a loud sound. It’s very pretty.
+## **8.01.2019 — Четверг**
 
-Later on, at the Observation Park, there’s a geotag for you to pick up.
+Вам нужно ответить только на твип Фрау в комнате Кайто.
 
-*GEOTAG No. 127: TNSC Giant Rocket Launch Station*
+```ini
+FRAUKOUJIRO: The hallway is soaked in water. Some of the windows shattered too. Gotta say the place is ruined. Wallet’s gonna get cold from all the repairs
+Ответ: But the atmosphere there is cool. Feels like a secret base. I’m just a visitor so I don’t worry about the practicalities
+```
 
-## 8.07.2019 Wednesday
+------
 
-Starting off at the Old Tanegashima Airport with a tweep from Akiho.
+## **8.02.2019 — Пятница**
 
-**AKIPOPOPOPOOON Todays Schedule: Combine the upper and lower half together!**
-Reply: Good luck~
+В пятницу придётся слегка побегать. Первый твип от Фрау ждёт вас в заброшенном аэропорту Танегашимы, прямо на взлётной полосе:
 
-At some point you’ll see a loading screen, still at Old Tanegashima Airport, where there’ll be another tweep ready for you from Geji-ne.
+```ini
+FRAUKOUJIRO: I have no clothes to go out. All my clothes are covered in mud from the storm last night
+Ответ: Uh, really? Should I bring Aki-chan’s old clothes?
+```
 
-**GEZI-SISTER @UMISHO What’s Space candy?**
-Reply: Tasty mint candy
+Чуть позже, в универсаме Ирей, ответьте на твип Айри.
 
-And once again, at the Old Tanegashima Airport Runway, immediately before the GunBuild-1 assembly is complete, make sure to reply to Frau and Junna.
+```ini
+GEZI-SISTER: What is a Gunbam?
+Ответ: That’s what Aki-chan likes
+```
 
-**FRAUKOUJIRO Boo, my eyelids are heavy. Is it because I haven’t slept? Did I get too excited? Too many exciting, handsome boys? I don’t have anything particular to do, but havent slept for 3 days. And I’m 2 excited 2 sleep**
-Reply: You’ll get sick if you keep on doing that
+Ночью, в комнате Кайто, вас будет ждать твип от Аки-чан.
 
-**DAITOKU_JUNJUN Why wrap a robot in a scarf? It can’t feel cold. Weird**
-Reply: I hope it doesn’t get tangled in its legs and make it fall
+```ini
+AKIPOPOPOPOOON: Let’s all go to the Yoira~Iki Festival together!!
+Ответ: Sure
+```
 
-## 8.10.2019 Saturday
+------
 
-Once again, at the Old Tanegashima Airport runway, make sure to reply to Akiho’s tweep.
+## **8.03.2019 — Суббота**
 
-**AKIPOPOPOPOOON The time has come! Today I’m giving the GO! I was teased for 2 days now, I can’t wait!!!**
-Reply: Good luck~
+В этот день из важного вам предстоит только победа над Hanasono в Kill-Ballad.
 
-And later on, in the evening, make sure to reply to Junna’s tweep before you finish off Phase 04.
+------
 
-**DAITOKU_JUNJUN Today, I was no help. The absolute worst. I ran away, even though I was chosen… I’d lost the fight before it began. I tormented myself to not think about it. I kept on ignoring all the disappointed, pitiful feelings and repeated myself over and over**
-Reply: Focus on why you repeat yourself. If you don’t figure that out, you’ll never change. You got this!
+## **8.05.2019 — Понедельник**
 
+В Робоклинике вас ждёт твип Айри.
 
+```ini
+GEZI-SISTER: What are fireworks? AIri could not see them
+Ответ: It’s a big colorful thing that makes a loud sound. It’s very pretty.
+```
 
-# PHASE 5
+На смотровой площадке у TNSC вас будет ждать геотэг.
 
-## 8.13.2019 Tuesday
+```mathematica
+GEOTAG No. 127: TNSC Giant Rocket Launch Station
+```
 
-You’ll start out the Phase in front of the museum with a tweep from Frau.
+------
 
-**FRAUKOUJIRO My head itches… A lot. I know the reason though. I haven’t taken a bath for like 3 days. dehuhu**
-Reply: At least take baths. I can’t work with you like that
+## **8.07.2019 — Среда**
 
-Afterwards, in the park, you’ll need to reply to Geji-ne’s tweep.
+Начните свой день с ответа на твип Акихо в заброшенном аэропорту.
 
-**GEZI-SISTER What’s a cannon?**
-Reply: Aki-chan said it’s a gun that you carry on your shoulder
+```ini
+AKIPOPOPOPOOON: Todays Schedule: Combine the upper and lower half together!
+Ответ: Good luck~
+```
 
-## 8.18.2019 Sunday
+В какой-то момент вы увидите экран загрузки, находясь там же, в аэропорту. Затем ответьте на твип от Айри.
 
-There are quite a few tweeps to reply to on this day, although they’re all conveniently nested together at the Old Tanegashima Airport.
+```ini
+GEZI-SISTER: @UMISHO What’s Space candy?
+Ответ: Tasty mint candy
+```
 
-**AKIPOPOPOPOOON I want them to stop saying that it’s Big Sis’s fault. That was an accident, and no one at Exske was intending to do that. But they still air those words to the public. It’s so harsh. Makes them look bad…**
-Reply: If you stay on Misa-ne’s side, it will be fine.
+На взлётной полосе, прямо перед сборкой ГанСтроя-1, успейте ответить на твипы Фрау и Джунны.
 
-**FRAUKOUJIRO I just noticed that I haven’t cut my hair for over a year, just gonna leave it that way. Yup.**
-Reply: There are salons on the island so maybe get it cut? Oh, but you are miserable at places like that huh
+```ini
+FRAUKOUJIRO: Boo, my eyelids are heavy. Is it because I haven’t slept? Did I get too excited? Too many exciting, handsome boys? I don’t have anything particular to do, but havent slept for 3 days. And I’m 2 excited 2 sleep
+Ответ: You’ll get sick if you keep on doing that
+```
 
-**GEZI-SISTER What is a Boltvalian?**
-Reply: A power-type robot in Kill-Ballad
+```ini
+DAITOKU_JUNJUN: Why wrap a robot in a scarf? It can’t feel cold. Weird
+Ответ: I hope it doesn’t get tangled in its legs and make it fall
+```
 
-## 8.19.2019 Monday
+------
 
-You only have two tweeps to worry about on this day:
+## **8.10.2019 — Суббота**
 
-**GEZI-SISTER @UMISHO What is a pervert?**
-Reply: Someone like Frau Koujiro
+На взлётной полосе аэропорта найдите и ответьте на твип Акихо.
 
-**AKIPOPOPOPOOON All right, going in-! Central T Robot Club! Yoira~iki!**
-Reply: Counting on your negotiation technique, Aki-chan
+```ini
+AKIPOPOPOPOOON: The time has come! Today I’m giving the GO! I was teased for 2 days now, I can’t wait!!!
+Ответ: Good luck~
+```
 
-## 8.20.2019 Tuesday
+Позже вечером перед окончанием фазы 4 ответьте на твип Джунны.
 
-At Frau’s house, reply to Junna’s tweep. Afterwards, you’ll have a Kill-Ballad battle with Takanoai.
+```ini
+DAITOKU_JUNJUN: Today, I was no help. The absolute worst. I ran away, even though I was chosen… I’d lost the fight before it began. I tormented myself to not think about it. I kept on ignoring all the disappointed, pitiful feelings and repeated myself over and over
+Ответ: Focus on why you repeat yourself. If you don’t figure that out, you’ll never change. You got this!
+```
 
-**DAITOKU_JUNJUN I couldn’t keep ui with them at all yesterday. Thinking, again, about why I’m here**
-Reply: Aki-chan said we’d build it together, remember? Of course you belong here
+------
 
-## 8.21.2019 Wednesday
+# **ФАЗА 05**
 
-Inside Chikura Cavern, you’ll find a geotag that’ll automatically be activated through the story. This is the only thing to worry about on this day.
+## **8.13.2019 — Вторник**
 
-*Automatic Story GEOTAG No. 115: Flag 3 13-16 x3*
+В начале фазы 5, находясь у музея, ответьте на твип Фрау:
 
-## 8.23.2019 Friday
+```ini
+FRAUKOUJIRO: My head itches… A lot. I know the reason though. I haven’t taken a bath for like 3 days. dehuhu
+Ответ: At least take baths. I can’t work with you like that
+```
 
-Inside Kaito’s room, reply to these two tweeps.
+Позже, в парке, ответьте на твип Айри:
 
-**FRAUKOUJIRO This island has too many bugs, it’s not even funny**
-Reply: You should ask the club president for help. She takes out 10 to 20 bugs with just her hand
+```ini
+GEZI-SISTER: What’s a cannon?
+Ответ: Aki-chan said it’s a gun that you carry on your shoulder
+```
 
-**GEZI-SISTER What is the inside of the Chikura Cavern like?**
-Reply: It’s large enough to fit 1000 people
+------
 
-At the Old Tanegashima Airport Terminal, there will be some geotags that you might not have picked up yet:
+## **8.18.2019 — Воскресенье**
 
-*GEOTAG No. 086: Old Tanegashima Airport Terminal*
-*GEOTAG No. 055: MI361X*
-*GEOTAG No. 054: MA808X*
+В заброшенном аэропорту вас ждут три твипа.
 
-**FRAUKOUJIRO But before that gonna search for some 2D BL media for my pleasure♪**
-Reply: Just get some rest
+```ini
+AKIPOPOPOPOOON: I want them to stop saying that it’s Big Sis’s fault. That was an accident, and no one at Exske was intending to do that. But they still air those words to the public. It’s so harsh. Makes them look bad…
+Ответ: If you stay on Misa-ne’s side, it will be fine.
+```
 
-A while later on the same day, you’ll start the search for the Third Kimijima Report
+```ini
+FRAUKOUJIRO: I just noticed that I haven’t cut my hair for over a year, just gonna leave it that way. Yup.
+Ответ: There are salons on the island so maybe get it cut? Oh, but you are miserable at places like that huh
+```
 
-Go to Deluoode Map
+```ini
+GEZI-SISTER: What is a Boltvalian?
+Ответ: A power-type robot in Kill-Ballad
+```
 
-For an additional geotag, go to General Tanegashima Hospital before progressing further.
+------
 
-*GEOTAG No. 110: Tanegashima Central Hospital*
+## **8.19.2019 — Понедельник**
 
-After this, reply to Akiho’s tweep and NO others:
+В понедельник нужно ответить всего на пару твипов:
 
-**AKIPOPOPOPOOON Uncle Kanade may look intense, but really he’s just annoying. But it may only be when he talks to me… Yeah, I get that my requests don’t make much money, but he doesn’t have to point it out!**
-Reply: Did you complain about the inferior goods you were given? You need to speak up for yourself
+```ini
+GEZI-SISTER: @UMISHO What is a pervert?
+Ответ: Someone like Frau Koujiro
+```
 
-**Make a save here. This will be referred to as Save 01 in the future. For future reference, make sure to lock the save.**
+```ini
+AKIPOPOPOPOOON: All right, going in-! Central T Robot Club! Yoira~iki!
+Ответ: Counting on your negotiation technique, Aki-chan
+```
 
-Getting the location of the report wrong 10 times will net you a trophy/achievement.
+------
 
-For that, you could go with the following order:
-\1. The Robot Clinic
-\2. Tanegashima Central Hospital (again)
-\3. Hase Park
-…and repeat, since these are right next to each other.
+## **8.20.2019 — Вторник**
 
-The geotag will finally be located at Hamada Swimming Beach.
+Находясь у Фрау, ответьте на твип Джунны. После него у вас будет сражение в Kill-Ballad с Takanoai.
 
-Open up IRUO. and move above the Chikura Cavern tag, and there should be a faint power-sign there
+```ini
+DAITOKU_JUNJUN: I couldn’t keep ui with them at all yesterday. Thinking, again, about why I’m here
+Ответ: Aki-chan said we’d build it together, remember? Of course you belong here
+```
 
-*GEOTAG No. 067: Kimijima Report No. 3.*
+------
+
+
+
+## **8.21.2019 — Среда**
+
+В гроте Чикура найдите автоматически активируемый геотэг.
+
+```mathematica
+Automatic Story GEOTAG No. 115: Flag 3 13-16 x3
+```
+
+------
+
+
+
+## **8.23.2019 — Пятница**
+
+В комнате Кайто ответьте на два следующих твипа:
+
+```ini
+FRAUKOUJIRO: This island has too many bugs, it’s not even funny
+Ответ: You should ask the club president for help. She takes out 10 to 20 bugs with just her hand
+```
+
+```ini
+GEZI-SISTER: What is the inside of the Chikura Cavern like?
+Ответ: It’s large enough to fit 1000 people
+```
+
+В терминале заброшенного аэропорта находятся геотэги, которые вы могли упустить:
+
+```mathematica
+GEOTAG No. 086: Old Tanegashima Airport Terminal
+GEOTAG No. 055: MI361X
+GEOTAG No. 054: MA808X
+```
+
+Ещё нужно ответить на твип Фрау:
+
+```ini
+FRAUKOUJIRO: But before that gonna search for some 2D BL media for my pleasure♪
+Ответ: Just get some rest
+```
+
+Чуть позже вы будете искать третий отчёт Кимиджимы. Во время поисков откройте Deluoode Map и перейдите к Танегашимской больнице. Там будет геотэг.
+
+```mathematica
+GEOTAG No. 110: Tanegashima Central Hospital
+```
+
+После этого, ответьте **ТОЛЬКО** на твип Акихо. **НЕ** отвечайте на другие.
+
+```ini
+AKIPOPOPOPOOON: Uncle Kanade may look intense, but really he’s just annoying. But it may only be when he talks to me… Yeah, I get that my requests don’t make much money, but he doesn’t have to point it out!
+Ответ: Did you complain about the inferior goods you were given? You need to speak up for yourself
+```
+
+**Сохранитесь. Пусть для удобства это сохранение будет называться *Сейв-01*. Желательно заблокировать сохранение во избежание эксцессов.**
+
+Определив местонахождение отчёта Кимиджимы неверно 10 раз подряд, вы получите ачивку.
+
+Для этого, ходите по локациям в таком порядке:
+
+1. Робоклиника
+
+2. Танегашимская больница (да-да, снова к ней)
+
+3. Парк Хейз
+
+   …и так далее снова в том же порядке, поскольку эти места рядом друг с другом.
+
+Сам геотэг расположен на пляже Хамада.
+
+Откройте IRUO. и наведите камеру чуть выше тэга грота Чикура, там будет едва видный значок.
+
+```mathematica
+GEOTAG No. 067: Kimijima Report No. 3.
+```
 
 ![img](https://www.kirikiribasara.com/wp-content/uploads/2020/10/kimijima03-1024x576.jpg)
 
-## 8.24.2019 Saturday
+------
 
-Do NOT reply to @GEZI-SISTER’s tweep. This is the only thing you’ll need to worry about here.
+## **8.24.2019 — Суббота**
 
+**НЕ ОТВЕЧАЙТЕ** на твип @GEZI-SISTER. Пока что это единственное, о чём вам следует помнить.
 
+------
 
-# PHASE 5 - NAE PHASE
+# **ФАЗА 05 — РУТ НАЭ**
 
-## 8.26.2019 Monday
+## **8.26.2019 — Понедельник**
 
-There’s only a single tweep to worry about on this day.
+За этот день нужно ответить лишь на твип Акихо.
 
-**AKIPOPOPOPOOON I can’t eat from the shock of it all**
-Reply: I understand your feelings, but don’t forget you’re the club president
+```ini
+AKIPOPOPOPOOON: I can’t eat from the shock of it all
+Ответ: I understand your feelings, but don’t forget you’re the club president
+```
 
-Later in the day, you’ll have a Kill-Ballad battle with Nae.
+Позже вам предстоит сразиться в Kill-Ballad с Наэ.
 
-## 8.27.2019 Tuesday
+------
 
-**AKIPOPOPOPOOON Shocked about Gunvarrel. 2 days and I’m still not over it. I guess more than shocked, I am dissapointed. I get all heated thinking about the last episode. I guess I liked Gunvarrel that much**
-Reply: Don’t believe everything you see on the internet
+## **8.27.2019 — Вторник**
 
-## 8.28.2019 Wednesday
+```ini
+AKIPOPOPOPOOON: Shocked about Gunvarrel. 2 days and I’m still not over it. I guess more than shocked, I am dissapointed. I get all heated thinking about the last episode. I guess I liked Gunvarrel that much
+Ответ: Don’t believe everything you see on the internet
+```
 
-At the Sandy Beach near Chikura Cavern, reply to Geji-ne’s tweep.
+------
 
-**GEZI-SISTER What is a hibiscus?**
-Reply: A summer flower
+## **8.28.2019 — Среда**
 
-##### PHASE 5 END - NAE ENDING
+Находясь на пляже у грота Чикуры, ответьте на твип Айри.
 
+```ini
+GEZI-SISTER: What is a hibiscus?
+Ответ: A summer flower
+```
 
+### **КОНЕЦ ФАЗЫ 05 — КОНЦОВКА РУТА НАЭ**
 
-# PROGRESSING ONTO PHASE 06
+------
 
-Load Save 01 and do the following:
+# **ПЕРЕХОД НА ФАЗУ 6**
 
-Do NOT reply to FRAUKOUJIRO’s tweet.
+Загрузите сейв-01 и следуйте инструкции:
 
-Reply to DAITOKU_JUNJUN’s Tweet:
+**НЕ ОТВЕЧАЙТЕ** на твип FRAUKOUJIRO.
 
-**When I’m by myself I’m able to focus. Maybe I’m not meant for group work…**
-Reply: I think it’s amazing that you can still try when no one is watching. You are winning the fight against yourself.
+Ответьте на твип Джунны:
 
-Replying to this tweet will net you an achievement confirming that you’ve unlocked the flags for PHASE 06.
+```ini
+DAITOKU_JUNJUN: When I’m by myself I’m able to focus. Maybe I’m not meant for group work…
+Ответ: I think it’s amazing that you can still try when no one is watching. You are winning the fight against yourself.
+```
 
-Then, go to Hamada Beach and pick up the Third Kimijima Report again using the Deluoode Map trigger.
+После ответа на этот твип вам добавится ачивка, подтверждающая, что вы разблокировали необходимые флаги для перехода на ФАЗУ 06.
 
-## 8.24.2019 Saturday
+Затем идите на пляж Хамада и снова откройте третий отчёт Кимиджимы с помощью триггера на Deluoode Map.
 
-Once again, do **NOT** reply to GEZI-SISTER’s tweet.
+------
 
+## 8.24.2019 — Суббота
 
+**НЕ ОТВЕЧАЙТЕ** на твип Айри.
 
-# PHASE 6 - JUNNA PHASE
+------
 
-## 9.14.2019 Saturday
+# **ФАЗА 06 — РУТ ДЖУННЫ**
 
-Starting off Junna’s phase, you’ll need to reply to her tweeps:
+## 9.14.2019 — Суббота
 
-**DAITOKU_JUNJUN My counselor said attending college would be hard for me… I did terrible on that last tast before summer…**
-Reply: There are colleges that you don’t need to take a test to get in, why not go to one of those?
+В начале рута Джунны вам нужно будет ответить на два её твипа:
 
-**DAITOKU_JUNJUN Lots of students at the dojo. Thinking about my brothers’ schooling. Maybe I should get a job instead of going to college…**
-Reply: Nowadays, it’s pretty hard to get a job. Not too many places hire high school graduates
+```ini
+DAITOKU_JUNJUN: My counselor said attending college would be hard for me… I did terrible on that last tast before summer…
+Ответ: There are colleges that you don’t need to take a test to get in, why not go to one of those?
+```
 
-## 9.15.2019 Sunday
+```ini
+DAITOKU_JUNJUN: Lots of students at the dojo. Thinking about my brothers’ schooling. Maybe I should get a job instead of going to college…
+Ответ: Nowadays, it’s pretty hard to get a job. Not too many places hire high school graduates
+```
 
-Outside the TNSC First Osaki Office, make sure to pick up the geotag associated with it. Make sure to reply to Geji-ne’s tweep, too.
+------
 
-*GEOTAG No. 103: TNSC First Osaki Office*
+## 9.15.2019 — Воскресенье
 
-**GEZI-SISTER Blood Tune, RaiNet Kakeru, Z Gunbam. Have you seen any of these anime?**
-Reply: Blood Tune
-Once you make your way inside, pick up the geotags in there as well:
+Снаружи первого ангара сборки ракет (First Osaki Office) прочтите связанный с ним геотэг и ответьте на твип Айри.
 
-*GEOTAG No. 058: Gunvarrel Prototype Model-2*
+```mathematica
+GEOTAG No. 103: TNSC First Osaki Office
+```
 
-## 9.20.2019 Friday
+```ini
+GEZI-SISTER: Blood Tune, RaiNet Kakeru, Z Gunbam. Have you seen any of these anime?
+Ответ: Blood Tune
+```
 
-Starting out at the Robot Clinic, reply to Geji-ne’s tweep.
+Оказавшись внутри, откройте все геотэги и здесь.
 
-**GEZI-SISTER @UMISHO What do you hide in your secret base?**
-Reply: A eroge
+```mathematica
+GEOTAG No. 058: Gunvarrel Prototype Model-2
+```
 
-At the Central Tanegashima Hospital, reply to Akiho’s tweep.
+------
 
-**AKIPOPOPOPOOON But nonetheless, I like robots that are like Bang! Shing! Horns coming out of their head or shoulders. An animal face on the chest, and it combines together!**
-Reply: There are a lot of robots with an animal face on their chests. Even I’ve noticed that. I wonder why?
+## 9.20.2019 — Пятница
 
-## 9.21.2019 Saturday
+Находясь в Робоклинике, ответьте на твип Айри.
 
-Inside the robot clinic, reply to tweeps made by Akiho and Junna.
+```ini
+GEZI-SISTER: @UMISHO What do you hide in your secret base?
+Ответ: A eroge
+```
 
-**DAITOKU_JUNJUN I’m still not doing good enough…**
-Reply: Live without regrets
+В Танегашимской больнице отвеьте Акихо на её твип.
 
-**AKIPOPOPOPOOON Kai rarely helps out. Usually he won’t help cuz he says he’s lazy**
-Reply: I have my own reasons. It’s a secret
+```ini
+AKIPOPOPOPOOON: But nonetheless, I like robots that are like Bang! Shing! Horns coming out of their head or shoulders. An animal face on the chest, and it combines together!
+Ответ: There are a lot of robots with an animal face on their chests. Even I’ve noticed that. I wonder why?
+```
 
-Afterwards, once you make it outside the Robot Clinic, reply to Geji-ne’s tweep.
+------
 
-**GEZI-SISTER @UMISHO What is your favourite robot?**
-Reply: Multi
+## 9.21.2019 — Суббота
 
-## 9.22.2019 Sunday
+Находясь в Робоклинике, ответьте на твипы Акихо и Джунны.
 
-On this day, you will only have one tweep by Junna to worry about:
+```ini
+DAITOKU_JUNJUN: I’m still not doing good enough…
+Ответ: Live without regrets
+```
 
-**DAITOKU_JUNJUN What am I doing here…?**
-Reply: You are worried about Doc. That should be enough. Don’t overthink it.
+```ini
+AKIPOPOPOPOOON: Kai rarely helps out. Usually he won’t help cuz he says he’s lazy
+Ответ: I have my own reasons. It’s a secret
+```
 
-## 9.25.2019 Wednesday
+После выхода наружу, ответьте и Айри:
 
-In the warehouse near the Robot Clinic, reply to Akiho’s tweep:
+```ini
+GEZI-SISTER: @UMISHO What is your favourite robot?
+Ответ: Multi
+```
 
-**AKIPOPOPOPOOON Being simple is very nice. Maintenance is so much easier♪**
-Reply: Then you should have made model 1 simple too
+------
 
-## 9.26.2019 Thursday
+## 9.22.2019 — Воскресенье
 
-The day starts out in the classroom, so make sure to get the usual geotag.
+В этот день вам нужно ответить лишь на твип Джунны:
 
-*GEOTAG No. 027: Today’s Chore Duty*
+```ini
+DAITOKU_JUNJUN: What am I doing here…?
+Ответ: You are worried about Doc. That should be enough. Don’t overthink it.
+```
 
-Afterwards, in the Parking Lot, make sure to claim the geotag there.
+------
 
-*GEOTAG No. 041: MFU555X*
+## 9.25.2019 — Среда
 
-Afterwards, the hunt for Kimijima Report No. 4 begins.
+На складе у Робоклиники вам нужно ответить на твип Акихо.
 
-Go to Cape Kadokura (Listed as Kadokuramisaki in Deluoode Map). At Cape Kadokura, you’ll unlock the following geotag:
+```ini
+AKIPOPOPOPOOON: Being simple is very nice. Maintenance is so much easier♪
+Ответ: Then you should have made model 1 simple too
+```
 
-*GEOTAG No. 128: Misaki Shrine*
+------
 
-While you’re there, reply to Akiho’s tweep:
+## 9.26.2019 — Четверг
 
-**AKIPOPOPOPOOON Repairing was fun, seeing it fixed was fun, but right now, I’m just sad**
-Reply: Aki-chan, just keep being yourself. Staying positive for no good reason is your best quality
+День начнётся в школьном классе, проверьте обновившийся геотэг дежурства.
 
-Finally, the report will be located at Hase Park. Open up IRUO. and look just under the table between the table foot and the chairs.
+```mathematica
+GEOTAG No. 027: Today’s Chore Duty
+```
 
-*GEOTAG No. 068: Kimijima Report No. 04*
+Получите также геотэг и на парковке:
+
+```mathematica
+GEOTAG No. 041: MFU555X
+```
+
+Затем начнётся поиск отчёта Кимиджимы №4.
+
+Перейдите к мысу Кадокура (на Deluoode Map отмечен как Kadokuramisaki). Там вам откроется ещё один геотэг:
+
+```mathematica
+GEOTAG No. 128: Misaki Shrine
+```
+
+Пока вы здесь, ответьте Акихо в Twipo:
+
+```ini
+AKIPOPOPOPOOON: Repairing was fun, seeing it fixed was fun, but right now, I’m just sad
+Ответ: Aki-chan, just keep being yourself. Staying positive for no good reason is your best quality
+```
+
+Сам отчёт Кимиджимы будет расположен в парке Хейз. Откройте IRUO. и наведите камеру прямо между низом стола и сиденьями.
+
+```mathematica
+GEOTAG No. 068: Kimijima Report No. 04
+```
 
 ![img](https://www.kirikiribasara.com/wp-content/uploads/2020/10/kimijima04-1024x576.jpg)
 
-## 9.27.2019 Friday
+------
 
-At Junna’s house, reply to Geji-ne’s tweep and unlock the geotag there.
+## 9.27.2019 — Пятница
 
-**GEZI-SISTER What kind of world do you hope for, Big Brother?**
-Reply: A society ruled by moe
+Находясь у Джунны дома, откройте местный геотэг и ответьте на твип Айри.
 
-*GEOTAG No. 095: Daitoku Karate Dojo*
+```ini
+GEZI-SISTER: What kind of world do you hope for, Big Brother?
+Ответ: A society ruled by moe
+```
 
-Afterwards, at night and still at Junna’s house, reply to Akiho’s tweep:
+```mathematica
+GEOTAG No. 095: Daitoku Karate Dojo
+```
 
-**AKIPOPOPOPOOON @UMISHO Kai! How’d the mission go?! Let me know when you’re done!**
-Reply: Jun-chan’s food was good.
+Ночью, там же, ответьте на твип Акихо.
 
-## 10.03.2019 Thursday
+```ini
+AKIPOPOPOPOOON: @UMISHO Kai! How’d the mission go?! Let me know when you’re done!
+Ответ: Jun-chan’s food was good.
+```
 
-Make sure to open up Twipo. If you’ve followed the guide so far, you’ll be in for a surprise. Make sure to reply to the tweeps listed.
+------
 
-**DAITOKU_JUNJUN Everyone in Robot Club, tank you…**
-Reply: It’s the results of your hard work. You should be proud of yourself
+## 10.03.2019 — Четверг
 
-**AKIPOPOPOPOOON Ah ha, I think I have talent as an event producer. Like a wedding planner! Well, I don’t plan on being one though! Cuz my dream~ is to build a robot! Hehe~!**
-Reply: It was your achievement. That’s wh you’re club president!
+Откройте Twipo. Если вы в точности следовали указаниям гайда, то вас ждёт приятная отсылка. Ответьте на следующие твипы:
 
-**GEZI-SISTER From Geji-ne to Yashio-san, I would like to introduce someone perfect for your hobby. He is an old online friend and his name is Neidhardt der Blitzschnelle. I think you will get along**
+```ini
+DAITOKU_JUNJUN: Everyone in Robot Club, tank you…
+Ответ: It’s the results of your hard work. You should be proud of yourself
+```
 
-Upon viewing this tweet, you will receive the “I-I’m Not Interested in 3D… Hehehe” achievement. Tweeps from Neidhardt der Blitzschnelle will now start appearing in Tab D on Twipo.
+```ini
+AKIPOPOPOPOOON: Ah ha, I think I have talent as an event producer. Like a wedding planner! Well, I don’t plan on being one though! Cuz my dream~ is to build a robot! Hehe~!
+Ответ: It was your achievement. That’s wh you’re club president!
+```
 
-##### PHASE 6 END - JUNNA ENDING
+```ini
+GEZI-SISTER: From Geji-ne to Yashio-san, I would like to introduce someone perfect for your hobby. He is an old online friend and his name is Neidhardt der Blitzschnelle. I think you will get along
+```
 
+При просмотре последнего твипа вы получите ачивку «I-I’m Not Interested in 3D… Hehehe». Теперь твипы от Neidhardt der Blitzschnelle будут отображаться во вкладке D Twipo.
 
+### КОНЕЦ ФАЗЫ 06 — КОНЦОВКА ДЖУННЫ
 
-# PROGRESSING ONTO PHASE 7
+------
 
-Load Save 01 once again. This time, do NOT reply to Junna’s tweet Instead, reply to FRAUKOUJIRO’s Tweet:
+# **ПЕРЕХОД К ФАЗЕ 07**
 
-**FRAUKOUJIRO: Σ(ﾟДﾟ；) Spent 3 whole hours collecting Kojyurou x Masamune pics haha… Not lol…**
-Reply: Go to sleep
+Снова загрузите сейв-01. На этот раз, **НЕ ОТВЕЧАЙТЕ** на твип Джунны, но ответьте на твип Фрау:
 
-Then go to Hamada Beach and pick up the third Kimijima Report again using the Deluoode Map trigger.
+```ini
+FRAUKOUJIRO: Σ(ﾟДﾟ；) Spent 3 whole hours collecting Kojyurou x Masamune pics haha… Not lol…
+Ответ: Go to sleep
+```
 
-## 8.24.2019 Saturday
+После, идите на пляж Хамада и снова найдите третий отчёт Кимиджимы.
 
-Once again, do NOT reply to GEZI-SISTER’s tweet.
+------
 
+## 8.24.2019 — Суббота
 
+**НЕ ОТВЕЧАЙТЕ** на твип Айри.
 
-# PHASE 7 - FRAU PHASE
+------
 
-## 11.09.2019 Saturday
+# **ФАЗА 07 — РУТ ФРАУ**
 
-Starting out in front of the TNSC offices, make sure to reply to Frau’s tweep:
+## 11.09.2019 — Суббота
 
-**FRAUKOUJIRO It’s been a while since I’ve had a dream. Usually I sleep so deep I don’t remember my dreams**
-Reply: Been a while since you posted. How are you?
+Находясь у TNSC, ответьте на твипы Фрау:
 
-## 11.13.2019 Wednesday
+```ini
+FRAUKOUJIRO: It’s been a while since I’ve had a dream. Usually I sleep so deep I don’t remember my dreams
+Ответ: Been a while since you posted. How are you?
+```
 
-Make sure to reply to Akiho and Geji-ne’s tweeps as soon as possible:
+------
 
-**AKIPOPOPOPOOON I think this is the first time in 2 1/2 years that I felt this fulfilled since I joined Robot Club. Oh, it’s so fun! I wish this started 2 years ago! Moewaki-senpai, are you watching?! Robot Club is finally moving forwaaarrrddd!**
-Reply: Glad you are having fun. You look better when you’re care free about making robots than when you’re hesitant. In a good way!
+## 11.13.2019 — Среда
 
-**GEZI-SISTER What is a mad scientist?**
-Reply: Someone said it’s the kinda person who gets mad if you call ’em Chuunibyou.
+Ответьте на твипы Айри и Акихо, как только они появятся.
 
-Later, at Frau’s house, make sure to do the same with Junna’s tweep.
+```ini
+AKIPOPOPOPOOON: I think this is the first time in 2 1/2 years that I felt this fulfilled since I joined Robot Club. Oh, it’s so fun! I wish this started 2 years ago! Moewaki-senpai, are you watching?! Robot Club is finally moving forwaaarrrddd!
+Ответ: Glad you are having fun. You look better when you’re care free about making robots than when you’re hesitant. In a good way!
+```
 
-**DAITOKU_JUNJUN The runway is getting cold…**
-Reply: If we are just motion capturing, we don’t need to be on the runway
+```ini
+GEZI-SISTER: What is a mad scientist?
+Ответ: Someone said it’s the kinda person who gets mad if you call ’em Chuunibyou.
+```
 
-## 11.18.2019 Monday
+Позже, дома у Фрау, ответьте на твип Джунны:
 
-Before starting to search for the fifth Kimijima Report, make sure to reply to Akiho’s tweep:
+```ini
+DAITOKU_JUNJUN: The runway is getting cold…
+Ответ: If we are just motion capturing, we don’t need to be on the runway
+```
 
-**AKIPOPOPOPOOON I didn’t even think that I’d be going to Robot Club with S-kun 6 months ago…**
-Reply: I dunno about you, but I think Doc got a lot more mellow
+------
 
-The hunt for Kimijima Report No. 5 begins. On the Deluoode Map trigger, go to the Year 3 General Course Classroom to unlock an additional geotag and an additional tweep.
+## 11.18.2019 — Понедельник
 
-*GEOTAG No. 028: Today’s Chore Duty*
+Перед началом поисков пятого отчёта Кимиджимы ответьте на твип Акихо:
 
-**AKIPOPOPOPOOON Recently, my sheet metaling skills have gone up a lot. If I keep it going can I become the Second Robot Doctor?**
-Reply: Doc is gonna be furious if you keep talking like that
+```ini
+AKIPOPOPOPOOON: I didn’t even think that I’d be going to Robot Club with S-kun 6 months ago…
+Ответ: I dunno about you, but I think Doc got a lot more mellow
+```
 
-Then go to the Parking Lot for an additional 2 geotags
+Начался поиск отчёта Кимиджимы №5. На Deluoode Map, выберите класс третьегодок средней школы (Year 3 Central Course Classroom), чтобы найти дополнительный геотжг и твип:
 
-*GEOTAG No. 047: MME947X*
-*GEOTAG No. 042: MFU555X*
+```mathematica
+GEOTAG No. 028: Today’s Chore Duty
+```
 
-Then go to the school entrance to pick up the Report.
-It’ll be located just ever so slightly to the right of the middle flagpole in the top left.
+```ini
+AKIPOPOPOPOOON: Recently, my sheet metaling skills have gone up a lot. If I keep it going can I become the Second Robot Doctor?
+Ответ: Doc is gonna be furious if you keep talking like that
+```
 
-*GEOTAG No. 069: Kimijima Report No. 5*
+Перейдя на парковку, вы найдёте ещё два геотэга:
+
+```mathematica
+GEOTAG No. 047: MME947X
+GEOTAG No. 042: MFU555X
+```
+
+У входа в школу вы найдёте нужный отчёт Кимиджимы. Он расположен слегка правее среднего флага слева вверху.
+
+```mathematica
+GEOTAG No. 069: Kimijima Report No. 5
+```
 
 ![img](https://www.kirikiribasara.com/wp-content/uploads/2020/10/kimijima05-1024x576.jpg)
 
-## 11.19.2019 Tuesday
+------
 
-At Akiho’s house, reply to Aki and Geji-ne’s tweeps.
+## 11.19.2019 — Вторник
 
-**GEZI-SISTER @UMISHO Do you like women’s breasts, Big Brother? How about ones that are underdeveloped?**
-Reply: Small titties are justice. As it is written in the sacred texts
+Находясь дома у Акихо, ответьте на её твип и твип Айри.
 
-**AKIPOPOPOPOOON I wonder what’s going to happen to Tokyo…**
-Reply: This was expected to happen… Should’ve taken it seriously
+```ini
+GEZI-SISTER: @UMISHO Do you like women’s breasts, Big Brother? How about ones that are underdeveloped?
+Ответ: Small titties are justice. As it is written in the sacred texts
+```
 
-## 11.20.2019 Wednesday
+```ini
+AKIPOPOPOPOOON: I wonder what’s going to happen to Tokyo…
+Ответ: This was expected to happen… Should’ve taken it seriously
+```
 
-In front of the Old Airport Hotel, that is to say, Frau’s house, reply to Geji-ne’s tweep.
+------
 
-**GEZI-SISTER @UMISHO What do you think about being called “Big Brother” from AIri? Should I change it to “Big Bro” or “Only Bro” or “Bro-bo”. Or rather, I can copy myself 12 times and each could call you something different. Standing by**
-Reply: I would like you to keep calling me Big Brother
+## 11.20.2019 — Среда
 
-Once you’re inside, reply to Geji-ne’s follow-up tweep:
+Перед отелем у заброшенного аэропорта (который стал Фрау домом), ответьте на твип Айри.
 
-**GEZI-SISTER @UMISHO If Big Brother was able to choose AIri’s outfit, what would you like it to be? No matter your answer, no DLCs will be added. Even if someone were to offer to pay for it, they still would’t be added. Especially if they’re sexual in nature.**
-Reply: How about a cat-ear maid. Give it a chance
+```ini
+GEZI-SISTER: @UMISHO What do you think about being called “Big Brother” from AIri? Should I change it to “Big Bro” or “Only Bro” or “Bro-bo”. Or rather, I can copy myself 12 times and each could call you something different. Standing by
+Ответ: I would like you to keep calling me Big Brother
+```
 
-## 11.21.2019 Thursday
+При заходе внутрь вам придёт ещё один твип от неё, на который тоже нужно ответить.
 
-On this day, you only have a tweep from Geji-ne to worry about:
+```ini
+GEZI-SISTER: @UMISHO If Big Brother was able to choose AIri’s outfit, what would you like it to be? No matter your answer, no DLCs will be added. Even if someone were to offer to pay for it, they still would’t be added. Especially if they’re sexual in nature.
+Ответ: How about a cat-ear maid. Give it a chance
+```
 
-**GEZI-SISTER @UMISHO If you could use AIri for anything, what would you do? Would you use me for pleasure?**
-Reply: I would make you my girlfriend
+------
 
-## 11.22.2019 Friday
+## 11.21.2019 — Четверг
 
-The only thing you’ll have to worry about on this day is a Kill-Ballad battle, although it’s with an unknown opponent.
+В четверг вас ждёт всего один твип от Айри:
 
-## 11.28.2019 Thursday
+```ini
+GEZI-SISTER: @UMISHO If you could use AIri for anything, what would you do? Would you use me for pleasure?
+Ответ: I would make you my girlfriend
+```
 
-If you’ve followed the guide so far, you’ll receive a tweep from Geji-ne introducing you to DaSH. Afterwards, reply to Akiho with her tweep and finish off Frau’s phase.
+------
 
-**GEZI-SISTER @UMISHO From Geji-ne to Yashio-san, I’ve found someone I want to introduce who seems perfect for your hobby. The person’s name is DaSH. He gets mad if you call him Super Hacka, so please be careful**
+## 11.22.2019 — Пятница
 
-Upon viewing this tweet, you’ll get the “It’s Hacker, Not Hacka” trophy/achievement. Tweeps from DaSH will now start showing up in Tab D in Twipo.
+В этот день вам нужно только победить против незнакомца в Kill-Ballad.
 
-**AKIPOPOPOPOOON @UMISHO I’ll pick you up at your house. Been a while since we went to school. Let’s go together!**
-Reply: Of course. I mean, I am your guardian
+------
 
-##### PHASE 7 END - FRAU ENDING
+## 11.28.2019 — Четверг
 
+Если вы в точности следовали указаниям гайда, то вы получите твип от Айри с упоминанием @DaSH. Ответьте на твип Акихо и добейте до конца рут Фрау.
 
+```ini
+AKIPOPOPOPOOON: @UMISHO I’ll pick you up at your house. Been a while since we went to school. Let’s go together!
+Ответ: Of course. I mean, I am your guardian
+```
 
-# PROGRESSING ONTO PHASE 8
+```ini
+GEZI-SISTER: @UMISHO From Geji-ne to Yashio-san, I’ve found someone I want to introduce who seems perfect for your hobby. The person’s name is DaSH. He gets mad if you call him Super Hacka, so please be careful
+```
 
-Load Save 01 once again. This time, do not reply to Junna OR Frau’s tweets
+После просмотра этого твипа вы получите ачивку «It’s Hacker, Not Hacka». Теперь твипы от DaSH будут отображаться во вкладке D Twipo.
 
-Go to Hamada Beach and pick up Kimijima Report No. 3 again
+### КОНЕЦ ФАЗЫ 07 — КОНЦОВКА ФРАУ
 
-## 8.24.2019 Saturday
+------
 
-Reply to GEZI-SISTER’s tweet
+# **ПЕРЕХОД К ФАЗЕ 08**
 
-**GEZI-SISTER What is GunBuild-2?**
-Reply: A giant robot
+И ещё раз загрузите сейв-01. На этот раз не отвечайте на твипы Джунны ИЛИ Фрау.
 
+Идите на пляж Хамада и получите отчёт Кимиджимы №3.
 
+------
 
-# PHASE 8 - AIRI PHASE
+## 8.24.2019 — Суббота
 
-## 12.11.2019 Wednesday
+Ответьте на твип Айри.
 
-This day only has things going on in the classroom. Make sure to pick up the usual geotag and reply to the tweeps.
+```ini
+GEZI-SISTER: What is GunBuild-2?
+Ответ: A giant robot
+```
 
-*GEOTAG No. 029: Today’s Chore Duty*
+------
 
-**FRAUKOUJIRO Wowww, this year’s Winter ComiMa has a lot more groups participating with Gunvarrel. I thought it would be a lot less so now I’m thinking about going. It wasn’t dead content after all**
-Reply: Have you gone before? I heard that it’s a no newcomers allowed event. Is that true?
+# **ФАЗА 08 — РУТ АЙРИ**
 
-**DAITOKU_JUNJUN Finished testinggg. Last test of my hs life, I think? I bet the results are going to be bad…**
-Reply: Since it’s our last test, I wish we’d done better
+## 12.11.2019 — Среда
 
-## 12.13.2019 Friday
+Находясь в классе, проверьте обновившийся геотэг и ответьте на два твипа:
 
-This day only has triggers to worry about at the Old Tanegashima Airport Runway.
+```mathematica
+GEOTAG No. 029: Today’s Chore Duty
+```
 
-**AKIPOPOPOPOOON I wonder if the others on the island will help in the first place… They don’t treat us positively**
-Reply: That’s just an excuse. You have to do something about it. That’s it
+```ini
+FRAUKOUJIRO: Wowww, this year’s Winter ComiMa has a lot more groups participating with Gunvarrel. I thought it would be a lot less so now I’m thinking about going. It wasn’t dead content after all
+Ответ: Have you gone before? I heard that it’s a no newcomers allowed event. Is that true?
+```
 
-**GEZI-SISTER IN THE SKKKKKKKKKKKKKKKKKKKKKKKKKKKKYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY**
-Reply: Are you ok?
+```ini
+DAITOKU_JUNJUN: Finished testinggg. Last test of my hs life, I think? I bet the results are going to be bad…
+Ответ: Since it’s our last test, I wish we’d done better
+```
 
-## 12.14.2019 Saturday
+------
 
-Once at the beach, reply to Geji-ne’s tweep.
+## 12.13.2019 — Пятница
 
-**GEZI-SISTER Sand**
-Reply: Sounds like you are malfunctioning
+Вас ждут только твипы на взлётной полосе аэропорта.
 
-## 12.19.2019 Thursday
+```ini
+AKIPOPOPOPOOON: I wonder if the others on the island will help in the first place… They don’t treat us positively
+Ответ: That’s just an excuse. You have to do something about it. That’s it
+```
 
-At Uchugaoka Park, make sure to reply to Frau and Geji-ne’s tweeps:
+```ini
+GEZI-SISTER: IN THE SKKKKKKKKKKKKKKKKKKKKKKKKKKKKYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+Ответ: Are you ok?
+```
 
-**FRAUKOUJIRO @UMISHO That place is a battlefield. Not a game. And theres way 2 many people. In the summer, it’s defa waiting in line for hours in the blazing sun. Strong memories of waiting for 4 hours for major companies. Even though the old man next to me was having major bowel issues, I lived through it and stayed in line**
-Reply: Amazing. No one complains and just powers through it?
+------
 
-**GEZI-SISTER LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI**
-Reply: Stop. Respect your master
+## 12.14.2019 — Суббота
 
-## 12.22.2019 Sunday
+Попав на пляж, ответьте на твип Айри:
 
-At the Old Tanegashima Airport, make sure to reply to Junna and Geji-ne’s tweeps.
+```ini
+GEZI-SISTER: Sand
+Ответ: Sounds like you are malfunctioning
+```
 
-**DAITOKU_JUNJUN @AKIPOPOPOPOOON I made that…**
-Reply: Then it must taste good. Lucky
+------
 
-**GEZI-SISTER Kashikashi**
-Reply: Cashews?
+## 12.19.2019 — Четверг
 
-## 12.23.2019 Monday
+В парке Учугаока ответьте Фрау и Айри на их твипы.
 
-When in front of Kaito’s house, reply to Frau’s tweep, and then start looking for the sixth Kimijima Report.
+```ini
+FRAUKOUJIRO: @UMISHO That place is a battlefield. Not a game. And theres way 2 many people. In the summer, it’s defa waiting in line for hours in the blazing sun. Strong memories of waiting for 4 hours for major companies. Even though the old man next to me was having major bowel issues, I lived through it and stayed in line
+Ответ: Amazing. No one complains and just powers through it?
+```
 
-**FRAUKOUJIRO @UMISHO Current attendance for Day 1 is about 300k. 3 years ago, the sacred place was expanded and it became chaotic. About 30% travel from overseas. Tbh, the people from the countryside have intense eyes**
-Reply: How did you live through that battle field
+```ini
+GEZI-SISTER: LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI LOLI
+Ответ: Stop. Respect your master
+```
 
-When prompted, open Deluoode Map, and go to Otatsu Metatsu Rocks.
+------
 
-*GEOTAG No. 113: Otatsu Metatsu Rocks*
+## 12.22.2019 — Воскресенье
 
-While you’re here, make sure to reply to Akiho, Junna and Geji-ne’s tweeps.
+На заброшенном аэропорту Танегашимы ответьте на твипы Джунны и Айри.
 
-**AKIPOPOPOPOOON Ah, but, I would like to do a small Christmas party with the members of the Robot Club. I don’t know how many times all 5 of us will be gathered together. Let’s have cake as a pre-party for GunBuild-2 completion**
-Reply: Good idea. Breaks are needed
+```ini
+DAITOKU_JUNJUN: @AKIPOPOPOPOOON: I made that…
+Ответ: Then it must taste good. Lucky
+```
 
-**DAITOKU_JUNJUN At my house we have a custom that every Christmas we celebrate with cream covered Okinawan donuts. It’s probably from the Okinawan blood in us ♪**
-Reply: Sounds good. Next time treat just me
+```ini
+GEZI-SISTER: Kashikashi
+Ответ: Cashews?
+```
 
-**GEZI-SISTER Christmas Eve…**
-Reply: It’d be nice if it lasted until tomorrow.
+------
 
-After sending the tweets, open up IRUO. again, and unlock Kimijima Report No. 6. It’ll be located slightly to the right of the Otatsu Metatsu Rocks geotag.
+## 12.23.2019 — Понедельник
 
-*GEOTAG No. 070: Kimijima Report No. 6*
+Перед домом Кайто ответьте на твип Фрау, а затем начните искать шестой отчёт Кимиджимы.
+
+```ini
+FRAUKOUJIRO: @UMISHO Current attendance for Day 1 is about 300k. 3 years ago, the sacred place was expanded and it became chaotic. About 30% travel from overseas. Tbh, the people from the countryside have intense eyes
+Ответ: How did you live through that battle field
+```
+
+Когда будет можно, откройте Deluoode Map и переместитесь к камням Отацу-Метацу.
+
+```mathematica
+GEOTAG No. 113: Otatsu Metatsu Rocks
+```
+
+Пока вы тут, ответьте на твипы Акихо, Джунны и Айри.
+
+```ini
+AKIPOPOPOPOOON: Ah, but, I would like to do a small Christmas party with the members of the Robot Club. I don’t know how many times all 5 of us will be gathered together. Let’s have cake as a pre-party for GunBuild-2 completion
+Ответ: Good idea. Breaks are needed
+```
+
+```ini
+DAITOKU_JUNJUN: At my house we have a custom that every Christmas we celebrate with cream covered Okinawan donuts. It’s probably from the Okinawan blood in us ♪
+Ответ: Sounds good. Next time treat just me
+```
+
+```ini
+GEZI-SISTER: Christmas Eve…
+Ответ: It’d be nice if it lasted until tomorrow.
+```
+
+Как справитесь с твипами, откройте IRUO. снова и найдите отчёт Кимиджимы №6. Он расположен правее геотэга Отацу-Метацу, на левой стороне тории.
+
+```mathematica
+GEOTAG No. 070: Kimijima Report No. 6
+```
 
 ![img](https://www.kirikiribasara.com/wp-content/uploads/2020/10/kimijima06-1024x576.jpg)
 
-## 12.27.2019 Friday
+------
 
-On this day, make sure to open up Twipo for a tweep from Frau introducing you to KuriGohan and Kamehameha
+## 12.27.2019 — Пятница
 
-**FRAUKOUJIRO @UMISHO If u r interested in thin-books, I have a friend in Tokyo who can get them for you. A regular attendee at ComiMa each year. I only know them online, but I heard they r friends with DaSH. Username: KuriGohan and Kamehameha.**
+Не забудьте открыть Twipo и найти твип Фрау, в котором она представляет вас @KuriGohan and Kamehameha:
 
-Upon reading this tweet, you will get the “I’m Not the Assistant” trophy/achievement. After this, tweeps from “KuriGohan and Kamehameha” will start showing up in Tab D in Twipo.
+```ini
+FRAUKOUJIRO: @UMISHO If u r interested in thin-books, I have a friend in Tokyo who can get them for you. A regular attendee at ComiMa each year. I only know them online, but I heard they r friends with DaSH. Username: KuriGohan and Kamehameha.
+```
 
-##### PHASE 8 END - AIRI ENDING
+После прочтения этого твипа вам добавится ачивка «I’m Not the Assistant». После, твипы от Курису будут появляться во вкладке D Twipo.
 
+### КОНЕЦ ФАЗЫ 08 — КОНЦОВКА АЙРИ
 
+------
 
-# PROGRESSING BEYOND PHASE 8
+# **ОКОНЧАНИЕ ФАЗЫ 08**
 
-From the title screen, press **Phase 09 Start** to progress to Phase 09.
+Из главного меню нажмите появившийся пункт **Phase 09 Start**, чтобы перейти к ФАЗЕ 09.
 
+------
 
+# **ФАЗА 09**
 
-# PHASE 9
+## 1.24.2020 — Пятница
 
-## 1.24.2020 Friday
+Ответьте на твип Акихо в ангаре аэропорта:
 
-At the Old Tanegashima Airport Hangar, make sure to reply to reply to Akiho’s tweep:
+```ini
+AKIPOPOPOPOOON: In the video of GunBuild-2 that we took for the Expo, forget my intro part. I think GunBuild-2 should look cool! I want to add awesome BGM and SEs but S-kun won’t let me… Is that okay?
+Ответ: oh yeah, that kinda stuff would def. help it
+```
 
-**AKIPOPOPOPOOON In the video of GunBuild-2 that we took for the Expo, forget my intro part. I think GunBuild-2 should look cool! I want to add awesome BGM and SEs but S-kun won’t let me… Is that okay?**
-Reply: oh yeah, that kinda stuff would def. help it
+Позже ночью, находясь снаружи комнаты, в которой вы нашли первый отчёт Кимиджимы, ответьте на новый твип Акихо:
 
-Later at night, just outside the room where you discovered the first Kimijima Report, make sure to reply to Akiho’s next tweep:
+```ini
+AKIPOPOPOPOOON: There isn’t anything more sad than Gunvarrel drifting away from the hearts of children…
+Ответ: It’z cuz that incident was so public. Nothing you can do about that
+```
 
-**AKIPOPOPOPOOON There isn’t anything more sad than Gunvarrel drifting away from the hearts of children…**
-Reply: It’z cuz that incident was so public. Nothing you can do about that
+------
 
-## 1.25.2020 Saturday
+## 1.25.2020 — Суббота
 
-Starting out the day in front of Irei General Store, reply to Junna’s tweep before looking for the seventh Kimijima Report:
+Вы окажетесь у универсама Ирей. Ответьте на твип Джунны перед началом поисков седьмого отчёта Кимиджмы.
 
-**DAITOKU_JUNJUN It’s almost graduation. I didn’t think I’d be operating a robot around t his time… But this feels right**
-Reply: Getting over it is important. Maybe you are becoming one of us
+```ini
+DAITOKU_JUNJUN: It’s almost graduation. I didn’t think I’d be operating a robot around t his time… But this feels right
+Ответ: Getting over it is important. Maybe you are becoming one of us
+```
 
-When prompted to pick a location in Deluoode Map, pick Cape Kadokura (listed in the maps application as Kadokuramisaki).
+Когда вам предложат выбрать локацию на Deluoode Map, выберите мыс Кадокура (на картах назван как Kadokuramisaki).
 
-**AKIPOPOPOPOOON Kai, ditching at a time like this! I’ll make Jun the official operator if this continues!**
-Reply: Rather than being mad at me ditching, you should compliment Jun-chan’s progress
+```ini
+AKIPOPOPOPOOON: Kai, ditching at a time like this! I’ll make Jun the official operator if this continues!
+Ответ: Rather than being mad at me ditching, you should compliment Jun-chan’s progress
+```
 
-After this, open IRUO. and select the power mark dead-center on the upper part of the Torii (Shrine Gate).
+После ответа на твип Акихо, откройте IRUO. и найдите иконку включения на верхней части тории (врат храма).
 
-*GEOTAG No. 071: Kimijima Report No. 7*
+```mathematica
+GEOTAG No. 071: Kimijima Report No. 7
+```
 
 ![img](https://www.kirikiribasara.com/wp-content/uploads/2020/10/kimijima07-1024x576.jpg)
 
-## 1.29.2020 Wednesday
+------
 
-This day only has events at the Old Tanegashima Airport Hangar.
-**Make a new save point here. Make sure to lock it. This save will be referred to as Save 02 from now on.** 
+## 1.29.2020 — Среда
 
-The only thing to worry about is a Kill-Ballad battle with Akiho, which decides if you get the phase’s bad ending or progress forward to Phase 10. Make sure to win to reach Phase 09’s Bad Ending, which nets you an achievement/trophy.
+**Сохранитесь. И заблокируйте это сохранение. С этого момента пусть оно называется Сейв-02.**
 
-##### PHASE 9 - BAD ENDING
+Вам стоит беспокоиться только о битве с Акихо в Kill-Ballad, она влияет на то, получите ли вы плохую концовку (если выиграете), или продвинетесь дальше к фазе 10 (если проиграете). Сначала выиграйте у Акихо для получения плохой концовки и связанной с ней ачивки.
 
-Load Save 02, and instead lose to Akiho to progress to Phase 10
+### ФАЗА 09 — ПЛОХАЯ КОНЦОВКА
 
+Загрузите сейв-02, проиграйте Акихо и продвиньтесь дальше к фазе 10.
 
+------
 
-# PHASE 10
+# **ФАЗА 10**
 
-## 2.19.2020 Wednesday
+## 2.19.2020 — Среда
 
-The only thing to worry about in this phase trigger-wise is in front of Tokyo Expo Odaiba Arena AQUA, where Akiho has a tweep for you to reply to:
+The only thing to worry about in this phase trigger-wise is in front of Tokyo Expo Odaiba Arena AQUA, where Akiho has a tweep for you to Ответ to:
 
-**AKIPOPOPOPOOON A little worried all by myself. Makes me think they might not come back…**
-Reply: I’m already in Odaiba. Don’t worry
+Единственная активность в этой фазе — твип Акихо, на который нужно ответить перед ареной Одайба на выставке в Токио (Tokyo Expo Odaiba Arena AQUA):
 
-
-
-# PHASE 11
-
-## 2.26.2020 Monday
-
-At the JAXA Chofu Space Center, immediately after Airi appears, open IRUO. for an additional geotag. This is the only thing to worry about in this phase.
-
-*GEOTAG No. 004: Airi Yukifune*
-
-
-
-# PHASE 12
-
-## 2.27.2020 Thursday
-
-At the Old Tanegashima Airport Hangar, reply to Junna and Mr Pleiades’ tweeps.
-
-**Mr_PLEIADES @AKIPOPOPOPOOON @UMISHO Now is not the time for that! Don’t worry about nonsense!**
-Reply: Looks like you grew up a bit, S-kun
-
-**DAITOKU_JUNJUN I’ll try! Hidaka-kun forgave me! I’ll be Hidaka-kun’s legs! I have confidence in my stamina!**
-Reply: Let’s see the real you
-
-Afterwards, in the classroom, make sure to get the usual geotag.
-
-*GEOTAG No. 030: Today’s Chore Duty*
-
-## 2.28.2020 Friday
-
-At the Old Tanegashima Airport Hangar, make sure to reply to Akiho’s tweep.
-
-**AKIPOPOPOPOOON You need to just rest, Kai! Your time will come later. Stay in the best condition you can, don’t lest everybody’s hrd work go to waste. Counting on you**
-Reply: Right, I know
-
-**Before the final fight, make a new save. This will be referred to as Save 03.**
-
-Make sure to lose to SUMERAGI by entering one wrong button input to reach Phase 12’s bad end.
-
-##### PHASE 12 - BAD ENDING
-
-Then, reload Save 03 and win against both SUMERAGI and KAMINAGI. All commands must be done correctly. Failing will result in you instantly getting the bad end.
-
-##### PHASE 12 - AKIHO ENDING
-
-Theoretically, there shouldn’t be any leftovers at this point, but if there are, please let us know and we’ll update the guide with any missing info. Nocchi-yo!
-
-
-
-# CREDITS
-
-This guide was made possible by:
-
-**Seiya-Saiga:** Original Guide
-**Spike Chunsoft:** For providing the review copy that made this guide possible to get out this close to release.
-**Martin:** For the assistance with the version of the guide on Kiri Kiri Basara
-**Davixxa:** She was the one who wrote the guide and matched up the Japanese text with the translated versions in the English version of the game. All the screenshots are from her playthrough as well.
-
-# H1 - heading
-
-<h2 data-toc-skip>H2 - heading</h2>
-
-<h3 data-toc-skip>H3 - heading</h3>
-
-<h4>H4 - heading</h4>
----
-<br>
-
-## Paragraph
-
-I wandered lonely as a cloud
-
-That floats on high o'er vales and hills,
-
-When all at once I saw a crowd,
-
-A host, of golden daffodils;
-
-Beside the lake, beneath the trees,
-
-Fluttering and dancing in the breeze.
-
-## Lists
-
-### Ordered list
-
-1. Firstly
-2. Secondly
-3. Thirdly
-
-### Unordered list
-
-- Chapter
-  - Section
-    - Paragraph
-
-### Task list
-
-- [ ] TODO
-- [x] Completed
-- [ ] Defeat COVID-19
-  - [x] Vaccine production
-  - [ ] Economic recovery
-  - [ ] People smile again
-
-### Description list
-
-Sun
-: the star around which the earth orbits
-
-Moon
-: the natural satellite of the earth, visible by reflected light from the sun
-
-## Block Quote
-
-> This line to shows the Block Quote.
-
-## Tables
-
-| Company                      | Contact          | Country |
-|:-----------------------------|:-----------------|--------:|
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Island Trading               | Helen Bennett    | UK      |
-| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
-
-## Links
-
-<http://127.0.0.1:4000>
-
-## Footnote
-
-Click the hook will locate the footnote[^footnote], and here is another footnote[^fn-nth-2].
-
-## Images
-
-- Default (with caption)
-
-![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" }
-_Full screen width and center alignment_
-
-<br>
-
-- Shadow
-
-![Window shadow](/posts/20190808/window.png){: .shadow width="1548" height="864" style="max-width: 90%" }
-_shadow effect (visible in light mode)_
-
-<br>
-
-- Left aligned
-
-![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" style="max-width: 70%" .normal}
-
-<br>
-
-- Float to left
-
-  ![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" style="max-width: 200px" .left}
-  "A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space."
-
-<br>
-
-- Float to right
-
-  ![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" style="max-width: 200px" .right}
-  "A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space."
-
-<br>
-
-## Mermaid SVG
-
-```mermaid
- gantt
-  title  Adding GANTT diagram functionality to mermaid
-  apple :a, 2017-07-20, 1w
-  banana :crit, b, 2017-07-23, 1d
-  cherry :active, c, after b a, 1d
+```ini
+AKIPOPOPOPOOON: A little worried all by myself. Makes me think they might not come back…
+Ответ: I’m already in Odaiba. Don’t worry
 ```
 
-## Mathematics
+------
 
-The mathematics powered by [**MathJax**](https://www.mathjax.org/):
+# **ФАЗА 11**
 
-$$ \sum_{n=1}^\infty 1/n^2 = \frac{\pi^2}{6} $$
+## 2.26.2020 — Понедельник
 
-When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
+У космического центра Танегашимы JAXA, сразу после появления Айри, откройте IRUO. и получите ещё один геотэг. Больше в этой фазе активностей нет.
 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
-
-## Inline code
-
-This is an example of `Inline Code`.
-
-## Code block
-
-### Common
-
-```
-This is a common code snippet, without syntax highlight and line number.
+```mathematica
+GEOTAG No. 004: Airi Yukifune
 ```
 
-### Specific Languages
+------
 
-#### Console
+# **ФАЗА 12**
 
-```console
-$ env |grep SHELL
-SHELL=/usr/local/bin/bash
-PYENV_SHELL=bash
+## 2.27.2020 — Четверг
+
+В ангаре заброшенного аэропорта, ответьте Джунне и мистеру Плеядесу на их твипы:
+
+```ini
+Mr_PLEIADES: @AKIPOPOPOPOOON: @UMISHO Now is not the time for that! Don’t worry about nonsense!
+Ответ: Looks like you grew up a bit, S-kun
 ```
 
-#### Shell
-
-```bash
-if [ $? -ne 0 ]; then
-    echo "The command was not successful.";
-    #do the needful / exit
-fi;
+```ini
+DAITOKU_JUNJUN: I’ll try! Hidaka-kun forgave me! I’ll be Hidaka-kun’s legs! I have confidence in my stamina!
+Ответ: Let’s see the real you
 ```
 
-### Specific filename
+После, в классе, проверьте обновившийся геотэг дежурства:
 
-```sass
-@import
-  "colors/light-typography",
-  "colors/dark-typography"
+```mathematica
+GEOTAG No. 030: Today’s Chore Duty
 ```
-{: file='_sass/jekyll-theme-chirpy.scss'}
 
-## Reverse Footnote
+------
 
-[^footnote]: The footnote source
-[^fn-nth-2]: The 2nd footnote source
+## 2.28.2020 — Пятница
+
+В ангаре заброшенного аэропорта, ответьте на твип Акихо:
+
+```ini
+AKIPOPOPOPOOON: You need to just rest, Kai! Your time will come later. Stay in the best condition you can, don’t lest everybody’s hrd work go to waste. Counting on you
+Ответ: Right, I know
+```
+
+**Перед финальным боем обязательно сохранитесь. Пусть это сохранение называется сейв-03.**
+
+*Проиграйте* SUMERAGI, нажав одну кнопку неправильно, для получения плохой концовки фазы 12.
+
+### ФАЗА 12 — ПЛОХАЯ КОНЦОВКА
+
+Затем, загрузите сейв-03 и победите и SUMERAGI, и KAMINAGI. Ошибаться в вводе клавиш нельзя. Любая ошибка приведёт к поражению и получению плохой концовки.
+
+### ФАЗА 12 — КОНЦОВКА АКИХО
+
+Всё, больше не должно оставаться никаких препятствий для получения последней концовки за Акихо. Спокойно проходите игру до конца и получайте последние ачивки.
+
+------
+
+**АВТОРЫ**
+
+Этот гайд не был написан с нуля, это всего лишь перевод гайда на английском языке [отсюда](https://www.kirikiribasara.com/2020/10/13/roboticsnotes-elite-100-guide/). Авторство принадлежит ребятам с сайта KiriKiriBasara. Когда выйдет русский перевод Robotics;Notes Elite, я сделаю такой же гайд с фразами персонажей, соответствующими русскому переводу и добавлю в шапку упоминание или ссылку, но пока что пользуемся этим гайдом.
