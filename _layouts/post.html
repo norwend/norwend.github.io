@@ -2,7 +2,6 @@
 layout: default
 # The posts' layout
 ---
-
 {% include lang.html %}
 
 <div class="row">
@@ -141,18 +140,27 @@ layout: default
   </div> <!-- .col-* -->
 
 </div> <!-- .row -->
+
+<script type="module" src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.1/dist/js.cookie.min.js"></script>
+<script nomodule defer src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.1/dist/js.cookie.min.js"></script>
 <script type="text/javascript">
-  if (document.location != "https://alphachan.tk/posts/chiyomaru-shikura/") {
-    var delay_popup = 5000;
+   $(document).ready(function() {
+
+     if (Cookies.get('Chiyo') == null) {
+       var delay_popup = 5000;
     var delay_close = 12000;
     setTimeout("document.getElementById('bg_popup').style.display='block'", delay_popup);
     setTimeout("document.getElementById('close').style.display='block'", delay_close);
-  }
+     }
+     if (Cookies.get('Chiyo') == 1) {
+          // Reactions
+     }
+ });
 </script>
 
 <div id="bg_popup">
   <div id="popup_div">
-  <a href="/posts/chiyomaru-shikura/"><img id="popup" srcset="/bannerphone2.png 1600w, /bannerpc.png 1920w" src="/bannerpc.png" alt="banner" /></a>
-<a id="close" href="#" title="Закрыть" onclick="document.getElementById('bg_popup').style.display='none'; return false;">X</a>
+  <a href="/posts/chiyomaru-shikura/" onclick="Cookies.set('Chiyo', '1', { expires: 2});"><img id="popup" srcset="/bannerphone2.png 1600w, /bannerpc.png 1920w" src="/bannerpc.png" alt="banner" /></a>
+<a id="close" href="#" title="Закрыть" onclick="document.getElementById('bg_popup').style.display='none'; Cookies.set('Chiyo', '1', { expires: 2}); return false;">X</a>
 </div>
 </div>
