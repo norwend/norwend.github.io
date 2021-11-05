@@ -1122,7 +1122,7 @@ image:
 ***GEOTAG No. 067: Kimijima Report No. 3.***
 
 
-![img](https://www.kirikiribasara.com/wp-content/uploads/2020/10/kimijima03-1024x576.jpg)
+![img](/kimijima03.jpg)
 
 ------
 
@@ -1336,7 +1336,7 @@ image:
 ***GEOTAG No. 068: Kimijima Report No. 04***
 
 
-![img](https://www.kirikiribasara.com/wp-content/uploads/2020/10/kimijima04-1024x576.jpg)
+![img](/kimijima04.jpg)
 
 ------
 
@@ -1473,7 +1473,7 @@ image:
 ***GEOTAG No. 069: Kimijima Report No. 5***
 
 
-![img](https://www.kirikiribasara.com/wp-content/uploads/2020/10/kimijima05-1024x576.jpg)
+![img](/kimijima05.jpg)
 
 ------
 
@@ -1684,7 +1684,7 @@ image:
 ***GEOTAG No. 070: Kimijima Report No. 6***
 
 
-![img](https://www.kirikiribasara.com/wp-content/uploads/2020/10/kimijima06-1024x576.jpg)
+![img](/kimijima06.jpg)
 
 ------
 
@@ -1753,7 +1753,7 @@ image:
 ***GEOTAG No. 071: Kimijima Report No. 7***
 
 
-![img](https://www.kirikiribasara.com/wp-content/uploads/2020/10/kimijima07-1024x576.jpg)
+![img](/kimijima07.jpg)
 
 ------
 
