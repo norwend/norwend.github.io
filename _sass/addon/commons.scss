@@ -195,7 +195,7 @@ footer {
 .access {
   top: 2rem;
   transition: top 0.2s ease-in-out;
-  margin-right: 1.5rem;
+  margin-right: 0;
   margin-top: 3rem;
   margin-bottom: 4rem;
 
@@ -1165,7 +1165,7 @@ color: var(--sidebar-links);
   Responsive Design:
 
  {sidebar, content, panel} >= 1120px screen width
- {sidebar, content} >= 850px screen width
+ {content, panel} >= 850px screen width
  {content} <= 849px screen width
 
 */
@@ -1575,7 +1575,7 @@ color: var(--sidebar-links);
 
     > div:first-child {
       padding-left: 0.55rem !important;
-      padding-right: 1.9rem !important;
+      padding-right: 0rem !important;
     }
   }
 
@@ -1732,7 +1732,7 @@ color: var(--sidebar-links);
 @media all and (min-width: 1700px) {
   #topbar-wrapper {
     /* 100% - 350px - (1920px - 350px); */
-    padding-right: 0;
+    padding-right: calc(100% - #{$sidebar-width-large} - (1920px - #{$sidebar-width-large}));
   }
 
   #topbar {
