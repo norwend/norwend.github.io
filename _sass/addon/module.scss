@@ -76,7 +76,7 @@
 
 @mixin pl-pr($val) {
   padding-left: $val;
-  padding-right: $val;
+  padding-right: 0;
 }
 
 @mixin input-placeholder {
