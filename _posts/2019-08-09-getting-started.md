@@ -4,7 +4,6 @@ author: Cotes Chung
 date: 2021-11-01 20:55:00 +0300
 categories: [Blogging, Tutorial]
 tags: [getting started]
-pin: true
 ---
 
 ## Prerequisites

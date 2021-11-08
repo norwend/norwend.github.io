@@ -6,6 +6,7 @@ categories: [Гайд]
 tags: [Robotics;Notes]
 math: true
 mermaid: true
+pin: true
 image:
   src: /roboticsbanner.jpg
   #width: 300
