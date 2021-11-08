@@ -837,7 +837,8 @@ color: var(--sidebar-links);
 
     @include ml-mr(auto);
     @include pl-pr(1rem);
-
+padding-right: 1rem;
+padding-left: 1rem;
     %icon {
       width: 2.4rem;
       text-align: center;
