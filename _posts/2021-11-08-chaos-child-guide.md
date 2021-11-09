@@ -1,5 +1,5 @@
 ---
-title: Гайд полного прохождения Chaos;Child
+title: Гайд 100% прохождения Chaos;Child
 author: Маха
 date: 2021-11-08 19:11:00 +0300
 categories: [Гайд]

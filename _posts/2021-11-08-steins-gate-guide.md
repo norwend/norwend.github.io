@@ -1,5 +1,5 @@
 ---
-title: Гайд по Steins;Gate
+title: Гайд 100% прохождения Steins;Gate
 author: Маха
 date: 2021-11-08 23:11:00 +0300
 categories: [Гайд]

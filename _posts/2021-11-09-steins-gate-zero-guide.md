@@ -1,5 +1,5 @@
 ---
-title: Полный гайд по Steins;Gate 0
+title: Гайд 100% прохождения Steins;Gate 0
 author: Маха
 date: 2021-11-09 18:11:00 +0300
 categories: [Гайд]
