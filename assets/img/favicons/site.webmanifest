@@ -6,7 +6,7 @@ layout: compress
 
 {
   "name": "{{ site.title }}",
-  "short_name": "{{ site.title }}",
+  "short_name": "Alphachan",
   "description": "{{ site.description }}",
   "icons": [
     {
