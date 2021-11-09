@@ -7,7 +7,8 @@ layout: compress
   <msapplication>
     <tile>
       <square150x150logo src="{{ '/assets/img/favicons/mstile-150x150.png' | relative_url }}" />
-      <TileColor>#da532c</TileColor>
+      <square310x310logo src="{{ '/assets/img/favicons/mstile-310x310.png' | relative_url }}" />
+      <TileColor>#00a300</TileColor>
     </tile>
   </msapplication>
 </browserconfig>
