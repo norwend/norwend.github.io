@@ -30,6 +30,8 @@ image:
 
 ![map4](/sgelite/map4.png)
 
+------
+
 ## **СЮЖЕТНЫЕ ДОСТИЖЕНИЯ**
 
 <img align="left" src="/sgelite/1.jpg" style="padding-right: 1rem; margin-top: 6px;"/> **Prologue of the Beginning and the End**
