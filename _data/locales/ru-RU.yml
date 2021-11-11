@@ -19,13 +19,13 @@ tabs:
 # the text displayed in the search bar & search results
 search:
   hint: Поиск
-  cancel: Отмена
+  cancel: Назад
   no_results: Ничего не найдено.
 
 panel:
-  lastmod: Обновлено
-  trending_tags: Популярные теги
-  toc: Контент
+  lastmod: Недавние:
+  trending_tags: Свежие теги:
+  toc: Контент:
 
 #  The liquid date format › http://strftime.net/
 date_format:
@@ -67,15 +67,15 @@ post:
     minute: минут назад
     just_now: только что
   words: слов
-  pageview_measure: просмотры
+  pageview_measure: просмотров
   read_time:
     unit: минут
     prompt: 
   relate_posts: Связанное
   share: Поделиться
   button:
-    next: Более новые
-    previous: Более старые
+    next: Следующий
+    previous: Предыдущий
     copy_code:
       succeed: Скопировано!
     share_link:
