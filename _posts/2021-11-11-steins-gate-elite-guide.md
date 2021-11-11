@@ -26,7 +26,7 @@ image:
 
 ![map2](/sgelite/map2.jpg)
 
-![map3](/sgelite/map3.png)
+![map3](/sgelite/map1.png)
 
 ![map4](/sgelite/map4.png)
 
