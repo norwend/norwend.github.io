@@ -7,7 +7,7 @@ tags: [Chaos;Child]
 math: true
 mermaid: true
 image:
-  src: /chaosbanner.png
+  src: /childguide/chaosbanner.png
   #width: 300
   height: 100
 ---
@@ -53,7 +53,7 @@ image:
 
 Чтобы получить хорошую концовку этого рута, вам нужно расположить в определённый момент метки на карте в правильном порядке. На картинке ниже показано, где их следует размещать (установка фанатского [патча от Committee of Zero](http://sonome.dareno.me/projects/chaoschild-steam.html) исправляет недоперевод и переводит надписи на карте).
 
-![img](\chaoschildmap1.jpg)
+![img](/childguide/chaoschildmap1.jpg)
 
 ------
 

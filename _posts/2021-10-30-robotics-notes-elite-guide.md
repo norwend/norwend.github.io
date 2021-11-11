@@ -8,7 +8,7 @@ math: true
 mermaid: true
 pin: true
 image:
-  src: /roboticsbanner.jpg
+  src: /rneguide/roboticsbanner.jpg
   #width: 300
   height: 100
 ---
@@ -1123,7 +1123,7 @@ image:
 ***GEOTAG No. 067: Kimijima Report No. 3.***
 
 
-![img](/kimijima03.jpg)
+![img](/rneguide/kimijima03.jpg)
 
 ------
 
@@ -1337,7 +1337,7 @@ image:
 ***GEOTAG No. 068: Kimijima Report No. 04***
 
 
-![img](/kimijima04.jpg)
+![img](/rneguide/kimijima04.jpg)
 
 ------
 
@@ -1474,7 +1474,7 @@ image:
 ***GEOTAG No. 069: Kimijima Report No. 5***
 
 
-![img](/kimijima05.jpg)
+![img](/rneguide/kimijima05.jpg)
 
 ------
 
@@ -1685,7 +1685,7 @@ image:
 ***GEOTAG No. 070: Kimijima Report No. 6***
 
 
-![img](/kimijima06.jpg)
+![img](/rneguide/kimijima06.jpg)
 
 ------
 
@@ -1754,7 +1754,7 @@ image:
 ***GEOTAG No. 071: Kimijima Report No. 7***
 
 
-![img](/kimijima07.jpg)
+![img](/rneguide/kimijima07.jpg)
 
 ------
 

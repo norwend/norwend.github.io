@@ -7,7 +7,7 @@ tags: [Steins;Gate]
 math: true
 mermaid: true
 image:
-  src: /steinsbanner.jpg
+  src: /sgguide/steinsbanner.jpg
   #width: 300
   height: 100
 ---
@@ -22,67 +22,67 @@ Steins;Gate имеет 6 концовок. 3 из них легко получи
 
 Основа схемы — левая колонка, которая продолжается от начала главы N до её конца, следуя ходу сюжета. Колонки правее поясняют выборы в сообщениях и получаемые бонусы и флаги.
 
-![/steinsgateguide1.jpg](/steinsgateguide1.jpg)
+![/sgguide/steinsgateguide1.jpg](/sgguide/steinsgateguide1.jpg)
 
 ------
 
 ## **ПАРАНОЙЯ ПРЫЖКОВ ВО ВРЕМЕНИ**
 
-![/steinsgateguide2.jpg](/steinsgateguide2.jpg)
+![/sgguide/steinsgateguide2.jpg](/sgguide/steinsgateguide2.jpg)
 
 ------
 
 ## **РАНДЕВУ СЛУЧАЙНЫХ БЛУЖДАНИЙ**
 
-![/steinsgateguide3.jpg](/steinsgateguide3.jpg)
+![/sgguide/steinsgateguide3.jpg](/sgguide/steinsgateguide3.jpg)
 
 ------
 
 ## **ДИВЕРГЕНЦИЯ ЭФФЕКТА БАБОЧКИ**
 
-![/steinsgateguide4.jpg](/steinsgateguide4.jpg)
+![/sgguide/steinsgateguide4.jpg](/sgguide/steinsgateguide4.jpg)
 
 ------
 
 ## **ГОМЕОСТАЗ ГРЁЗ**
 
-![/steinsgateguide5.jpg](/steinsgateguide5.jpg)
+![/sgguide/steinsgateguide5.jpg](/sgguide/steinsgateguide5.jpg)
 
 ------
 
 ## **ДОГМА ГОРИЗОНТА СОБЫТИЙ**
 
-![/steinsgateguide6.jpg](/steinsgateguide6.jpg)
+![/sgguide/steinsgateguide6.jpg](/sgguide/steinsgateguide6.jpg)
 
 ------
 
 ## **НЕКРОЗ МЕТАФИЗИКИ**
 
-![/steinsgateguide7.jpg](/steinsgateguide7.jpg)
+![/sgguide/steinsgateguide7.jpg](/sgguide/steinsgateguide7.jpg)
 
 ------
 
 ## **КОМПЛЕКС ИСКАЖЕНИЯ МНИМОГО ИЗОБРАЖЕНИЯ**
 
-![/steinsgateguide8.jpg](/steinsgateguide8.jpg)
+![/sgguide/steinsgateguide8.jpg](/sgguide/steinsgateguide8.jpg)
 
 ------
 
 ## **АНДРОГЕННЫЙ ФРАКТАЛ**
 
-![/steinsgateguide9.jpg](/steinsgateguide9.jpg)
+![/sgguide/steinsgateguide9.jpg](/sgguide/steinsgateguide9.jpg)
 
 ------
 
 ## **БЕСКОНЕЧНЫЙ АПОПТОЗ**
 
-![/steinsgateguide10.jpg](/steinsgateguide10.jpg)
+![/sgguide/steinsgateguide10.jpg](/sgguide/steinsgateguide10.jpg)
 
 ------
 
 ## **ПЛАВЛЕНИЕ ПРИНЦИПА ПРИЧИННОСТИ / ЧИСТАЯ ЗВЁЗДНАЯ ПЫЛЬ**
 
-![/steinsgateguide11.jpg](/steinsgateguide11.jpg)
+![/sgguide/steinsgateguide11.jpg](/sgguide/steinsgateguide11.jpg)
 
 ------
 

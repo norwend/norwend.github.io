@@ -7,7 +7,7 @@ tags: [Steins;Gate 0]
 math: true
 mermaid: true
 image:
-  src: /steins0banner.jpg
+  src: /sg0img/steins0banner.jpg
   #width: 300
   height: 100
 ---
