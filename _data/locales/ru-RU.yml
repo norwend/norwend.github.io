@@ -23,9 +23,9 @@ search:
   no_results: Ничего не найдено.
 
 panel:
-  lastmod: Недавние:
-  trending_tags: Свежие теги:
-  toc: Контент:
+  lastmod: Недавние
+  trending_tags: Свежие теги
+  toc: Контент
 
 #  The liquid date format › http://strftime.net/
 date_format:
@@ -43,15 +43,15 @@ copyright:
     link: https://creativecommons.org/licenses/by/4.0/
 
   # Displayed in the footer
-  brief: Права защищены.
+  brief: Всё для вас, с любовью и кривотой рук.
   verbose: >-
-   Или не защищены.
-   Зачем вы сюда смотрите вообще?
+   А зачем вы сюда смотрите?
+   Шариться по закоулкам нехорошо, эдак вы и 404 страничку найдёте...
 
 meta: Работает на :PLATFORM с темой :THEME.
 
 not_found:
-  statment: Вы попали на задворки сайта. Ну вот. Доискались? Уходите туда, где ещё есть контент.
+  statment: Доискались? Здесь нечего ловить, уходите туда, где ещё есть контент.
   hint_template: :HEAD_BAK или попробуйте пошариться в :ARCHIVES_PAGE.
   head_back: Вернитесь назад
   archives_page: архивах

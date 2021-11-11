@@ -14,7 +14,7 @@ dynamic_title: true
 {% include lang.html %}
 
 <div class="lead">
-
+ <img src="/404.png" alt="404" />
   {%- capture _head_back -%}
     <a href="{{ '/' | relative_url }}">{{ site.data.locales[lang].not_found.head_back }}</a>
   {%- endcapture -%}
@@ -23,9 +23,9 @@ dynamic_title: true
     <a href="{{ 'archives' | relative_url }}">{{ site.data.locales[lang].not_found.archives_page }}</a>
   {%- endcapture -%}
 
-  <p>{{site.data.locales[lang].not_found.statment }}</p>
+  <p align="middle">{{site.data.locales[lang].not_found.statment }}</p>
 
-  <p>{{ site.data.locales[lang].not_found.hint_template
+  <p align="middle">{{ site.data.locales[lang].not_found.hint_template
     | replace: ':HEAD_BAK', _head_back
     | replace: ':ARCHIVES_PAGE', _archives_page }}
   </p>
