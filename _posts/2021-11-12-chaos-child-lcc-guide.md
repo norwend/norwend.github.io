@@ -358,7 +358,7 @@ image:
 
 Как только вы его получите, вам дадут **платину** за 100% завершение игры:
 
-<img align="left" src="/childchu/24.png" style="padding-right: 1rem; margin-top: 6px; width: 10%;"/> **らぶ・完璧主義者**
+<img align="left" src="/childchu/24.png" style="padding-right: 1rem; margin-top: 6px; /> **らぶ・完璧主義者**
 
 ПЛАТИНА
 
