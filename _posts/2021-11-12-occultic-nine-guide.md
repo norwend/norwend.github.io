@@ -31,7 +31,7 @@ image:
 
 Вскоре после начала игры вы получите ачивку:
 
-<img align="left" src="/nineguide/1.png" style="padding-right: 1rem; margin-top: 4px;"/>  **カリスマアフィブロガー爆誕？**
+<img align="left" src="/nineguide/1.png" style="padding-right: 1rem; margin-top: 0;"/>  **カリスマアフィブロガー爆誕？**
 
 カリスマアフィブロガー爆誕？
 
@@ -45,17 +45,17 @@ image:
 
 Дальше продолжайте скипать и получите ещё две ачивки:
 
-<img align="left" src="/nineguide/2.png" style="padding-right: 1rem; margin-top: 4px;"/> **グラウンド・ゼロ**
+<img align="left" src="/nineguide/2.png" style="padding-right: 1rem; margin-top: 0;"/> **グラウンド・ゼロ**
 
 ――
 
-<img align="left" src="/nineguide/3.png" style="padding-right: 1rem; margin-top: 4px;"/> **パラダイム・シフト**
+<img align="left" src="/nineguide/3.png" style="padding-right: 1rem; margin-top: 0;"/> **パラダイム・シフト**
 
 ――
 
 Дальше вас прервёт появившийся опенинг. Его можно скипнуть, нажав А (на Xbox) или X (на PS). Продолжайте скипать до самого конца игры и титров, их тоже можно скипнуть на A или X. После возвращения в главное меню вы получите ачивку:
 
-<img align="left" src="/nineguide/4.png" style="padding-right: 1rem; margin-top: 4px;"/> **パラダイム・チェンジ**
+<img align="left" src="/nineguide/4.png" style="padding-right: 1rem; margin-top: 0;"/> **パラダイム・チェンジ**
 
 ――
 
@@ -75,7 +75,7 @@ image:
 
 Этим вы откроете ачивку:
 
-<img align="left" src="/nineguide/5.png" style="padding-right: 1rem; margin-top: 4px;"/> **ネタノヒトカケ**
+<img align="left" src="/nineguide/5.png" style="padding-right: 1rem; margin-top: 0;"/> **ネタノヒトカケ**
 
 ――
 
@@ -95,7 +95,7 @@ image:
 
 Сейчас **выберите второй текст** (**コックリさん**), **третью картинку** (круг) и подтвердите выбор. Вам выпадет ачивка:
 
-<img align="left" src="/nineguide/6.png" style="padding-right: 1rem; margin-top: 4px;"/> **ニートになるために**
+<img align="left" src="/nineguide/6.png" style="padding-right: 1rem; margin-top: 0;"/> **ニートになるために**
 
 ――
 
@@ -129,7 +129,7 @@ image:
 
 После шоу вы получите ачивку:
 
-<img align="left" src="/nineguide/7.png" style="padding-right: 1rem; margin-top: 4px;"/> **はじめてのマママ**
+<img align="left" src="/nineguide/7.png" style="padding-right: 1rem; margin-top: 0;"/> **はじめてのマママ**
 
 ――
 
@@ -173,7 +173,7 @@ image:
 
 Вам откроется новая ачивка:
 
-<img align="left" src="/nineguide/8.png" style="padding-right: 1rem; margin-top: 4px;"/> **ニート神降臨！**
+<img align="left" src="/nineguide/8.png" style="padding-right: 1rem; margin-top: 0;"/> **ニート神降臨！**
 
 ――
 
@@ -203,7 +203,7 @@ image:
 
 Настройте радио на **56/05**, после шоу вам откроется ачивка:
 
-<img align="left" src="/nineguide/9.png" style="padding-right: 1rem; margin-top: 4px;"/> **にわか マママ**
+<img align="left" src="/nineguide/9.png" style="padding-right: 1rem; margin-top: 0;"/> **にわか マママ**
 
 ――
 
@@ -213,7 +213,7 @@ image:
 
 Настройте радио на **44/95**, просмотрите шоу и скипайте до конца. По возвращении в главное меню вас ждёт ачивка:
 
-<img align="left" src="/nineguide/10.png" style="padding-right: 1rem; margin-top: 4px;"/> **アルカナ・ドリーム**
+<img align="left" src="/nineguide/10.png" style="padding-right: 1rem; margin-top: 0;"/> **アルカナ・ドリーム**
 
 ――
 
@@ -340,7 +340,7 @@ image:
 
 Настройте радио на **12/87**. Просмотрите кукольное шоу и скипайте до самого конца. После титров, в главном меню, вам выпадет долгожданная ачивка:
 
-<img align="left" src="/nineguide/11.png" style="padding-right: 1rem; margin-top: 4px;"/> **サモナー・ソウル**
+<img align="left" src="/nineguide/11.png" style="padding-right: 1rem; margin-top: 0;"/> **サモナー・ソウル**
 
 ――
 
@@ -454,7 +454,7 @@ image:
 
 Настройте радио на **96/34**, после кукольного шоу откроется ачивка:
 
-<img align="left" src="/nineguide/12.png" style="padding-right: 1rem; margin-top: 4px;"/> **マママ オタク**
+<img align="left" src="/nineguide/12.png" style="padding-right: 1rem; margin-top: 0;"/> **マママ オタク**
 
 ――
 
@@ -488,7 +488,7 @@ image:
 
 Настройте радио на **04/96**. После просмотра кукольного шоу можно скипать до конца. После титров в главном меню вам дадут ачивку:
 
-<img align="left" src="/nineguide/13.png" style="padding-right: 1rem; margin-top: 4px;"/> **ムムー・スマイル**
+<img align="left" src="/nineguide/13.png" style="padding-right: 1rem; margin-top: 0;"/> **ムムー・スマイル**
 
 ――
 
@@ -510,13 +510,13 @@ image:
 
 **СНОВА ПОКА ЧТО НЕ НАСТРАИВАЙТЕ РАДИО!** Сначала **создайте сейв 03.** После чего настройте радио на частоту **72/73**. После кукольного шоу вам дадут ачивку:
 
-<img align="left" src="/nineguide/14.png" style="padding-right: 1rem; margin-top: 4px;"/> **マママ マスター**
+<img align="left" src="/nineguide/14.png" style="padding-right: 1rem; margin-top: 0;"/> **マママ マスター**
 
 ――
 
 Скипайте всю игру до титров, в главном меню дадут ещё ачивку:
 
-<img align="left" src="/nineguide/15.png" style="padding-right: 1rem; margin-top: 4px;"/> **ゴースト・ダブル**
+<img align="left" src="/nineguide/15.png" style="padding-right: 1rem; margin-top: 0;"/> **ゴースト・ダブル**
 
 ――
 
@@ -530,7 +530,7 @@ image:
 
 **Не доставайте радио вообще, скипайте до самого конца**, в главном меню получите ачивку:
 
-<img align="left" src="/nineguide/16.png" style="padding-right: 1rem; margin-top: 4px;"/> **オカルティック・ナイン**
+<img align="left" src="/nineguide/16.png" style="padding-right: 1rem; margin-top: 0;"/> **オカルティック・ナイン**
 
 ――
 
@@ -540,37 +540,37 @@ image:
 
 В главном меню выберите **EXTRA**, а затем **CLEAR LIST**, за это вам дадут ачивки:
 
-<img align="left" src="/nineguide/17.png" style="padding-right: 1rem; margin-top: 4px;"/> **CG/25**
+<img align="left" src="/nineguide/17.png" style="padding-right: 1rem; margin-top: 0;"/> **CG/25**
 
 CGを25％見る
 
-<img align="left" src="/nineguide/18.png" style="padding-right: 1rem; margin-top: 4px;"/> **CG/50**
+<img align="left" src="/nineguide/18.png" style="padding-right: 1rem; margin-top: 0;"/> **CG/50**
 
 CGを50％見る
 
-<img align="left" src="/nineguide/19.png" style="padding-right: 1rem; margin-top: 4px;"/> **CG/75**
+<img align="left" src="/nineguide/19.png" style="padding-right: 1rem; margin-top: 0;"/> **CG/75**
 
 CGを75％見る
 
 Перейдите в то же меню **EXTRA** и выберите **LIBRARY**, за это дадут ачивку:
 
-<img align="left" src="/nineguide/20.png" style="padding-right: 1rem; margin-top: 4px;"/> **CG/Complete**
+<img align="left" src="/nineguide/20.png" style="padding-right: 1rem; margin-top: 0;"/> **CG/Complete**
 
 全てのCGを見る
 
 Перейдите в **SOUND** и вам дадут ещё ачивку:
 
-<img align="left" src="/nineguide/21.png" style="padding-right: 1rem; margin-top: 4px;"/> **SOUND/Complete**
+<img align="left" src="/nineguide/21.png" style="padding-right: 1rem; margin-top: 0;"/> **SOUND/Complete**
 
 全てのSOUNDを聴く
 
 В том же меню экстра выберите **TIPS**, а затем пометьте все 57 терминов прочитанными. За это дадут последнюю ачивку и **платину:**
 
-<img align="left" src="/nineguide/22.png" style="padding-right: 1rem; margin-top: 4px;"/> **TIPS/Complete**
+<img align="left" src="/nineguide/22.png" style="padding-right: 1rem; margin-top: 0;"/> **TIPS/Complete**
 
 全TIPSを見る
 
-<img align="left" src="/nineguide/23.png" style="padding-right: 1rem; margin-top: 4px;"/> **眼クルメク世界ノ終ワリ。**
+<img align="left" src="/nineguide/23.png" style="padding-right: 1rem; margin-top: 0;"/> **眼クルメク世界ノ終ワリ。**
 
 ――
 
