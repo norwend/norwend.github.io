@@ -37,7 +37,6 @@ width: 90%;
 height: auto;
 z-index: 100001;
 margin:0.8rem auto;
-
 transition-property: display;
 transition-duration: 3s;
 -webkit-box-shadow: 0px 0px 20px #000;
@@ -74,16 +73,16 @@ cursor:pointer;
 color: #ee1111;
 }
 
-@media screen and (orientation:portrait) and (max-device-width: 1400px) {
+@media screen and (orientation:portrait) and (max-device-width: 900px) {
 
 .mfp-wrap, .mfp-ready {
-    top: 0 !important;
+
     position: fixed !important;
     height: 100% !important;
 }
 
 .mfp-bg, .mfp-ready {
-top: 0 !important;
+
     height: 100% !important;
     position: fixed !important;
 }

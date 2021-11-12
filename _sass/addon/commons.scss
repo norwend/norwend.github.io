@@ -1112,7 +1112,8 @@ padding-left: 1rem;
 #main > div.row:first-child > div {
   &:nth-child(1),
   &:nth-child(2) {
-    margin-top: $topbar-height; /* same as the height of topbar */
+    margin-top: 0; /* same as the height of topbar 
+    {% include topbar.html %} $topbar-height */
   }
 
   &:first-child {
@@ -1289,7 +1290,7 @@ padding-left: 1rem;
   }
 
   .topbar-up {
-    top: 0 !important;
+    top: -3rem !important;
   }
 
   #main > div.row:first-child > div:nth-child(1),
