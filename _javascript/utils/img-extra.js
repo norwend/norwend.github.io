@@ -2,8 +2,7 @@
   Lazy load images (https://github.com/ApoorvSaxena/lozad.js)
   and popup when clicked (https://github.com/dimsemenov/Magnific-Popup)
 */
-
-$(function() {
+         $(function() {
 
   const IMG_SCOPE = '#main > div.row:first-child > div:first-child';
 
@@ -33,6 +32,7 @@ $(function() {
     type: 'image',
     closeOnContentClick: true,
     showCloseBtn: false,
+    fixedContentPos: true,
     zoom: {
       enabled: true,
       duration: 300,

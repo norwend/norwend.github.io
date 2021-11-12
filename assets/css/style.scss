@@ -74,7 +74,19 @@ cursor:pointer;
 color: #ee1111;
 }
 
-@media screen and (orientation:portrait) and (max-device-width: 1600px) {
+@media screen and (orientation:portrait) and (max-device-width: 1400px) {
+
+.mfp-wrap, .mfp-ready {
+    top: 0 !important;
+    position: fixed !important;
+    height: 100% !important;
+}
+
+.mfp-bg, .mfp-ready {
+top: 0 !important;
+    height: 100% !important;
+    position: fixed !important;
+}
 
 #bg_popup{
 background-color: rgba(0, 0, 0, 0.8);
@@ -140,4 +152,3 @@ color: #ee1111;
 }
 
 }
-
