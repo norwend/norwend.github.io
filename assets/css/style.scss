@@ -180,3 +180,10 @@ color: #ee1111;
 .mfp-img {
     display: inline-block !important;
 }
+
+@media (min-width: 1400px) { 
+#topbar {
+    max-width: 1200px;
+    padding-right: 10rem;
+}
+}
