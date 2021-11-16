@@ -3,7 +3,7 @@ title: Личное обращение Чиёмару Шикуры
 author: Chiyomaru Shikura
 date: 2021-10-26 10:34:00 +0300
 categories: [Чиёмару, Science Adventure]
-tags: [MAGES, Еврей, Финансы, Деньги]
+tags: [MAGES, Еврей]
 ---
 
 ![SPOILER_unknown (2)](/banner.png)
@@ -58,6 +58,6 @@ tags: [MAGES, Еврей, Финансы, Деньги]
 
 Шикура Чиёмару,
 
-основатель Chiyomaru-Studio,
+основатель Chiyomaru Studio,
 
 представительный директор MAGES. LTD
