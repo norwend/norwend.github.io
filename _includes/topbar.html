@@ -10,6 +10,7 @@
 
     {% if paths.size == 0 or page.layout == 'home' %}
       <!-- index page -->
+       <i id="homeicon" class="fas fa-home"></i>
       <span>{{ site.data.locales[lang].tabs.home | capitalize }}</span>
 
     {% else %}
@@ -18,6 +19,7 @@
 
         {% if forloop.first %}
           <span>
+            <i id="homeicon" class="fas fa-home"></i>
             <a href="{{ '/' | relative_url }}">
               {{ site.data.locales[lang].tabs.home | capitalize }}
             </a>
@@ -26,12 +28,15 @@
         {% elsif forloop.last %}
 
           {% if page.collection == 'tabs' %}
+          <i id="homeicon" class="fas fa-folder-open"></i>
             <span>{{ site.data.locales[lang].tabs[item] | default: page.title }}</span>
           {% else %}
+          <i id="homeicon" class="fas fa-feather"></i>
             <span>{{ page.title }}</span>
           {% endif %}
 
         {% elsif page.layout == 'category' or page.layout == 'tag' %}
+        <i id="homeicon" class="fas fa-hashtag"></i>
           <span>
             <a href="{{ item | relative_url }}">
               {{ site.data.locales[lang].tabs[item] | default: page.title }}
@@ -49,11 +54,14 @@
 
     <div id="topbar-title">
       {% if page.layout == 'home' %}
+      <i id="homeicon" class="fas fa-home"></i>
         {{- site.data.locales[lang].title | default: site.title -}}
       {% elsif page.collection == 'tabs' %}
+      <i id="homeicon" class="fas fa-folder-open"></i>
         {%- capture tab_key -%}{{ page.url | split: '/' }}{%- endcapture -%}
         {{- site.data.locales[lang].tabs[tab_key] | default: page.title -}}
       {% else %}
+      <i id="homeicon" class="fas fa-feather"></i>
         {{- site.data.locales[lang].layout[page.layout] | default: page.layout | capitalize -}}
       {% endif %}
     </div>

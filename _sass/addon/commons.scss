@@ -1304,6 +1304,10 @@ padding-left: 1rem;
     display: block;
   }
 
+  #topbar-title i {
+  padding-right: 0.4rem;
+  }
+
   #search-wrapper {
     &.loaded ~ a {
       margin-right: 1rem;
@@ -1494,7 +1498,6 @@ padding-left: 1rem;
 
   #topbar {
     padding: 0;
-    max-width: 1070px;
   }
 
   #panel-wrapper {

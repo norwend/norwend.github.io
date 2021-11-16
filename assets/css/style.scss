@@ -165,3 +165,16 @@ color: #ee1111;
 .mfp-content {
     vertical-align: inherit !important;
 }
+
+.homeicon {
+    color: var(--topbar-icon-color);
+    padding-right: 50px;
+}
+
+#topbar span {
+    padding-left: 0.3rem;
+}
+
+#topbar a {
+    padding-left: 0.3rem;
+}
