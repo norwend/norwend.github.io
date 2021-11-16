@@ -79,6 +79,11 @@ color: #ee1111;
 
     position: fixed !important;
     height: 100% !important;
+    top: 0 !important;
+}
+
+.mfp-img {
+    display: inline-block !important;
 }
 
 .mfp-bg, .mfp-ready {
@@ -155,4 +160,8 @@ color: #ee1111;
 
 .w-100 {
     margin-bottom: 0;
+}
+
+.mfp-content {
+    vertical-align: inherit !important;
 }
