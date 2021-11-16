@@ -922,7 +922,7 @@ padding-left: 1rem;
 
 #topbar {
   i { // icons
-    color: black;
+    color: var(--topbar-icon-color);
   }
 
   #breadcrumb {
