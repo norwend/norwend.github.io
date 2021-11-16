@@ -53,7 +53,7 @@ meta: Работает на :PLATFORM с темой :THEME.
 not_found:
   statment: Доискались? Здесь нечего ловить, уходите туда, где ещё есть контент.
   hint_template: :HEAD_BAK или попробуйте пошариться в :ARCHIVES_PAGE.
-  head_back: Вернитесь назад
+  head_back: Вернитесь на главную
   archives_page: архивах
 
 # ----- Posts related labels -----
