@@ -8,12 +8,12 @@ redirect_from:
   - /assets/
   - /posts/
 
-dynamic_title: true
+dynamic_title: false
 ---
 
 {% include lang.html %}
 
-<div class="lead">
+<div class="lead" style="margin-top: 10%;">
  <img src="/404.png" alt="404" />
   {%- capture _head_back -%}
     <a href="{{ '/' | relative_url }}">{{ site.data.locales[lang].not_found.head_back }}</a>
