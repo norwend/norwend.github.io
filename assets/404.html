@@ -23,7 +23,7 @@ dynamic_title: false
     <a href="{{ 'archives' | relative_url }}">{{ site.data.locales[lang].not_found.archives_page }}</a>
   {%- endcapture -%}
 
-  <p align="middle">{{site.data.locales[lang].not_found.statment }}</p>
+  <p align="middle" style="margin-top: 1rem;">{{site.data.locales[lang].not_found.statment }}</p>
 
   <p align="middle">{{ site.data.locales[lang].not_found.hint_template
     | replace: ':HEAD_BAK', _head_back
