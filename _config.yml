@@ -31,7 +31,7 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://alphachan.tk'
 
 github:
-  username: https://discord.gg/QPHhj7HkGz             # ссылка на дискорд
+  username: https://discord.gg/CGbUzMf4KV             # ссылка на дискорд
 
 twitter:
   username: https://2ch.hk/vn/res/585878.html            # ссылка на тред
@@ -43,7 +43,7 @@ social:
   email: hiyajo.maho@rambler.ru             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://discord.gg/QPHhj7HkGz      # change to your twitter homepage
+    - https://discord.gg/CGbUzMf4KV      # change to your twitter homepage
     - https://2ch.hk/vn/res/585878.html      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
