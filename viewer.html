@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+    <!-- 
+        Здесь ничего нет
+
+        Абсолютно точно ничего нет!
+    -->
+
+    <head>
+        <title>Секрет ❤</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+        <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicons/favicon-16x16.png">
+<link rel="manifest" href="/assets/img/favicons/site.webmanifest">
+<link rel="mask-icon" href="/assets/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#00a300">
+<meta name="msapplication-config" content="/assets/img/favicons/browserconfig.xml">
+<meta property="og:image" content="/assets/img/favicons/bookmark.png"/>
+<meta property="og:title" content="Альфачан - сайт о Science Adventure">
+<meta property="og:type" content="article">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta itemprop="image" content="/assets/img/favicons/bookmark.png">
+<meta property="vk:image" content="/assets/img/favicons/bookmark.png"/>
+<meta property="twitter:image" content="/assets/img/favicons/bookmark.png"/>
+<meta property="facebook:image" content="/assets/img/favicons/bookmark.png"/>
+
+        <style>
+            body {
+                margin: 0px;
+                background-color: #000;
+                overflow: hidden;
+            }
+
+            #progress {
+                position: absolute;
+                width: 100%;
+                text-align: center;
+                font-family: monospace;
+                font-size: 1.2em;
+                top: 2em;
+            }
+        </style>
+    </head>
+    <body>
+        <link rel="stylesheet" type="text/css" href="dat.gui.css">
+        <script src="js/dat.gui.min.js"></script>
+        <script src="js/three.js"></script>
+        <script src="js/OutlineEffect.js"></script>
+        <script src="js/OrbitControls.js"></script>
+        <script src="js/MonkeyPatchLightingModel.js"></script>
+        <script src="js/GXTLoader.js"></script>
+        <script src="js/RNEModelLoader.js"></script>
+        <script src="js/RNEAnimLoader.js"></script>
+        <script src="js/RNEAnimPlayer.js"></script>
+        <script src="js/allModels.js"></script>
+
+        <script>
+
+            var first = true;
+
+            var defaults = {
+                repeatOffset: 210,
+                introOffset: 0
+            }
+
+            var config = {
+                targetModel: "Кай в костюме",
+                targetAnim: "0001",
+                repeatOffset: 210,
+                introOffset: 0,
+                playbackSpeed: 1,
+                tweening: false,
+                background: true
+            };
+
+            function onProgress(xhr) {
+                document.getElementById('progress').innerText = "Загрузка: " + (xhr.loaded / xhr.total * 100).toFixed(2) + "%";
+            }
+
+            function onModelLoad(name) {
+                return function(result) {
+                    if (name != config.targetModel) return;
+
+                    document.getElementById('progress').innerText = "";
+
+                    config.targetAnim = "0001";
+
+                    new RNEAnimLoader().load('models/' + name + '/' + config.targetAnim, function(animResult) {
+                        if (animController) gui.remove(animController);
+                        animController = gui.add(config, 'targetAnim', allModels[name]).name("Анимация").onFinishChange(function(newValue) {
+                            config.targetAnim = newValue;
+                            new RNEAnimLoader().load('models/' + name + '/' + newValue, onAnimLoad(name, newValue, result));
+                        });
+                        onAnimLoad(name, config.targetAnim, result)(animResult);
+                    }, onProgress);
+                };
+            }
+
+            function onAnimLoad(modelName, animName, loadedModel) {
+                return function(result) {
+                    if (modelName != config.targetModel || animName != config.targetAnim) return;
+
+                    document.getElementById('progress').innerText = "";
+
+                    if (mesh) scene.remove(mesh);
+                    scene.add(loadedModel.model);
+                    mesh = loadedModel.model;
+                    meshGroups = loadedModel.meshGroups; // only for debug
+
+                    if (repeatController) gui.remove(repeatController);
+                    repeatController = gui.add(config, 'repeatOffset').min(0).max(result.duration / 30).step(1).name("Проигрывать кадров");
+                    repeatController.setValue(defaults.repeatOffset < result.duration / 30 ? defaults.repeatOffset : 0);
+
+                    player = new RNEAnimPlayer(loadedModel.model, loadedModel.meshGroups, result, config.repeatOffset * 30, config.introOffset * 30);
+                }
+            }
+
+            var camera, scene, renderer, controls, effect, ambientLight, bgTexture, meshGroups;
+
+            var gui = new dat.GUI();
+            var repeatController, modelController, animController;
+
+            var mesh = null;
+            var player = null;
+            var t = window.performance.now();
+
+            init();
+            animate();
+
+            function init() {
+
+                gui.width = 300;
+
+                gui.add(config, 'playbackSpeed', 0.25, 4.0, 0.25).name("Скорость анимации");
+                modelController = gui.add(config, 'targetModel', Object.keys(allModels)).name("Персонаж").onFinishChange(function(newValue) {
+                    config.targetModel = newValue;
+                    if (animController) gui.remove(animController);
+                    animController = null;
+                    new RNEModelLoader().load('models/' + newValue + '/0000', onModelLoad(newValue));
+                }, onProgress);
+                gui.add(window, 'resetCamera').name("Сбросить камеру");
+                gui.add(config, 'tweening').name("Сглаживание");
+
+                camera = new THREE.PerspectiveCamera( 70, window.innerWidth / window.innerHeight, 0.1, 100 );
+
+                bgTexture = new THREE.TextureLoader().load("flatbg.png");
+                scene = new THREE.Scene();
+                scene.background = bgTexture;
+
+                new RNEModelLoader().load('models/Кай в костюме/0000', onModelLoad('Кай в костюме'));
+
+                ambientLight = new THREE.AmbientLight(0xC8AB99);
+                scene.add(ambientLight);
+                light = new THREE.DirectionalLight(0xFFFFFF, 1.0);
+                light.position.set(1,1,1);
+                scene.add(light);
+
+                gui.add(config, 'background').name('Фон').onFinishChange(function(newValue) {
+                    if (newValue) {
+                        scene.background = bgTexture;
+                        ambientLight.color = new THREE.Color(0xC8AB99);
+                    } else {
+                        scene.background = new THREE.Color(0xA0A0A0);
+                        ambientLight.color = new THREE.Color(0xC0C0C0);
+                    }
+                });
+
+                var grid = new THREE.GridHelper( 100, 20, 0x000000, 0x000000 );
+                grid.material.opacity = 0.2;
+                grid.material.transparent = true;
+                scene.add( grid );
+
+                renderer = new THREE.WebGLRenderer( { antialias: true } );
+                renderer.setPixelRatio( window.devicePixelRatio );
+                renderer.setSize( window.innerWidth, window.innerHeight );
+                document.body.appendChild( renderer.domElement );
+
+                // TODO accurate parameters, see also material params in RNEModelLoader
+                // TODO modify OutlineEffect to use Shader_Line.gxt? (colored perlin noise)
+                // TODO not render on things like aki's skirt (...model file data?)
+                effect = new THREE.OutlineEffect(renderer, {
+                    defaultThickness: 0.001,
+                    defaultColor: new THREE.Color(0.4648, 0.2773, 0.2227)
+                });
+
+                controls = new THREE.OrbitControls(camera, renderer.domElement);
+                resetCamera();
+
+                window.addEventListener( 'resize', onWindowResize, false );
+            }
+
+            function onWindowResize() {
+
+                camera.aspect = window.innerWidth / window.innerHeight;
+                camera.updateProjectionMatrix();
+                controls.update();
+
+                renderer.setSize( window.innerWidth, window.innerHeight );
+
+            }
+
+            function resetCamera() {
+                camera.position.x = 0;
+                camera.position.y = 12;
+                camera.position.z = 12;
+                controls.target = new THREE.Vector3(0,10,0);
+                controls.update();
+            }
+
+            function animate() {
+                var t2 = window.performance.now();
+                var dt = t2 - t;
+                t = t2;
+                if (player) {
+                    player.tweening = config.tweening;
+                    player.repeatOffset = config.repeatOffset * 30;
+                    player.introOffset = config.introOffset * 30;
+                    player.update(config.playbackSpeed * dt);
+                }
+                // TODO: update all materials' ambientWeight/darkMode and put them in GUI
+                requestAnimationFrame( animate );
+                effect.render( scene, camera );
+
+            }
+
+        </script>
+
+        <div id="progress"></div>
+
+    </body>
+</html>
