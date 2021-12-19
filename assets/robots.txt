@@ -7,4 +7,14 @@ User-agent: *
 
 Disallow: /norobots/
 
+User-agent: Yandex
+Disallow: /categories
+Disallow: /google5c666f6180731acd.html
+Disallow: /tags
+
+User-agent: Google
+Disallow: /categories
+Disallow: /tags
+Disallow: /yandex_6a28531c82aee085.html
+
 Sitemap: {{ '/sitemap.xml' | absolute_url }}
