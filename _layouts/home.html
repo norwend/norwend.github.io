@@ -38,6 +38,8 @@ layout: page
 <meta property="vk:image" content="/assets/img/favicons/bookmark.png"/>
 <meta property="twitter:image" content="/assets/img/favicons/bookmark.png"/>
 <meta property="facebook:image" content="/assets/img/favicons/bookmark.png"/>
+<meta property="og:description" content={% include no-linenos.html content=post.content %} {{ content | markdownify | strip_html | truncate: 200 }}/>
+
 
 {% include lang.html %}
 
